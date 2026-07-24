@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-07-24T09:41:46.348Z",
+  "lastUpdate": "2026-07-24T20:25:00.726Z",
   "totalItems": 150,
-  "totalArchived": 105454,
-  "newPapersAdded": 198,
+  "totalArchived": 105657,
+  "newPapersAdded": 203,
   "institutionBreakdown": {
-    "KAIST": 17,
-    "SNU": 75,
+    "KAIST": 13,
+    "SNU": 63,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 72,
-    "IBS": 4,
-    "UNIST": 4,
-    "Hanyang University": 7,
-    "KIST": 1,
-    "GIST": 4,
-    "Kyung Hee University": 3,
-    "Pusan National University": 3
+    "POSTECH": 3,
+    "Korea University": 50,
+    "IBS": 48,
+    "UNIST": 0,
+    "Hanyang University": 3,
+    "KIST": 0,
+    "GIST": 7,
+    "Kyung Hee University": 5,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 36,
-    "Multidisciplinary": 67,
-    "Materials Science": 13,
-    "Neuroscience": 6,
-    "Cancer Research": 23,
-    "Computer Science": 5
+    "Multidisciplinary": 75,
+    "Biomedical": 32,
+    "Neuroscience": 9,
+    "Cancer Research": 26,
+    "Materials Science": 4,
+    "Computer Science": 4
   },
-  "multiInstitutional": 29,
+  "multiInstitutional": 28,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Assessment of change in limb length following correction of coronal and sagittal plane deformities in patients undergoing total knee arthroplasty: a retrospective study",
+    "title": "A review of ultrasonic pasteurization in milk and milk-based beverages using different ultrasound systems and thermal conditions: from mechanistic insights to regulatory challenges",
     "date": "2026-07-24T10:00:00.000Z",
     "institutions": [
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
