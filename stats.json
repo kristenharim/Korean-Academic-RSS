@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-07-24T20:25:00.726Z",
+  "lastUpdate": "2026-07-25T09:16:35.389Z",
   "totalItems": 150,
-  "totalArchived": 105657,
-  "newPapersAdded": 203,
+  "totalArchived": 105813,
+  "newPapersAdded": 156,
   "institutionBreakdown": {
-    "KAIST": 13,
-    "SNU": 63,
+    "KAIST": 18,
+    "SNU": 95,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 50,
-    "IBS": 48,
-    "UNIST": 0,
-    "Hanyang University": 3,
-    "KIST": 0,
+    "POSTECH": 4,
+    "Korea University": 61,
+    "IBS": 7,
+    "UNIST": 1,
+    "Hanyang University": 4,
+    "KIST": 2,
     "GIST": 7,
-    "Kyung Hee University": 5,
+    "Kyung Hee University": 6,
     "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 75,
-    "Biomedical": 32,
-    "Neuroscience": 9,
-    "Cancer Research": 26,
-    "Materials Science": 4,
-    "Computer Science": 4
+    "Biomedical": 36,
+    "Multidisciplinary": 79,
+    "Neuroscience": 7,
+    "Computer Science": 6,
+    "Cancer Research": 20,
+    "Materials Science": 2
   },
-  "multiInstitutional": 28,
+  "multiInstitutional": 36,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "A review of ultrasonic pasteurization in milk and milk-based beverages using different ultrasound systems and thermal conditions: from mechanistic insights to regulatory challenges",
+    "title": "Effects of Pulsatile Flow on Fractional Flow Reserve Assessed Using a Reduced-Order Model",
     "date": "2026-07-24T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "SNU"
     ]
   }
 }
