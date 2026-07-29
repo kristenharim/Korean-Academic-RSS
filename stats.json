@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-07-28T20:20:34.401Z",
+  "lastUpdate": "2026-07-29T10:07:21.758Z",
   "totalItems": 150,
-  "totalArchived": 107019,
-  "newPapersAdded": 331,
+  "totalArchived": 107207,
+  "newPapersAdded": 188,
   "institutionBreakdown": {
-    "KAIST": 33,
+    "KAIST": 42,
     "SNU": 100,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 38,
-    "IBS": 2,
-    "UNIST": 0,
+    "Korea University": 29,
+    "IBS": 6,
+    "UNIST": 1,
     "Hanyang University": 5,
-    "KIST": 0,
+    "KIST": 1,
     "GIST": 2,
-    "Kyung Hee University": 9,
-    "Pusan National University": 1
+    "Kyung Hee University": 13,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 63,
-    "Materials Science": 14,
-    "Cancer Research": 18,
-    "Computer Science": 6,
-    "Biomedical": 44,
-    "Neuroscience": 5
+    "Materials Science": 9,
+    "Multidisciplinary": 84,
+    "Cancer Research": 14,
+    "Computer Science": 9,
+    "Biomedical": 30,
+    "Neuroscience": 4
   },
-  "multiInstitutional": 33,
+  "multiInstitutional": 45,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Quantum computing-assisted validation of a conserved macrophage suppression module shared by ASFV and PEDV",
+    "title": "Investigating Charge-Carrier Dynamics in Heteroatom-Functionalized Triphenylamine Hole Transport Materials for Perovskite Solar Cells",
     "date": "2026-07-28T10:00:00.000Z",
     "institutions": [
+      "GIST",
       "IBS",
-      "KAIST",
-      "SNU"
+      "KAIST"
     ]
   }
 }
