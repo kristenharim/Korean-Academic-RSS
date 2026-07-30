@@ -1,32 +1,31 @@
 {
-  "lastUpdate": "2026-07-30T09:57:22.780Z",
+  "lastUpdate": "2026-07-30T20:19:26.185Z",
   "totalItems": 150,
-  "totalArchived": 107568,
-  "newPapersAdded": 197,
+  "totalArchived": 107749,
+  "newPapersAdded": 181,
   "institutionBreakdown": {
-    "KAIST": 22,
-    "SNU": 86,
+    "KAIST": 9,
+    "SNU": 48,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 62,
-    "IBS": 4,
-    "UNIST": 0,
-    "Hanyang University": 8,
+    "Korea University": 40,
+    "IBS": 75,
+    "UNIST": 1,
+    "Hanyang University": 6,
     "KIST": 2,
     "GIST": 2,
-    "Kyung Hee University": 7,
-    "Pusan National University": 1
+    "Kyung Hee University": 3,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 67,
-    "Biomedical": 42,
-    "Cancer Research": 24,
-    "Neuroscience": 9,
-    "Materials Science": 5,
-    "Computer Science": 3
+    "Multidisciplinary": 84,
+    "Materials Science": 10,
+    "Biomedical": 39,
+    "Cancer Research": 12,
+    "Neuroscience": 5
   },
-  "multiInstitutional": 34,
+  "multiInstitutional": 24,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +43,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Chromosome-scale Genome Assembly and Annotation of Anise Hyssop (Agastache foeniculum)",
-    "date": "2026-07-29T10:00:00.000Z",
+    "title": "Hole-Activated Lattice Oxygen Enables Pt-Free Propane Dehydrogenation by Eliminating the Hydrogen Recombination Bottleneck",
+    "date": "2026-07-30T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "Kyung Hee University",
+      "SNU"
     ]
   }
 }
