@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-07-29T20:14:55.393Z",
+  "lastUpdate": "2026-07-30T09:57:22.780Z",
   "totalItems": 150,
-  "totalArchived": 107371,
-  "newPapersAdded": 164,
+  "totalArchived": 107568,
+  "newPapersAdded": 197,
   "institutionBreakdown": {
-    "KAIST": 12,
-    "SNU": 39,
+    "KAIST": 22,
+    "SNU": 86,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 30,
-    "IBS": 88,
+    "Korea University": 62,
+    "IBS": 4,
     "UNIST": 0,
-    "Hanyang University": 5,
+    "Hanyang University": 8,
     "KIST": 2,
     "GIST": 2,
-    "Kyung Hee University": 3,
-    "Pusan National University": 0
+    "Kyung Hee University": 7,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Neuroscience": 11,
-    "Multidisciplinary": 79,
-    "Biomedical": 34,
-    "Materials Science": 7,
-    "Computer Science": 6,
-    "Cancer Research": 13
+    "Multidisciplinary": 67,
+    "Biomedical": 42,
+    "Cancer Research": 24,
+    "Neuroscience": 9,
+    "Materials Science": 5,
+    "Computer Science": 3
   },
-  "multiInstitutional": 20,
+  "multiInstitutional": 34,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "CASCADE: Criticality Avalanche Spike Cross-platform Analysis Detection Engine, a Multi-Manufacturer MEA Bash Analysis Pipeline",
+    "title": "Chromosome-scale Genome Assembly and Annotation of Anise Hyssop (Agastache foeniculum)",
     "date": "2026-07-29T10:00:00.000Z",
     "institutions": [
       "IBS",
