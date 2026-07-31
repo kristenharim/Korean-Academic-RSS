@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-07-31T10:03:38.612Z",
+  "lastUpdate": "2026-07-31T20:25:33.233Z",
   "totalItems": 150,
-  "totalArchived": 107916,
-  "newPapersAdded": 167,
+  "totalArchived": 108096,
+  "newPapersAdded": 180,
   "institutionBreakdown": {
-    "KAIST": 19,
-    "SNU": 84,
+    "KAIST": 12,
+    "SNU": 49,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 70,
-    "IBS": 8,
-    "UNIST": 1,
-    "Hanyang University": 7,
+    "POSTECH": 1,
+    "Korea University": 29,
+    "IBS": 75,
+    "UNIST": 0,
+    "Hanyang University": 4,
     "KIST": 2,
-    "GIST": 5,
-    "Kyung Hee University": 4,
-    "Pusan National University": 0
+    "GIST": 2,
+    "Kyung Hee University": 1,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 89,
-    "Neuroscience": 5,
-    "Biomedical": 29,
-    "Materials Science": 10,
-    "Cancer Research": 13,
-    "Computer Science": 4
+    "Neuroscience": 3,
+    "Multidisciplinary": 90,
+    "Cancer Research": 17,
+    "Biomedical": 32,
+    "Materials Science": 5,
+    "Computer Science": 3
   },
-  "multiInstitutional": 39,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Conditional automaticity of memory-driven attention: Dissociable effects on reaction time and accuracy",
-    "date": "2026-07-30T10:00:00.000Z",
+    "title": "A Ubiquitous Blood Flow Biomarker to Calculate Hypoxic-Ischemic Depolarization Latency in a Mouse Model of Focal Ischemic Stroke: Insight Into Metabolic and Electrophysiological Resilience",
+    "date": "2026-07-31T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
