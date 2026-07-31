@@ -1,31 +1,32 @@
 {
-  "lastUpdate": "2026-07-30T20:19:26.185Z",
+  "lastUpdate": "2026-07-31T10:03:38.612Z",
   "totalItems": 150,
-  "totalArchived": 107749,
-  "newPapersAdded": 181,
+  "totalArchived": 107916,
+  "newPapersAdded": 167,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 48,
+    "KAIST": 19,
+    "SNU": 84,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 40,
-    "IBS": 75,
+    "POSTECH": 2,
+    "Korea University": 70,
+    "IBS": 8,
     "UNIST": 1,
-    "Hanyang University": 6,
+    "Hanyang University": 7,
     "KIST": 2,
-    "GIST": 2,
-    "Kyung Hee University": 3,
+    "GIST": 5,
+    "Kyung Hee University": 4,
     "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 84,
+    "Multidisciplinary": 89,
+    "Neuroscience": 5,
+    "Biomedical": 29,
     "Materials Science": 10,
-    "Biomedical": 39,
-    "Cancer Research": 12,
-    "Neuroscience": 5
+    "Cancer Research": 13,
+    "Computer Science": 4
   },
-  "multiInstitutional": 24,
+  "multiInstitutional": 39,
   "institutions": [
     "KAIST",
     "SNU",
@@ -43,13 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Hole-Activated Lattice Oxygen Enables Pt-Free Propane Dehydrogenation by Eliminating the Hydrogen Recombination Bottleneck",
+    "title": "Conditional automaticity of memory-driven attention: Dissociable effects on reaction time and accuracy",
     "date": "2026-07-30T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "Kyung Hee University",
-      "SNU"
+      "KAIST"
     ]
   }
 }
