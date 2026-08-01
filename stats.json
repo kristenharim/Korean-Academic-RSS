@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-07-31T20:25:33.233Z",
+  "lastUpdate": "2026-08-01T09:30:28.889Z",
   "totalItems": 150,
-  "totalArchived": 108096,
-  "newPapersAdded": 180,
+  "totalArchived": 108241,
+  "newPapersAdded": 145,
   "institutionBreakdown": {
-    "KAIST": 12,
-    "SNU": 49,
+    "KAIST": 13,
+    "SNU": 73,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 29,
-    "IBS": 75,
+    "Korea University": 54,
+    "IBS": 28,
     "UNIST": 0,
-    "Hanyang University": 4,
+    "Hanyang University": 5,
     "KIST": 2,
-    "GIST": 2,
+    "GIST": 3,
     "Kyung Hee University": 1,
-    "Pusan National University": 1
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Neuroscience": 3,
-    "Multidisciplinary": 90,
-    "Cancer Research": 17,
-    "Biomedical": 32,
-    "Materials Science": 5,
-    "Computer Science": 3
+    "Multidisciplinary": 76,
+    "Neuroscience": 5,
+    "Cancer Research": 26,
+    "Biomedical": 35,
+    "Materials Science": 7,
+    "Computer Science": 1
   },
-  "multiInstitutional": 20,
+  "multiInstitutional": 27,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,9 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "A Ubiquitous Blood Flow Biomarker to Calculate Hypoxic-Ischemic Depolarization Latency in a Mouse Model of Focal Ischemic Stroke: Insight Into Metabolic and Electrophysiological Resilience",
+    "title": "In Memoriam: Dr. Wan-Kyu Cho, Pioneer of Developmental Biology and Architect of Korean Science",
     "date": "2026-07-31T10:00:00.000Z",
     "institutions": [
-      "IBS",
       "KAIST"
     ]
   }
