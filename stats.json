@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-01T20:12:33.445Z",
+  "lastUpdate": "2026-08-02T09:30:45.738Z",
   "totalItems": 150,
-  "totalArchived": 108300,
-  "newPapersAdded": 59,
+  "totalArchived": 108467,
+  "newPapersAdded": 167,
   "institutionBreakdown": {
-    "KAIST": 14,
-    "SNU": 77,
+    "KAIST": 3,
+    "SNU": 31,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 36,
-    "IBS": 42,
+    "Korea University": 45,
+    "IBS": 81,
     "UNIST": 0,
-    "Hanyang University": 5,
-    "KIST": 2,
-    "GIST": 4,
-    "Kyung Hee University": 1,
+    "Hanyang University": 3,
+    "KIST": 1,
+    "GIST": 1,
+    "Kyung Hee University": 2,
     "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
+    "Materials Science": 9,
     "Cancer Research": 20,
-    "Multidisciplinary": 79,
-    "Biomedical": 37,
-    "Neuroscience": 7,
-    "Computer Science": 3,
-    "Materials Science": 4
+    "Multidisciplinary": 83,
+    "Biomedical": 33,
+    "Neuroscience": 2,
+    "Computer Science": 3
   },
-  "multiInstitutional": 28,
+  "multiInstitutional": 14,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Radiotherapy reduces ATP-mediated relaxation in human rectal smooth muscle",
+    "title": "Potential Solar Precursors to Magnetic Switchbacks",
     "date": "2026-08-01T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST",
-      "SNU"
+      "KAIST"
     ]
   }
 }
