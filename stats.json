@@ -1,31 +1,32 @@
 {
-  "lastUpdate": "2026-08-02T20:14:14.241Z",
+  "lastUpdate": "2026-08-03T10:53:36.487Z",
   "totalItems": 150,
-  "totalArchived": 108542,
-  "newPapersAdded": 75,
+  "totalArchived": 108689,
+  "newPapersAdded": 147,
   "institutionBreakdown": {
-    "KAIST": 3,
-    "SNU": 36,
+    "KAIST": 5,
+    "SNU": 39,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 46,
-    "IBS": 75,
-    "UNIST": 0,
-    "Hanyang University": 3,
+    "POSTECH": 0,
+    "Korea University": 21,
+    "IBS": 98,
+    "UNIST": 1,
+    "Hanyang University": 1,
     "KIST": 1,
-    "GIST": 1,
-    "Kyung Hee University": 2,
-    "Pusan National University": 2
+    "GIST": 2,
+    "Kyung Hee University": 4,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 90,
-    "Cancer Research": 20,
-    "Materials Science": 9,
-    "Biomedical": 25,
-    "Neuroscience": 6
+    "Biomedical": 31,
+    "Multidisciplinary": 84,
+    "Cancer Research": 21,
+    "Computer Science": 1,
+    "Neuroscience": 4,
+    "Materials Science": 9
   },
-  "multiInstitutional": 14,
+  "multiInstitutional": 22,
   "institutions": [
     "KAIST",
     "SNU",
@@ -43,10 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Recent Advances in Cryogel Applications for Musculoskeleatal Regeneration",
-    "date": "2026-08-02T10:00:00.000Z",
+    "title": "Negative pressure wound therapy versus conventional tie-over dressing for split-thickness skin graft fixation: A retrospective comparative study with defect size-based subgroup analysis",
+    "date": "2026-08-03T10:00:00.000Z",
     "institutions": [
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
