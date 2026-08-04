@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-04T10:06:53.248Z",
+  "lastUpdate": "2026-08-04T20:37:40.008Z",
   "totalItems": 150,
-  "totalArchived": 108973,
-  "newPapersAdded": 155,
+  "totalArchived": 109175,
+  "newPapersAdded": 202,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 85,
+    "KAIST": 11,
+    "SNU": 72,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 51,
-    "IBS": 23,
-    "UNIST": 1,
-    "Hanyang University": 8,
-    "KIST": 1,
+    "POSTECH": 2,
+    "Korea University": 40,
+    "IBS": 52,
+    "UNIST": 0,
+    "Hanyang University": 7,
+    "KIST": 2,
     "GIST": 3,
-    "Kyung Hee University": 11,
-    "Pusan National University": 3
+    "Kyung Hee University": 3,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 87,
-    "Cancer Research": 18,
-    "Biomedical": 32,
-    "Computer Science": 3,
-    "Neuroscience": 4,
-    "Materials Science": 6
+    "Multidisciplinary": 69,
+    "Computer Science": 6,
+    "Materials Science": 9,
+    "Biomedical": 35,
+    "Cancer Research": 20,
+    "Neuroscience": 11
   },
-  "multiInstitutional": 35,
+  "multiInstitutional": 32,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Defect-mediated generation-recombination dynamics governing conductance response in floating-body transistors",
+    "title": "NEK2 is essential for spindle assembly checkpoint regulation and cytoskeleton organization in porcine oocyte meiotic maturation",
     "date": "2026-08-04T10:00:00.000Z",
     "institutions": [
-      "Hanyang University",
+      "IBS",
+      "KAIST",
+      "Pusan National University",
       "SNU"
     ]
   }
