@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-04T20:37:40.008Z",
+  "lastUpdate": "2026-08-05T10:04:13.147Z",
   "totalItems": 150,
-  "totalArchived": 109175,
-  "newPapersAdded": 202,
+  "totalArchived": 109319,
+  "newPapersAdded": 144,
   "institutionBreakdown": {
-    "KAIST": 11,
-    "SNU": 72,
+    "KAIST": 18,
+    "SNU": 100,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 40,
-    "IBS": 52,
+    "POSTECH": 3,
+    "Korea University": 54,
+    "IBS": 9,
     "UNIST": 0,
-    "Hanyang University": 7,
+    "Hanyang University": 6,
     "KIST": 2,
-    "GIST": 3,
-    "Kyung Hee University": 3,
+    "GIST": 5,
+    "Kyung Hee University": 4,
     "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 69,
-    "Computer Science": 6,
-    "Materials Science": 9,
-    "Biomedical": 35,
-    "Cancer Research": 20,
-    "Neuroscience": 11
+    "Multidisciplinary": 67,
+    "Cancer Research": 22,
+    "Materials Science": 11,
+    "Computer Science": 4,
+    "Biomedical": 36,
+    "Neuroscience": 10
   },
-  "multiInstitutional": 32,
+  "multiInstitutional": 42,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,13 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "NEK2 is essential for spindle assembly checkpoint regulation and cytoskeleton organization in porcine oocyte meiotic maturation",
-    "date": "2026-08-04T10:00:00.000Z",
+    "title": "A spatiotemporal U-Net++ deep learning framework for dengue risk mapping in Colombia",
+    "date": "2026-08-05T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST",
-      "Pusan National University",
-      "SNU"
+      "IBS"
     ]
   }
 }
