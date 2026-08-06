@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-05T20:35:58.356Z",
+  "lastUpdate": "2026-08-06T10:05:47.764Z",
   "totalItems": 150,
-  "totalArchived": 109485,
-  "newPapersAdded": 166,
+  "totalArchived": 109618,
+  "newPapersAdded": 133,
   "institutionBreakdown": {
-    "KAIST": 5,
-    "SNU": 55,
+    "KAIST": 8,
+    "SNU": 74,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 30,
-    "IBS": 88,
+    "POSTECH": 2,
+    "Korea University": 47,
+    "IBS": 47,
     "UNIST": 0,
-    "Hanyang University": 1,
-    "KIST": 0,
+    "Hanyang University": 3,
+    "KIST": 4,
     "GIST": 2,
-    "Kyung Hee University": 4,
-    "Pusan National University": 2
+    "Kyung Hee University": 5,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Neuroscience": 9,
-    "Biomedical": 33,
-    "Multidisciplinary": 82,
+    "Multidisciplinary": 75,
+    "Neuroscience": 7,
+    "Biomedical": 39,
     "Materials Science": 14,
-    "Computer Science": 4,
-    "Cancer Research": 8
+    "Computer Science": 3,
+    "Cancer Research": 12
   },
-  "multiInstitutional": 30,
+  "multiInstitutional": 34,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Noise-Tunable Memristor Enabling Programmable Probabilistic Neurons for Frequency-Selective Time-Series Signal Encoding",
+    "title": "Catalytic Stereochemical Relay for the Enantioselective Synthesis of Acyclic Quaternary Stereocenters",
     "date": "2026-08-05T10:00:00.000Z",
     "institutions": [
       "IBS",
