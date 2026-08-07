@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-07T00:43:10.722Z",
+  "lastUpdate": "2026-08-07T08:33:07.904Z",
   "totalItems": 150,
-  "totalArchived": 109862,
-  "newPapersAdded": 244,
+  "totalArchived": 110008,
+  "newPapersAdded": 146,
   "institutionBreakdown": {
-    "KAIST": 6,
-    "SNU": 55,
+    "KAIST": 7,
+    "SNU": 86,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 42,
-    "IBS": 66,
+    "POSTECH": 1,
+    "Korea University": 69,
+    "IBS": 16,
     "UNIST": 0,
-    "Hanyang University": 3,
-    "KIST": 1,
-    "GIST": 3,
-    "Kyung Hee University": 4,
+    "Hanyang University": 4,
+    "KIST": 2,
+    "GIST": 4,
+    "Kyung Hee University": 8,
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 38,
-    "Materials Science": 6,
-    "Multidisciplinary": 81,
-    "Cancer Research": 14,
-    "Neuroscience": 6,
-    "Computer Science": 5
+    "Multidisciplinary": 95,
+    "Biomedical": 28,
+    "Materials Science": 7,
+    "Computer Science": 2,
+    "Cancer Research": 11,
+    "Neuroscience": 7
   },
-  "multiInstitutional": 23,
+  "multiInstitutional": 38,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,16 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Genetic characteristics and clinical features of pediatric congenital adrenal hyperplasia in Korea",
+    "title": "Field-deployable, lyophilized cell-free biosensor for robust and selective detection of inorganic arsenic in complex seaweed matrices",
     "date": "2026-08-06T10:00:00.000Z",
     "institutions": [
       "GIST",
       "IBS",
-      "KAIST",
-      "Korea University",
-      "Kyung Hee University",
-      "Pusan National University",
-      "SNU"
+      "KAIST"
     ]
   }
 }
