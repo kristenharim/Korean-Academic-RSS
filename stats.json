@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-07T08:33:07.904Z",
+  "lastUpdate": "2026-08-07T19:54:11.443Z",
   "totalItems": 150,
-  "totalArchived": 110008,
-  "newPapersAdded": 146,
+  "totalArchived": 110220,
+  "newPapersAdded": 212,
   "institutionBreakdown": {
-    "KAIST": 7,
-    "SNU": 86,
+    "KAIST": 9,
+    "SNU": 72,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 69,
-    "IBS": 16,
-    "UNIST": 0,
-    "Hanyang University": 4,
+    "POSTECH": 4,
+    "Korea University": 44,
+    "IBS": 48,
+    "UNIST": 1,
+    "Hanyang University": 7,
     "KIST": 2,
-    "GIST": 4,
-    "Kyung Hee University": 8,
-    "Pusan National University": 1
+    "GIST": 2,
+    "Kyung Hee University": 5,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 95,
-    "Biomedical": 28,
-    "Materials Science": 7,
-    "Computer Science": 2,
-    "Cancer Research": 11,
-    "Neuroscience": 7
+    "Biomedical": 38,
+    "Multidisciplinary": 76,
+    "Materials Science": 6,
+    "Cancer Research": 18,
+    "Neuroscience": 8,
+    "Computer Science": 4
   },
-  "multiInstitutional": 38,
+  "multiInstitutional": 34,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,14 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Field-deployable, lyophilized cell-free biosensor for robust and selective detection of inorganic arsenic in complex seaweed matrices",
-    "date": "2026-08-06T10:00:00.000Z",
+    "title": "Trends and Interhospital Variability of NICU Bloodstream Infections in Korea",
+    "date": "2026-08-07T10:00:00.000Z",
     "institutions": [
-      "GIST",
       "IBS",
-      "KAIST"
+      "KAIST",
+      "Korea University",
+      "Pusan National University",
+      "SNU"
     ]
   }
 }
