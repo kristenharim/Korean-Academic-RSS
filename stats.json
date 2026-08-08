@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-07T19:54:11.443Z",
+  "lastUpdate": "2026-08-08T08:05:31.387Z",
   "totalItems": 150,
-  "totalArchived": 110220,
-  "newPapersAdded": 212,
+  "totalArchived": 110375,
+  "newPapersAdded": 155,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 72,
+    "KAIST": 14,
+    "SNU": 98,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 44,
-    "IBS": 48,
+    "POSTECH": 5,
+    "Korea University": 51,
+    "IBS": 10,
     "UNIST": 1,
-    "Hanyang University": 7,
-    "KIST": 2,
-    "GIST": 2,
-    "Kyung Hee University": 5,
-    "Pusan National University": 2
+    "Hanyang University": 9,
+    "KIST": 3,
+    "GIST": 3,
+    "Kyung Hee University": 7,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 38,
-    "Multidisciplinary": 76,
+    "Neuroscience": 5,
+    "Biomedical": 35,
+    "Multidisciplinary": 88,
     "Materials Science": 6,
-    "Cancer Research": 18,
-    "Neuroscience": 8,
-    "Computer Science": 4
+    "Cancer Research": 11,
+    "Computer Science": 5
   },
-  "multiInstitutional": 34,
+  "multiInstitutional": 47,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,14 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Trends and Interhospital Variability of NICU Bloodstream Infections in Korea",
-    "date": "2026-08-07T10:00:00.000Z",
+    "title": "Associations Between Smartwatch-Derived Measures and Cognitive Function: Findings From the Electronic Framingham Heart Study",
+    "date": "2026-08-08T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST",
-      "Korea University",
-      "Pusan National University",
-      "SNU"
+      "IBS"
     ]
   }
 }
