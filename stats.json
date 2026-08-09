@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-09T08:06:16.905Z",
+  "lastUpdate": "2026-08-09T19:39:16.495Z",
   "totalItems": 150,
-  "totalArchived": 110630,
-  "newPapersAdded": 137,
+  "totalArchived": 110700,
+  "newPapersAdded": 70,
   "institutionBreakdown": {
-    "KAIST": 7,
-    "SNU": 43,
+    "KAIST": 8,
+    "SNU": 48,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 36,
-    "IBS": 85,
+    "Korea University": 42,
+    "IBS": 68,
     "UNIST": 1,
     "Hanyang University": 5,
     "KIST": 1,
     "GIST": 1,
-    "Kyung Hee University": 2,
-    "Pusan National University": 0
+    "Kyung Hee University": 3,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
+    "Multidisciplinary": 77,
     "Biomedical": 34,
+    "Cancer Research": 13,
     "Materials Science": 12,
-    "Multidisciplinary": 78,
-    "Neuroscience": 10,
-    "Cancer Research": 12,
-    "Computer Science": 4
+    "Neuroscience": 13,
+    "Computer Science": 1
   },
-  "multiInstitutional": 23,
+  "multiInstitutional": 22,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,9 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Case Report: Fascia lata transposition for chronic recurrent perineal hernia followed by laparoscopic colopexy for subsequent rectal prolapse in a dog",
-    "date": "2026-08-08T10:00:00.000Z",
+    "title": "Coupled carrier-message engineering for low-dose mRNA vaccination",
+    "date": "2026-08-09T10:00:00.000Z",
     "institutions": [
+      "IBS",
       "KAIST"
     ]
   }
