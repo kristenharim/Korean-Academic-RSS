@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-08T19:36:05.643Z",
+  "lastUpdate": "2026-08-09T08:06:16.905Z",
   "totalItems": 150,
-  "totalArchived": 110493,
-  "newPapersAdded": 118,
+  "totalArchived": 110630,
+  "newPapersAdded": 137,
   "institutionBreakdown": {
-    "KAIST": 20,
-    "SNU": 44,
+    "KAIST": 7,
+    "SNU": 43,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 18,
-    "IBS": 100,
-    "UNIST": 2,
+    "Korea University": 36,
+    "IBS": 85,
+    "UNIST": 1,
     "Hanyang University": 5,
-    "KIST": 2,
-    "GIST": 2,
-    "Kyung Hee University": 0,
-    "Pusan National University": 3
+    "KIST": 1,
+    "GIST": 1,
+    "Kyung Hee University": 2,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
+    "Biomedical": 34,
     "Materials Science": 12,
-    "Multidisciplinary": 83,
-    "Neuroscience": 9,
-    "Biomedical": 29,
-    "Cancer Research": 14,
-    "Computer Science": 3
+    "Multidisciplinary": 78,
+    "Neuroscience": 10,
+    "Cancer Research": 12,
+    "Computer Science": 4
   },
-  "multiInstitutional": 28,
+  "multiInstitutional": 23,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Synergistic Effect of Ce in Metal-Promoted Cu/Zeolite Beta Catalysts for Selective Ammonia Oxidation",
+    "title": "Case Report: Fascia lata transposition for chronic recurrent perineal hernia followed by laparoscopic colopexy for subsequent rectal prolapse in a dog",
     "date": "2026-08-08T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST",
-      "SNU"
+      "KAIST"
     ]
   }
 }
