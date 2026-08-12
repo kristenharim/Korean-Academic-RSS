@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-12T08:44:41.884Z",
+  "lastUpdate": "2026-08-12T20:01:58.798Z",
   "totalItems": 150,
-  "totalArchived": 111428,
-  "newPapersAdded": 152,
+  "totalArchived": 111647,
+  "newPapersAdded": 219,
   "institutionBreakdown": {
-    "KAIST": 8,
-    "SNU": 76,
+    "KAIST": 14,
+    "SNU": 65,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 66,
-    "IBS": 19,
-    "UNIST": 3,
+    "POSTECH": 2,
+    "Korea University": 23,
+    "IBS": 62,
+    "UNIST": 1,
     "Hanyang University": 5,
-    "KIST": 1,
+    "KIST": 2,
     "GIST": 2,
-    "Kyung Hee University": 4,
-    "Pusan National University": 1
+    "Kyung Hee University": 5,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 93,
-    "Materials Science": 7,
-    "Neuroscience": 5,
-    "Cancer Research": 14,
-    "Biomedical": 29,
-    "Computer Science": 2
+    "Multidisciplinary": 91,
+    "Computer Science": 4,
+    "Materials Science": 15,
+    "Biomedical": 25,
+    "Cancer Research": 13,
+    "Neuroscience": 2
   },
-  "multiInstitutional": 30,
+  "multiInstitutional": 22,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Understanding hesitancy and decision postponement toward digital therapeutics for Insomnia: Roles of objective ambivalence and digital health literacy",
-    "date": "2026-08-11T10:00:00.000Z",
+    "title": "Beyond SERS Hotspot Localization: Metal-Dielectric Hybrid Metasurfaces with Coupled LSPR Enable Highly Reproducible, Label-Free Prostate-Specific Antigen Detection",
+    "date": "2026-08-12T10:00:00.000Z",
     "institutions": [
       "KAIST"
     ]
