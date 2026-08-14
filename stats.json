@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-13T19:57:28.130Z",
+  "lastUpdate": "2026-08-14T08:42:05.881Z",
   "totalItems": 150,
-  "totalArchived": 112101,
-  "newPapersAdded": 277,
+  "totalArchived": 112289,
+  "newPapersAdded": 188,
   "institutionBreakdown": {
-    "KAIST": 18,
+    "KAIST": 24,
     "SNU": 100,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 57,
-    "IBS": 9,
-    "UNIST": 1,
-    "Hanyang University": 3,
+    "POSTECH": 4,
+    "Korea University": 46,
+    "IBS": 5,
+    "UNIST": 2,
+    "Hanyang University": 4,
     "KIST": 1,
-    "GIST": 2,
-    "Kyung Hee University": 8,
-    "Pusan National University": 1
+    "GIST": 3,
+    "Kyung Hee University": 5,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
     "Multidisciplinary": 68,
-    "Cancer Research": 26,
-    "Materials Science": 11,
-    "Biomedical": 32,
-    "Neuroscience": 10,
-    "Computer Science": 3
+    "Biomedical": 37,
+    "Materials Science": 8,
+    "Cancer Research": 24,
+    "Computer Science": 4,
+    "Neuroscience": 9
   },
-  "multiInstitutional": 46,
+  "multiInstitutional": 39,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,13 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Real-world treatment outcomes of a 6-month fluoroquinolone-containing regimen for isoniazid mono-resistant pulmonary tuberculosis in Korea",
+    "title": "Wogoniol, a novel radiolytic derivative of wogonin, programs dendritic cells for immune tolerance: suppression of T helper 1/17 and promotion of regulatory T cells",
     "date": "2026-08-13T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "Korea University",
-      "SNU"
+      "KAIST"
     ]
   }
 }
