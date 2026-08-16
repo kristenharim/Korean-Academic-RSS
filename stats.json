@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-15T19:26:45.973Z",
+  "lastUpdate": "2026-08-16T07:52:45.507Z",
   "totalItems": 150,
-  "totalArchived": 112765,
-  "newPapersAdded": 143,
+  "totalArchived": 112869,
+  "newPapersAdded": 104,
   "institutionBreakdown": {
-    "KAIST": 13,
-    "SNU": 35,
+    "KAIST": 4,
+    "SNU": 38,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 15,
-    "IBS": 100,
-    "UNIST": 1,
-    "Hanyang University": 0,
-    "KIST": 2,
-    "GIST": 1,
-    "Kyung Hee University": 6,
+    "Korea University": 27,
+    "IBS": 98,
+    "UNIST": 0,
+    "Hanyang University": 1,
+    "KIST": 1,
+    "GIST": 0,
+    "Kyung Hee University": 7,
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 83,
-    "Biomedical": 31,
     "Materials Science": 6,
-    "Cancer Research": 16,
+    "Multidisciplinary": 83,
     "Computer Science": 5,
-    "Neuroscience": 9
+    "Biomedical": 34,
+    "Cancer Research": 14,
+    "Neuroscience": 8
   },
-  "multiInstitutional": 20,
+  "multiInstitutional": 22,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Identification and quantification of putative active constituents of huangqin decoction for ulcerative colitis treatment through the integration of chemical profiling, network pharmacology, and bioinformatics",
+    "title": "Synergistic NiO-NiCo Heterostructure Electrode for Highly Active and Durable Hydrogen Evolution in Industrial Alkaline Water Electrolysis",
     "date": "2026-08-15T10:00:00.000Z",
     "institutions": [
-      "KAIST"
+      "IBS",
+      "KAIST",
+      "Korea University",
+      "SNU"
     ]
   }
 }
