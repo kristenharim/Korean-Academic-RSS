@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-16T07:52:45.507Z",
+  "lastUpdate": "2026-08-16T19:26:25.101Z",
   "totalItems": 150,
-  "totalArchived": 112869,
-  "newPapersAdded": 104,
+  "totalArchived": 112969,
+  "newPapersAdded": 100,
   "institutionBreakdown": {
-    "KAIST": 4,
-    "SNU": 38,
+    "KAIST": 6,
+    "SNU": 50,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 27,
-    "IBS": 98,
-    "UNIST": 0,
-    "Hanyang University": 1,
+    "POSTECH": 2,
+    "Korea University": 39,
+    "IBS": 77,
+    "UNIST": 1,
+    "Hanyang University": 4,
     "KIST": 1,
     "GIST": 0,
-    "Kyung Hee University": 7,
+    "Kyung Hee University": 8,
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
+    "Cancer Research": 12,
+    "Multidisciplinary": 71,
+    "Biomedical": 49,
+    "Neuroscience": 6,
     "Materials Science": 6,
-    "Multidisciplinary": 83,
-    "Computer Science": 5,
-    "Biomedical": 34,
-    "Cancer Research": 14,
-    "Neuroscience": 8
+    "Computer Science": 6
   },
-  "multiInstitutional": 22,
+  "multiInstitutional": 31,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,13 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Synergistic NiO-NiCo Heterostructure Electrode for Highly Active and Durable Hydrogen Evolution in Industrial Alkaline Water Electrolysis",
-    "date": "2026-08-15T10:00:00.000Z",
+    "title": "Experimental evaluation of a dual-band phased-array system for focused microwave thermotherapy",
+    "date": "2026-08-16T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "Korea University",
-      "SNU"
+      "KAIST"
     ]
   }
 }
