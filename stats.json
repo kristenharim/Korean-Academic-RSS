@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-18T08:01:23.115Z",
+  "lastUpdate": "2026-08-18T19:32:38.458Z",
   "totalItems": 150,
-  "totalArchived": 113292,
-  "newPapersAdded": 145,
+  "totalArchived": 113451,
+  "newPapersAdded": 159,
   "institutionBreakdown": {
-    "KAIST": 11,
-    "SNU": 45,
+    "KAIST": 5,
+    "SNU": 32,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 0,
-    "Korea University": 40,
-    "IBS": 70,
-    "UNIST": 0,
-    "Hanyang University": 4,
-    "KIST": 3,
+    "Korea University": 26,
+    "IBS": 100,
+    "UNIST": 1,
+    "Hanyang University": 8,
+    "KIST": 2,
     "GIST": 2,
-    "Kyung Hee University": 5,
-    "Pusan National University": 3
+    "Kyung Hee University": 3,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 81,
-    "Materials Science": 14,
-    "Biomedical": 21,
-    "Cancer Research": 18,
-    "Neuroscience": 13,
-    "Computer Science": 3
+    "Multidisciplinary": 85,
+    "Materials Science": 17,
+    "Neuroscience": 10,
+    "Computer Science": 6,
+    "Biomedical": 23,
+    "Cancer Research": 9
   },
-  "multiInstitutional": 23,
+  "multiInstitutional": 18,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,16 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Pseudomonas juntendi MaLMAid0250 Suppresses Vibrio in Artemia and Enhances Survival of Vibrio-Challenged Black Scraper (Thamnaconus modestus)",
-    "date": "2026-08-17T10:00:00.000Z",
+    "title": "Lithium Niobate Electro-Optic Photonic Processor for Variational Quantum Eigensolver",
+    "date": "2026-08-18T10:00:00.000Z",
     "institutions": [
+      "Hanyang University",
       "IBS",
-      "KAIST"
+      "KAIST",
+      "KIST",
+      "Korea University",
+      "Kyung Hee University",
+      "SNU"
     ]
   }
 }
