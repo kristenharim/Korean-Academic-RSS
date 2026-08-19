@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-18T19:32:38.458Z",
+  "lastUpdate": "2026-08-19T08:01:22.701Z",
   "totalItems": 150,
-  "totalArchived": 113451,
-  "newPapersAdded": 159,
+  "totalArchived": 113630,
+  "newPapersAdded": 179,
   "institutionBreakdown": {
-    "KAIST": 5,
-    "SNU": 32,
+    "KAIST": 12,
+    "SNU": 75,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 26,
-    "IBS": 100,
-    "UNIST": 1,
-    "Hanyang University": 8,
-    "KIST": 2,
+    "POSTECH": 1,
+    "Korea University": 74,
+    "IBS": 23,
+    "UNIST": 5,
+    "Hanyang University": 9,
+    "KIST": 4,
     "GIST": 2,
-    "Kyung Hee University": 3,
-    "Pusan National University": 0
+    "Kyung Hee University": 7,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
     "Multidisciplinary": 85,
-    "Materials Science": 17,
+    "Computer Science": 5,
+    "Materials Science": 11,
+    "Biomedical": 26,
     "Neuroscience": 10,
-    "Computer Science": 6,
-    "Biomedical": 23,
-    "Cancer Research": 9
+    "Cancer Research": 13
   },
-  "multiInstitutional": 18,
+  "multiInstitutional": 39,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,15 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Lithium Niobate Electro-Optic Photonic Processor for Variational Quantum Eigensolver",
+    "title": "Danburstotug, an anti-PD-L1 antibody, in relapsed/refractory extra-nodal natural killer/T-cell lymphoma: The phase 2 DISTINKT study",
     "date": "2026-08-18T10:00:00.000Z",
     "institutions": [
-      "Hanyang University",
       "IBS",
       "KAIST",
-      "KIST",
-      "Korea University",
-      "Kyung Hee University",
       "SNU"
     ]
   }
