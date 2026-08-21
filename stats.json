@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-20T19:37:02.852Z",
+  "lastUpdate": "2026-08-21T08:03:43.426Z",
   "totalItems": 150,
-  "totalArchived": 114165,
-  "newPapersAdded": 187,
+  "totalArchived": 114327,
+  "newPapersAdded": 162,
   "institutionBreakdown": {
-    "KAIST": 8,
-    "SNU": 42,
+    "KAIST": 13,
+    "SNU": 70,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 3,
-    "Korea University": 33,
-    "IBS": 76,
-    "UNIST": 2,
-    "Hanyang University": 3,
-    "KIST": 2,
-    "GIST": 5,
+    "Korea University": 68,
+    "IBS": 17,
+    "UNIST": 3,
+    "Hanyang University": 4,
+    "KIST": 3,
+    "GIST": 7,
     "Kyung Hee University": 6,
     "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 75,
-    "Biomedical": 44,
-    "Cancer Research": 10,
-    "Materials Science": 14,
-    "Computer Science": 5,
-    "Neuroscience": 2
+    "Multidisciplinary": 81,
+    "Cancer Research": 16,
+    "Biomedical": 33,
+    "Materials Science": 10,
+    "Neuroscience": 5,
+    "Computer Science": 5
   },
-  "multiInstitutional": 25,
+  "multiInstitutional": 37,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Feasibility, Safety, and Effectiveness of Ultrasound-Guided Acupotomy Treatment for Degenerative Cervical Radiculopathy: A Pilot Randomized Controlled Trial",
+    "title": "An inactivated human adenovirus type 55 vaccine attenuates pulmonary pathology in a non-human primate challenge model",
     "date": "2026-08-20T10:00:00.000Z",
     "institutions": [
+      "IBS",
       "KAIST",
-      "Pusan National University"
+      "Korea University",
+      "SNU"
     ]
   }
 }
