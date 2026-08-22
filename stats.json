@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-22T07:52:55.179Z",
+  "lastUpdate": "2026-08-22T19:27:41.413Z",
   "totalItems": 150,
-  "totalArchived": 114654,
-  "newPapersAdded": 165,
+  "totalArchived": 114774,
+  "newPapersAdded": 120,
   "institutionBreakdown": {
-    "KAIST": 11,
-    "SNU": 64,
+    "KAIST": 12,
+    "SNU": 74,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 61,
-    "IBS": 32,
+    "POSTECH": 5,
+    "Korea University": 20,
+    "IBS": 64,
     "UNIST": 0,
-    "Hanyang University": 4,
-    "KIST": 1,
+    "Hanyang University": 5,
+    "KIST": 2,
     "GIST": 2,
-    "Kyung Hee University": 6,
+    "Kyung Hee University": 8,
     "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 94,
-    "Materials Science": 8,
-    "Cancer Research": 17,
-    "Biomedical": 24,
+    "Multidisciplinary": 90,
+    "Biomedical": 31,
+    "Cancer Research": 13,
+    "Computer Science": 4,
     "Neuroscience": 5,
-    "Computer Science": 2
+    "Materials Science": 7
   },
-  "multiInstitutional": 26,
+  "multiInstitutional": 29,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Retinoic acid priming enhances myogenesis of bovine muscle stem cells for cultivated meat production by modulating mitochondrial function",
-    "date": "2026-08-21T10:00:00.000Z",
+    "title": "Plasmon-Driven Gene Amplification-Integrated Lateral Flow Assay for Ultrafast Diagnosis of Seoul Orthohantavirus",
+    "date": "2026-08-22T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
