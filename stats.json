@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-22T19:27:41.413Z",
+  "lastUpdate": "2026-08-23T07:55:13.478Z",
   "totalItems": 150,
-  "totalArchived": 114774,
-  "newPapersAdded": 120,
+  "totalArchived": 114946,
+  "newPapersAdded": 172,
   "institutionBreakdown": {
-    "KAIST": 12,
-    "SNU": 74,
+    "KAIST": 10,
+    "SNU": 42,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 5,
-    "Korea University": 20,
-    "IBS": 64,
-    "UNIST": 0,
-    "Hanyang University": 5,
-    "KIST": 2,
-    "GIST": 2,
-    "Kyung Hee University": 8,
-    "Pusan National University": 2
+    "POSTECH": 3,
+    "Korea University": 49,
+    "IBS": 67,
+    "UNIST": 1,
+    "Hanyang University": 0,
+    "KIST": 1,
+    "GIST": 0,
+    "Kyung Hee University": 7,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 90,
-    "Biomedical": 31,
-    "Cancer Research": 13,
-    "Computer Science": 4,
-    "Neuroscience": 5,
-    "Materials Science": 7
+    "Cancer Research": 15,
+    "Multidisciplinary": 87,
+    "Materials Science": 5,
+    "Computer Science": 8,
+    "Biomedical": 30,
+    "Neuroscience": 5
   },
-  "multiInstitutional": 29,
+  "multiInstitutional": 24,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Plasmon-Driven Gene Amplification-Integrated Lateral Flow Assay for Ultrafast Diagnosis of Seoul Orthohantavirus",
+    "title": "Mut-p53 acts as a synthetic lethal partner with E2F3 inhibition in gastric cancer under FGFR1 inhibitor",
     "date": "2026-08-22T10:00:00.000Z",
     "institutions": [
       "IBS",
