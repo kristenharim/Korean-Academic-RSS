@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-23T07:55:13.478Z",
+  "lastUpdate": "2026-08-23T19:27:17.010Z",
   "totalItems": 150,
-  "totalArchived": 114946,
-  "newPapersAdded": 172,
+  "totalArchived": 115040,
+  "newPapersAdded": 94,
   "institutionBreakdown": {
     "KAIST": 10,
-    "SNU": 42,
+    "SNU": 52,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 3,
-    "Korea University": 49,
-    "IBS": 67,
+    "Korea University": 38,
+    "IBS": 63,
     "UNIST": 1,
     "Hanyang University": 0,
     "KIST": 1,
     "GIST": 0,
-    "Kyung Hee University": 7,
-    "Pusan National University": 0
+    "Kyung Hee University": 8,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 15,
-    "Multidisciplinary": 87,
-    "Materials Science": 5,
-    "Computer Science": 8,
-    "Biomedical": 30,
-    "Neuroscience": 5
+    "Cancer Research": 16,
+    "Biomedical": 34,
+    "Neuroscience": 6,
+    "Multidisciplinary": 81,
+    "Materials Science": 8,
+    "Computer Science": 5
   },
-  "multiInstitutional": 24,
+  "multiInstitutional": 21,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Mut-p53 acts as a synthetic lethal partner with E2F3 inhibition in gastric cancer under FGFR1 inhibitor",
-    "date": "2026-08-22T10:00:00.000Z",
+    "title": "Celiac Plexus Block with versus without Botulinum Toxin Type A for Pancreatic Cancer Pain: A Retrospective Comparative Study",
+    "date": "2026-08-23T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST"
+      "SNU"
     ]
   }
 }
