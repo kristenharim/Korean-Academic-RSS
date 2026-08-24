@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-23T19:27:17.010Z",
+  "lastUpdate": "2026-08-24T08:10:06.306Z",
   "totalItems": 150,
-  "totalArchived": 115040,
-  "newPapersAdded": 94,
+  "totalArchived": 115100,
+  "newPapersAdded": 60,
   "institutionBreakdown": {
     "KAIST": 10,
-    "SNU": 52,
+    "SNU": 33,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 38,
-    "IBS": 63,
-    "UNIST": 1,
+    "POSTECH": 0,
+    "Korea University": 17,
+    "IBS": 100,
+    "UNIST": 0,
     "Hanyang University": 0,
-    "KIST": 1,
+    "KIST": 2,
     "GIST": 0,
-    "Kyung Hee University": 8,
+    "Kyung Hee University": 4,
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 16,
-    "Biomedical": 34,
-    "Neuroscience": 6,
     "Multidisciplinary": 81,
-    "Materials Science": 8,
-    "Computer Science": 5
+    "Cancer Research": 19,
+    "Biomedical": 28,
+    "Neuroscience": 8,
+    "Materials Science": 11,
+    "Computer Science": 3
   },
-  "multiInstitutional": 21,
+  "multiInstitutional": 13,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Celiac Plexus Block with versus without Botulinum Toxin Type A for Pancreatic Cancer Pain: A Retrospective Comparative Study",
+    "title": "Relationship of serum 25-hydroxyvitamin D with the metabolic score for insulin resistance in Korean adults",
     "date": "2026-08-23T10:00:00.000Z",
     "institutions": [
       "SNU"
