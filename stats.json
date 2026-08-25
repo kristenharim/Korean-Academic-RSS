@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-25T08:05:47.327Z",
+  "lastUpdate": "2026-08-25T19:37:30.464Z",
   "totalItems": 150,
-  "totalArchived": 115411,
-  "newPapersAdded": 162,
+  "totalArchived": 115570,
+  "newPapersAdded": 159,
   "institutionBreakdown": {
-    "KAIST": 6,
-    "SNU": 63,
+    "KAIST": 18,
+    "SNU": 28,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 46,
-    "IBS": 54,
-    "UNIST": 0,
-    "Hanyang University": 2,
-    "KIST": 3,
-    "GIST": 4,
-    "Kyung Hee University": 4,
-    "Pusan National University": 2
+    "POSTECH": 1,
+    "Korea University": 16,
+    "IBS": 100,
+    "UNIST": 1,
+    "Hanyang University": 1,
+    "KIST": 1,
+    "GIST": 3,
+    "Kyung Hee University": 3,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 23,
-    "Multidisciplinary": 94,
-    "Cancer Research": 12,
-    "Neuroscience": 7,
+    "Cancer Research": 18,
     "Materials Science": 9,
-    "Computer Science": 5
+    "Multidisciplinary": 78,
+    "Biomedical": 34,
+    "Computer Science": 6,
+    "Neuroscience": 5
   },
-  "multiInstitutional": 25,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Yukgunja-tang and Pyeongwi-san Improve Functional Dyspepsia and Modulate Ghrelin Dynamics: A Multicenter Randomized Controlled Trial",
-    "date": "2026-08-24T10:00:00.000Z",
+    "title": "Multiplexed Profiling of Individual Extracellular Vesicles Reveals Lung Cancer-Associated Protein Signatures",
+    "date": "2026-08-25T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST",
-      "Kyung Hee University",
       "SNU"
     ]
   }
