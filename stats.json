@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-25T19:37:30.464Z",
+  "lastUpdate": "2026-08-26T08:06:06.953Z",
   "totalItems": 150,
-  "totalArchived": 115570,
-  "newPapersAdded": 159,
+  "totalArchived": 115749,
+  "newPapersAdded": 179,
   "institutionBreakdown": {
-    "KAIST": 18,
-    "SNU": 28,
+    "KAIST": 20,
+    "SNU": 72,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 16,
-    "IBS": 100,
-    "UNIST": 1,
-    "Hanyang University": 1,
+    "POSTECH": 2,
+    "Korea University": 43,
+    "IBS": 33,
+    "UNIST": 0,
+    "Hanyang University": 7,
     "KIST": 1,
-    "GIST": 3,
-    "Kyung Hee University": 3,
+    "GIST": 6,
+    "Kyung Hee University": 4,
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 18,
+    "Biomedical": 35,
+    "Cancer Research": 23,
+    "Computer Science": 5,
     "Materials Science": 9,
-    "Multidisciplinary": 78,
-    "Biomedical": 34,
-    "Computer Science": 6,
-    "Neuroscience": 5
+    "Multidisciplinary": 77,
+    "Neuroscience": 1
   },
-  "multiInstitutional": 20,
+  "multiInstitutional": 28,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Multiplexed Profiling of Individual Extracellular Vesicles Reveals Lung Cancer-Associated Protein Signatures",
+    "title": "Korean Clinical Practice Guidelines for Interstitial Lung Disease: Part 2. Idiopathic Pulmonary Fibrosis",
     "date": "2026-08-25T10:00:00.000Z",
     "institutions": [
+      "Hanyang University",
       "IBS",
       "KAIST",
+      "Kyung Hee University",
       "SNU"
     ]
   }
