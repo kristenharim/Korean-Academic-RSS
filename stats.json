@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-27T18:21:35.734Z",
+  "lastUpdate": "2026-08-28T03:32:15.059Z",
   "totalItems": 150,
-  "totalArchived": 116372,
-  "newPapersAdded": 360,
+  "totalArchived": 116495,
+  "newPapersAdded": 123,
   "institutionBreakdown": {
-    "KAIST": 28,
+    "KAIST": 32,
     "SNU": 100,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 6,
-    "Korea University": 34,
+    "Korea University": 32,
     "IBS": 6,
     "UNIST": 2,
     "Hanyang University": 6,
     "KIST": 2,
-    "GIST": 1,
-    "Kyung Hee University": 9,
+    "GIST": 2,
+    "Kyung Hee University": 7,
     "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 70,
-    "Biomedical": 38,
+    "Biomedical": 39,
+    "Cancer Research": 19,
+    "Multidisciplinary": 63,
     "Materials Science": 19,
-    "Neuroscience": 7,
-    "Cancer Research": 15,
-    "Computer Science": 1
+    "Neuroscience": 8,
+    "Computer Science": 2
   },
-  "multiInstitutional": 43,
+  "multiInstitutional": 42,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "The first complete chloroplast genome and phylogenetic analysis of <em>Veratrum dolichopetalum</em> O.Loes. (Melanthiaceae)",
+    "title": "Response to Letters to the Editor Regarding 'Role of Evogliptin for Intra-Class Therapeutic Interchange in Patients With Type 2 Diabetes Mellitus: Subgroup Analysis From a Multi-Center, Prospective, Observational Study (REVISE Study)'",
     "date": "2026-08-27T10:00:00.000Z",
     "institutions": [
-      "KAIST"
+      "IBS",
+      "KAIST",
+      "SNU"
     ]
   }
 }
