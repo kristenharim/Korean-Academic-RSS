@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-29T21:38:22.243Z",
+  "lastUpdate": "2026-08-30T13:05:18.508Z",
   "totalItems": 150,
-  "totalArchived": 117096,
-  "newPapersAdded": 134,
+  "totalArchived": 117234,
+  "newPapersAdded": 138,
   "institutionBreakdown": {
-    "KAIST": 5,
-    "SNU": 33,
+    "KAIST": 7,
+    "SNU": 56,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 29,
-    "IBS": 99,
+    "POSTECH": 1,
+    "Korea University": 32,
+    "IBS": 77,
     "UNIST": 1,
-    "Hanyang University": 1,
+    "Hanyang University": 2,
     "KIST": 1,
     "GIST": 1,
-    "Kyung Hee University": 2,
-    "Pusan National University": 1
+    "Kyung Hee University": 4,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 72,
-    "Materials Science": 11,
-    "Biomedical": 38,
-    "Cancer Research": 14,
-    "Neuroscience": 11,
-    "Computer Science": 4
+    "Biomedical": 39,
+    "Multidisciplinary": 76,
+    "Computer Science": 4,
+    "Materials Science": 9,
+    "Cancer Research": 15,
+    "Neuroscience": 7
   },
-  "multiInstitutional": 18,
+  "multiInstitutional": 28,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,9 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Plasma-Engineered Polyethylene-Reinforced Anion Exchange Membranes With Low Ionic Resistance and Low Hydrogen Crossover for Water Electrolysis",
-    "date": "2026-08-29T10:00:00.000Z",
+    "title": "Higher shock index at presentation is associated with mortality in stray cats at an emergency medical center",
+    "date": "2026-08-30T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST",
       "SNU"
     ]
   }
