@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-01T12:39:08.624Z",
+  "lastUpdate": "2026-09-01T21:41:39.319Z",
   "totalItems": 150,
-  "totalArchived": 117637,
-  "newPapersAdded": 306,
+  "totalArchived": 117796,
+  "newPapersAdded": 159,
   "institutionBreakdown": {
-    "KAIST": 15,
-    "SNU": 42,
+    "KAIST": 9,
+    "SNU": 65,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 18,
-    "IBS": 97,
-    "UNIST": 1,
-    "Hanyang University": 4,
+    "POSTECH": 1,
+    "Korea University": 50,
+    "IBS": 51,
+    "UNIST": 0,
+    "Hanyang University": 5,
     "KIST": 3,
     "GIST": 3,
-    "Kyung Hee University": 3,
-    "Pusan National University": 2
+    "Kyung Hee University": 4,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 16,
-    "Biomedical": 39,
-    "Multidisciplinary": 73,
-    "Computer Science": 2,
-    "Materials Science": 10,
-    "Neuroscience": 10
+    "Biomedical": 34,
+    "Multidisciplinary": 81,
+    "Cancer Research": 10,
+    "Materials Science": 13,
+    "Computer Science": 4,
+    "Neuroscience": 8
   },
-  "multiInstitutional": 24,
+  "multiInstitutional": 34,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Association Between Menopausal Hormone Therapy and the Risk of Urologic Cancer: A National Population-Based Retrospective Cohort Study in Korea",
+    "title": "Observation versus coiling for unruptured intracranial aneurysms in octogenarians: A decision-analytic modeling study",
     "date": "2026-09-01T10:00:00.000Z",
     "institutions": [
-      "KAIST",
-      "Korea University",
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
