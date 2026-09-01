@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-08-31T23:10:15.923Z",
+  "lastUpdate": "2026-09-01T12:39:08.624Z",
   "totalItems": 150,
-  "totalArchived": 117331,
-  "newPapersAdded": 0,
+  "totalArchived": 117637,
+  "newPapersAdded": 306,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 32,
+    "KAIST": 15,
+    "SNU": 42,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 26,
-    "IBS": 100,
-    "UNIST": 2,
-    "Hanyang University": 0,
-    "KIST": 0,
-    "GIST": 1,
-    "Kyung Hee University": 4,
-    "Pusan National University": 4
+    "POSTECH": 0,
+    "Korea University": 18,
+    "IBS": 97,
+    "UNIST": 1,
+    "Hanyang University": 4,
+    "KIST": 3,
+    "GIST": 3,
+    "Kyung Hee University": 3,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 36,
-    "Multidisciplinary": 69,
-    "Materials Science": 13,
-    "Cancer Research": 19,
-    "Neuroscience": 9,
-    "Computer Science": 4
+    "Cancer Research": 16,
+    "Biomedical": 39,
+    "Multidisciplinary": 73,
+    "Computer Science": 2,
+    "Materials Science": 10,
+    "Neuroscience": 10
   },
-  "multiInstitutional": 23,
+  "multiInstitutional": 24,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "The conditional role of personal information-security norms in prosocial patient information disclosure among health professions students",
-    "date": "2026-08-30T10:00:00.000Z",
+    "title": "Association Between Menopausal Hormone Therapy and the Risk of Urologic Cancer: A National Population-Based Retrospective Cohort Study in Korea",
+    "date": "2026-09-01T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST"
+      "KAIST",
+      "Korea University",
+      "SNU"
     ]
   }
 }
