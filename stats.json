@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-01T21:41:39.319Z",
+  "lastUpdate": "2026-09-02T12:12:25.274Z",
   "totalItems": 150,
-  "totalArchived": 117796,
-  "newPapersAdded": 159,
+  "totalArchived": 118011,
+  "newPapersAdded": 215,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 65,
+    "KAIST": 5,
+    "SNU": 28,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 50,
-    "IBS": 51,
+    "Korea University": 26,
+    "IBS": 98,
     "UNIST": 0,
-    "Hanyang University": 5,
-    "KIST": 3,
-    "GIST": 3,
-    "Kyung Hee University": 4,
-    "Pusan National University": 1
+    "Hanyang University": 4,
+    "KIST": 0,
+    "GIST": 0,
+    "Kyung Hee University": 0,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 34,
-    "Multidisciplinary": 81,
-    "Cancer Research": 10,
-    "Materials Science": 13,
-    "Computer Science": 4,
-    "Neuroscience": 8
+    "Materials Science": 9,
+    "Cancer Research": 24,
+    "Multidisciplinary": 78,
+    "Biomedical": 29,
+    "Neuroscience": 6,
+    "Computer Science": 4
   },
-  "multiInstitutional": 34,
+  "multiInstitutional": 12,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Observation versus coiling for unruptured intracranial aneurysms in octogenarians: A decision-analytic modeling study",
-    "date": "2026-09-01T10:00:00.000Z",
+    "title": "Human acellular dermal matrix for middle hepatic vein reconstruction in living donor liver transplantation: a prospective feasibility and safety study",
+    "date": "2026-09-02T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
