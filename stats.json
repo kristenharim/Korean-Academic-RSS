@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-03T12:11:19.510Z",
+  "lastUpdate": "2026-09-03T21:38:01.288Z",
   "totalItems": 150,
-  "totalArchived": 118408,
-  "newPapersAdded": 247,
+  "totalArchived": 118596,
+  "newPapersAdded": 188,
   "institutionBreakdown": {
-    "KAIST": 2,
-    "SNU": 43,
+    "KAIST": 7,
+    "SNU": 84,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 21,
-    "IBS": 100,
+    "POSTECH": 2,
+    "Korea University": 61,
+    "IBS": 19,
     "UNIST": 2,
-    "Hanyang University": 6,
+    "Hanyang University": 10,
     "KIST": 1,
     "GIST": 2,
-    "Kyung Hee University": 7,
-    "Pusan National University": 1
+    "Kyung Hee University": 8,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 71,
-    "Biomedical": 44,
     "Neuroscience": 7,
-    "Materials Science": 8,
-    "Cancer Research": 15,
-    "Computer Science": 5
+    "Multidisciplinary": 73,
+    "Materials Science": 15,
+    "Biomedical": 38,
+    "Cancer Research": 14,
+    "Computer Science": 3
   },
-  "multiInstitutional": 22,
+  "multiInstitutional": 37,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,14 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Glucocorticoid Replacement Duration After Unilateral Adrenalectomy for Mild Autonomous Cortisol Secretion and Adrenal Cushing Syndrome: A Multicenter Cohort Study",
+    "title": "Complementary vertebrate <em>Wac</em> models exhibit phenotypes relevant to DeSanto-Shinawi Syndrome",
     "date": "2026-09-03T10:00:00.000Z",
     "institutions": [
-      "GIST",
       "IBS",
-      "KAIST",
-      "Korea University",
-      "SNU"
+      "KAIST"
     ]
   }
 }
