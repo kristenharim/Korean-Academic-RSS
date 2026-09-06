@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-09-06T11:42:43.837Z",
+  "lastUpdate": "2026-09-06T21:11:19.568Z",
   "totalItems": 150,
-  "totalArchived": 119265,
-  "newPapersAdded": 170,
+  "totalArchived": 119272,
+  "newPapersAdded": 7,
   "institutionBreakdown": {
     "KAIST": 5,
     "SNU": 46,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 4,
-    "Korea University": 33,
-    "IBS": 81,
+    "Korea University": 28,
+    "IBS": 87,
     "UNIST": 1,
     "Hanyang University": 6,
     "KIST": 2,
@@ -19,12 +19,12 @@
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 79,
-    "Biomedical": 33,
+    "Multidisciplinary": 77,
+    "Biomedical": 34,
     "Cancer Research": 15,
     "Computer Science": 3,
     "Materials Science": 11,
-    "Neuroscience": 9
+    "Neuroscience": 10
   },
   "multiInstitutional": 30,
   "institutions": [
