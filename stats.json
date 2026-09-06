@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-05T21:05:21.273Z",
+  "lastUpdate": "2026-09-06T11:42:43.837Z",
   "totalItems": 150,
-  "totalArchived": 119095,
-  "newPapersAdded": 0,
+  "totalArchived": 119265,
+  "newPapersAdded": 170,
   "institutionBreakdown": {
-    "KAIST": 18,
-    "SNU": 60,
+    "KAIST": 5,
+    "SNU": 46,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 10,
-    "IBS": 77,
-    "UNIST": 0,
-    "Hanyang University": 3,
+    "POSTECH": 4,
+    "Korea University": 33,
+    "IBS": 81,
+    "UNIST": 1,
+    "Hanyang University": 6,
     "KIST": 2,
     "GIST": 2,
-    "Kyung Hee University": 5,
-    "Pusan National University": 3
+    "Kyung Hee University": 7,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 26,
-    "Multidisciplinary": 92,
-    "Neuroscience": 8,
-    "Cancer Research": 16,
-    "Materials Science": 5,
-    "Computer Science": 3
+    "Multidisciplinary": 79,
+    "Biomedical": 33,
+    "Cancer Research": 15,
+    "Computer Science": 3,
+    "Materials Science": 11,
+    "Neuroscience": 9
   },
-  "multiInstitutional": 28,
+  "multiInstitutional": 30,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "AI-Driven Rational Design of Nanotherapeutics for Pancreatic Ductal Adenocarcinoma",
-    "date": "2026-09-05T10:00:00.000Z",
+    "title": "Underwater self-curing and adhesion of phenolic polymer coacervate with negligible external stimuli",
+    "date": "2026-09-06T10:00:00.000Z",
     "institutions": [
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
