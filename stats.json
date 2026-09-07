@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-07T13:36:01.670Z",
+  "lastUpdate": "2026-09-07T21:57:07.663Z",
   "totalItems": 150,
-  "totalArchived": 119427,
-  "newPapersAdded": 155,
+  "totalArchived": 119571,
+  "newPapersAdded": 144,
   "institutionBreakdown": {
-    "KAIST": 8,
-    "SNU": 36,
+    "KAIST": 10,
+    "SNU": 46,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 19,
-    "IBS": 100,
-    "UNIST": 0,
-    "Hanyang University": 2,
-    "KIST": 2,
+    "Korea University": 38,
+    "IBS": 79,
+    "UNIST": 1,
+    "Hanyang University": 4,
+    "KIST": 3,
     "GIST": 1,
     "Kyung Hee University": 2,
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Materials Science": 12,
-    "Multidisciplinary": 71,
-    "Biomedical": 29,
-    "Cancer Research": 27,
-    "Computer Science": 2,
-    "Neuroscience": 9
+    "Biomedical": 37,
+    "Multidisciplinary": 82,
+    "Materials Science": 9,
+    "Neuroscience": 6,
+    "Cancer Research": 14,
+    "Computer Science": 2
   },
-  "multiInstitutional": 14,
+  "multiInstitutional": 22,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Internal Redox Mediation Governs Charge-Discharge Kinetic Asymmetry in Microscale Li- and Mn-Rich Layered Oxides for All-Solid-State Batteries",
+    "title": "Efficacy and Safety of Fixed-Dose Combination Therapy with Cilostazol and Rosuvastatin in Patients with Symptomatic Lower Extremity Peripheral Artery Disease: A Multicenter Randomized Controlled Trial",
     "date": "2026-09-07T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST",
+      "Korea University",
       "SNU"
     ]
   }
