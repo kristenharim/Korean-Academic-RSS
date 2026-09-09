@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-08T21:45:21.521Z",
+  "lastUpdate": "2026-09-09T12:25:03.872Z",
   "totalItems": 150,
-  "totalArchived": 119940,
-  "newPapersAdded": 184,
+  "totalArchived": 120092,
+  "newPapersAdded": 152,
   "institutionBreakdown": {
-    "KAIST": 12,
-    "SNU": 68,
+    "KAIST": 19,
+    "SNU": 82,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 50,
-    "IBS": 41,
-    "UNIST": 0,
-    "Hanyang University": 6,
-    "KIST": 3,
-    "GIST": 2,
-    "Kyung Hee University": 5,
-    "Pusan National University": 5
+    "POSTECH": 1,
+    "Korea University": 25,
+    "IBS": 57,
+    "UNIST": 1,
+    "Hanyang University": 8,
+    "KIST": 4,
+    "GIST": 4,
+    "Kyung Hee University": 7,
+    "Pusan National University": 8
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 89,
-    "Cancer Research": 17,
-    "Neuroscience": 9,
-    "Biomedical": 28,
-    "Materials Science": 6,
-    "Computer Science": 1
+    "Multidisciplinary": 77,
+    "Materials Science": 7,
+    "Biomedical": 36,
+    "Cancer Research": 15,
+    "Computer Science": 1,
+    "Neuroscience": 14
   },
-  "multiInstitutional": 36,
+  "multiInstitutional": 42,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Evaluation of a CeB6 Virtual Source Electron Gun Using a Custom-Made SEM to Enhance the Brightness and Resolution in Electron Microscopy",
-    "date": "2026-09-08T10:00:00.000Z",
+    "title": "Processing graphene fibres by viscous flow",
+    "date": "2026-09-09T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
