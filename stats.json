@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-10T12:18:30.290Z",
+  "lastUpdate": "2026-09-10T21:31:55.570Z",
   "totalItems": 150,
-  "totalArchived": 120455,
-  "newPapersAdded": 190,
+  "totalArchived": 120615,
+  "newPapersAdded": 160,
   "institutionBreakdown": {
-    "KAIST": 13,
-    "SNU": 88,
+    "KAIST": 12,
+    "SNU": 37,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 5,
-    "Korea University": 28,
-    "IBS": 52,
-    "UNIST": 2,
-    "Hanyang University": 5,
-    "KIST": 6,
-    "GIST": 5,
+    "POSTECH": 1,
+    "Korea University": 36,
+    "IBS": 79,
+    "UNIST": 0,
+    "Hanyang University": 4,
+    "KIST": 2,
+    "GIST": 1,
     "Kyung Hee University": 3,
-    "Pusan National University": 3
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 85,
-    "Biomedical": 37,
-    "Computer Science": 7,
-    "Cancer Research": 9,
-    "Materials Science": 5,
-    "Neuroscience": 7
+    "Multidisciplinary": 97,
+    "Cancer Research": 11,
+    "Materials Science": 4,
+    "Biomedical": 29,
+    "Neuroscience": 4,
+    "Computer Science": 5
   },
-  "multiInstitutional": 41,
+  "multiInstitutional": 16,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Chitosan-dsRNA improves tissue stability and delivery for RNAi-mediated Varroa destructor control",
+    "title": "Zipf-Mandelbrot scaling in Korean court music: Universal patterns in music",
     "date": "2026-09-10T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "POSTECH",
+      "SNU"
     ]
   }
 }
