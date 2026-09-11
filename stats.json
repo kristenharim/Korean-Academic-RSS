@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-10T21:31:55.570Z",
+  "lastUpdate": "2026-09-11T12:17:31.828Z",
   "totalItems": 150,
-  "totalArchived": 120615,
-  "newPapersAdded": 160,
+  "totalArchived": 120830,
+  "newPapersAdded": 215,
   "institutionBreakdown": {
-    "KAIST": 12,
-    "SNU": 37,
+    "KAIST": 19,
+    "SNU": 54,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 36,
-    "IBS": 79,
-    "UNIST": 0,
-    "Hanyang University": 4,
-    "KIST": 2,
-    "GIST": 1,
-    "Kyung Hee University": 3,
-    "Pusan National University": 0
+    "POSTECH": 3,
+    "Korea University": 16,
+    "IBS": 80,
+    "UNIST": 3,
+    "Hanyang University": 5,
+    "KIST": 1,
+    "GIST": 6,
+    "Kyung Hee University": 7,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 97,
-    "Cancer Research": 11,
-    "Materials Science": 4,
-    "Biomedical": 29,
-    "Neuroscience": 4,
-    "Computer Science": 5
+    "Cancer Research": 15,
+    "Biomedical": 31,
+    "Multidisciplinary": 79,
+    "Materials Science": 16,
+    "Computer Science": 2,
+    "Neuroscience": 7
   },
-  "multiInstitutional": 16,
+  "multiInstitutional": 29,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,13 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Zipf-Mandelbrot scaling in Korean court music: Universal patterns in music",
-    "date": "2026-09-10T10:00:00.000Z",
+    "title": "Targeted immunomodulation with CD44-targeting nanovaccine enhances antitumor immunity in melanoma through TLR7/8 and TLR3 agonists",
+    "date": "2026-09-11T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "POSTECH",
-      "SNU"
+      "KAIST"
     ]
   }
 }
