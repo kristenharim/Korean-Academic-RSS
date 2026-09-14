@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-13T21:22:14.526Z",
+  "lastUpdate": "2026-09-14T14:18:12.044Z",
   "totalItems": 150,
-  "totalArchived": 121363,
-  "newPapersAdded": 19,
+  "totalArchived": 121508,
+  "newPapersAdded": 145,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 57,
+    "KAIST": 3,
+    "SNU": 27,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 57,
-    "IBS": 47,
-    "UNIST": 0,
-    "Hanyang University": 3,
-    "KIST": 3,
-    "GIST": 1,
-    "Kyung Hee University": 9,
-    "Pusan National University": 2
+    "POSTECH": 0,
+    "Korea University": 19,
+    "IBS": 100,
+    "UNIST": 1,
+    "Hanyang University": 2,
+    "KIST": 0,
+    "GIST": 2,
+    "Kyung Hee University": 1,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 82,
+    "Multidisciplinary": 74,
+    "Neuroscience": 12,
+    "Cancer Research": 15,
+    "Computer Science": 6,
     "Biomedical": 36,
-    "Cancer Research": 19,
-    "Materials Science": 4,
-    "Neuroscience": 5,
-    "Computer Science": 4
+    "Materials Science": 7
   },
-  "multiInstitutional": 30,
+  "multiInstitutional": 8,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,9 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Ex vivo Evaluation of Live-MB2 and CX-2 Biotic Strains on Inflammatory and Barrier-Related Biomarkers in a Human Skin Atopic Dermatitis-Like Model",
-    "date": "2026-09-13T10:00:00.000Z",
+    "title": "Etiologic spectrum and in-hospital mortality of altered level of consciousness in the emergency department: a single-center retrospective observational study",
+    "date": "2026-09-14T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "Kyung Hee University",
       "SNU"
     ]
   }
