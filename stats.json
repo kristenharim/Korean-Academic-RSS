@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-16T12:41:23.408Z",
+  "lastUpdate": "2026-09-16T22:01:57.882Z",
   "totalItems": 150,
-  "totalArchived": 122270,
-  "newPapersAdded": 171,
+  "totalArchived": 122429,
+  "newPapersAdded": 159,
   "institutionBreakdown": {
-    "KAIST": 26,
-    "SNU": 24,
+    "KAIST": 9,
+    "SNU": 41,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 18,
-    "IBS": 100,
+    "POSTECH": 2,
+    "Korea University": 42,
+    "IBS": 66,
     "UNIST": 0,
     "Hanyang University": 1,
-    "KIST": 0,
-    "GIST": 4,
-    "Kyung Hee University": 5,
-    "Pusan National University": 3
+    "KIST": 1,
+    "GIST": 0,
+    "Kyung Hee University": 8,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Computer Science": 5,
-    "Multidisciplinary": 81,
-    "Cancer Research": 14,
-    "Biomedical": 33,
-    "Materials Science": 10,
-    "Neuroscience": 7
+    "Neuroscience": 5,
+    "Multidisciplinary": 89,
+    "Computer Science": 2,
+    "Biomedical": 32,
+    "Cancer Research": 12,
+    "Materials Science": 10
   },
-  "multiInstitutional": 20,
+  "multiInstitutional": 19,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Decision-centered artificial intelligence for perioperative care outside the operating room: a practical review for surgeons",
+    "title": "Scenario-Based Serious Game for Screening Mild Cognitive Impairment in Older Adults: Cross-Sectional Preliminary Validation Study",
     "date": "2026-09-16T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "Pusan National University"
     ]
   }
 }
