@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2026-09-16T22:01:57.882Z",
+  "lastUpdate": "2026-09-17T12:40:28.691Z",
   "totalItems": 150,
-  "totalArchived": 122429,
-  "newPapersAdded": 159,
+  "totalArchived": 122596,
+  "newPapersAdded": 167,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 41,
+    "KAIST": 17,
+    "SNU": 40,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 42,
-    "IBS": 66,
-    "UNIST": 0,
-    "Hanyang University": 1,
-    "KIST": 1,
-    "GIST": 0,
-    "Kyung Hee University": 8,
-    "Pusan National University": 1
+    "POSTECH": 1,
+    "Korea University": 10,
+    "IBS": 100,
+    "UNIST": 1,
+    "Hanyang University": 3,
+    "KIST": 0,
+    "GIST": 3,
+    "Kyung Hee University": 0,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Neuroscience": 5,
-    "Multidisciplinary": 89,
+    "Cancer Research": 14,
+    "Multidisciplinary": 83,
+    "Biomedical": 35,
+    "Materials Science": 12,
     "Computer Science": 2,
-    "Biomedical": 32,
-    "Cancer Research": 12,
-    "Materials Science": 10
+    "Neuroscience": 4
   },
   "multiInstitutional": 19,
   "institutions": [
@@ -44,12 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Scenario-Based Serious Game for Screening Mild Cognitive Impairment in Older Adults: Cross-Sectional Preliminary Validation Study",
-    "date": "2026-09-16T10:00:00.000Z",
+    "title": "Current status of fertility preservation for borderline ovarian tumor in Asian regions: results from ASGO-special task force for fertility preservation; part I. Fertility-sparing treatment for borderline ovarian tumor",
+    "date": "2026-09-17T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST",
-      "Pusan National University"
+      "Korea University",
+      "SNU"
     ]
   }
 }
