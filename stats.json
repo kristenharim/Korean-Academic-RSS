@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-17T12:40:28.691Z",
+  "lastUpdate": "2026-09-17T22:02:22.151Z",
   "totalItems": 150,
-  "totalArchived": 122596,
-  "newPapersAdded": 167,
+  "totalArchived": 122716,
+  "newPapersAdded": 120,
   "institutionBreakdown": {
-    "KAIST": 17,
-    "SNU": 40,
+    "KAIST": 14,
+    "SNU": 30,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 10,
-    "IBS": 100,
+    "Korea University": 20,
+    "IBS": 99,
     "UNIST": 1,
-    "Hanyang University": 3,
+    "Hanyang University": 1,
     "KIST": 0,
-    "GIST": 3,
+    "GIST": 1,
     "Kyung Hee University": 0,
     "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 14,
-    "Multidisciplinary": 83,
-    "Biomedical": 35,
-    "Materials Science": 12,
-    "Computer Science": 2,
-    "Neuroscience": 4
+    "Cancer Research": 16,
+    "Multidisciplinary": 79,
+    "Biomedical": 40,
+    "Computer Science": 1,
+    "Materials Science": 8,
+    "Neuroscience": 6
   },
-  "multiInstitutional": 19,
+  "multiInstitutional": 14,
   "institutions": [
     "KAIST",
     "SNU",
@@ -47,7 +47,6 @@
     "title": "Current status of fertility preservation for borderline ovarian tumor in Asian regions: results from ASGO-special task force for fertility preservation; part I. Fertility-sparing treatment for borderline ovarian tumor",
     "date": "2026-09-17T10:00:00.000Z",
     "institutions": [
-      "IBS",
       "KAIST",
       "Korea University",
       "SNU"
