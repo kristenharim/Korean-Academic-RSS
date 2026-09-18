@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-18T12:18:16.769Z",
+  "lastUpdate": "2026-09-18T21:34:21.896Z",
   "totalItems": 150,
-  "totalArchived": 122943,
-  "newPapersAdded": 227,
+  "totalArchived": 123114,
+  "newPapersAdded": 171,
   "institutionBreakdown": {
-    "KAIST": 18,
-    "SNU": 74,
+    "KAIST": 12,
+    "SNU": 71,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 10,
-    "IBS": 71,
-    "UNIST": 1,
-    "Hanyang University": 2,
-    "KIST": 2,
-    "GIST": 2,
-    "Kyung Hee University": 4,
-    "Pusan National University": 1
+    "POSTECH": 4,
+    "Korea University": 35,
+    "IBS": 53,
+    "UNIST": 2,
+    "Hanyang University": 8,
+    "KIST": 1,
+    "GIST": 3,
+    "Kyung Hee University": 5,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 82,
-    "Biomedical": 32,
-    "Materials Science": 4,
-    "Cancer Research": 19,
-    "Neuroscience": 7,
-    "Computer Science": 6
+    "Materials Science": 14,
+    "Multidisciplinary": 96,
+    "Biomedical": 20,
+    "Neuroscience": 6,
+    "Cancer Research": 13,
+    "Computer Science": 1
   },
-  "multiInstitutional": 28,
+  "multiInstitutional": 29,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Ferroelectric-Driven Nonvolatile Phase Transition in MoTe<sub>2</sub> Transistors With an Expanded Memory Window",
+    "title": "Search for New Physics via Low-Energy Electron Recoils with a 4.2 Tonne-Year Exposure from the LZ Experiment",
     "date": "2026-09-18T10:00:00.000Z",
     "institutions": [
       "IBS",
