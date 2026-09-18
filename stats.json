@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-17T22:02:22.151Z",
+  "lastUpdate": "2026-09-18T12:18:16.769Z",
   "totalItems": 150,
-  "totalArchived": 122716,
-  "newPapersAdded": 120,
+  "totalArchived": 122943,
+  "newPapersAdded": 227,
   "institutionBreakdown": {
-    "KAIST": 14,
-    "SNU": 30,
+    "KAIST": 18,
+    "SNU": 74,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 20,
-    "IBS": 99,
+    "POSTECH": 0,
+    "Korea University": 10,
+    "IBS": 71,
     "UNIST": 1,
-    "Hanyang University": 1,
-    "KIST": 0,
-    "GIST": 1,
-    "Kyung Hee University": 0,
-    "Pusan National University": 2
+    "Hanyang University": 2,
+    "KIST": 2,
+    "GIST": 2,
+    "Kyung Hee University": 4,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 16,
-    "Multidisciplinary": 79,
-    "Biomedical": 40,
-    "Computer Science": 1,
-    "Materials Science": 8,
-    "Neuroscience": 6
+    "Multidisciplinary": 82,
+    "Biomedical": 32,
+    "Materials Science": 4,
+    "Cancer Research": 19,
+    "Neuroscience": 7,
+    "Computer Science": 6
   },
-  "multiInstitutional": 14,
+  "multiInstitutional": 28,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Current status of fertility preservation for borderline ovarian tumor in Asian regions: results from ASGO-special task force for fertility preservation; part I. Fertility-sparing treatment for borderline ovarian tumor",
-    "date": "2026-09-17T10:00:00.000Z",
+    "title": "Ferroelectric-Driven Nonvolatile Phase Transition in MoTe<sub>2</sub> Transistors With an Expanded Memory Window",
+    "date": "2026-09-18T10:00:00.000Z",
     "institutions": [
-      "KAIST",
-      "Korea University",
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
