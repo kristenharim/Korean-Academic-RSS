@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-19T21:23:36.054Z",
+  "lastUpdate": "2026-09-20T12:32:11.527Z",
   "totalItems": 150,
-  "totalArchived": 123278,
-  "newPapersAdded": 0,
+  "totalArchived": 123460,
+  "newPapersAdded": 182,
   "institutionBreakdown": {
-    "KAIST": 17,
-    "SNU": 83,
+    "KAIST": 9,
+    "SNU": 45,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 16,
-    "IBS": 60,
-    "UNIST": 2,
-    "Hanyang University": 10,
-    "KIST": 1,
-    "GIST": 5,
+    "POSTECH": 1,
+    "Korea University": 47,
+    "IBS": 58,
+    "UNIST": 1,
+    "Hanyang University": 3,
+    "KIST": 2,
+    "GIST": 1,
     "Kyung Hee University": 9,
-    "Pusan National University": 2
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 37,
-    "Multidisciplinary": 87,
-    "Computer Science": 2,
-    "Materials Science": 3,
-    "Cancer Research": 11,
-    "Neuroscience": 10
+    "Biomedical": 43,
+    "Multidisciplinary": 74,
+    "Cancer Research": 18,
+    "Materials Science": 5,
+    "Neuroscience": 6,
+    "Computer Science": 4
   },
-  "multiInstitutional": 38,
+  "multiInstitutional": 24,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,9 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Arthroscopic partial meniscectomy should be performed carefully for medial meniscus tear with the anteromedial meniscofemoral ligament",
-    "date": "2026-09-19T10:00:00.000Z",
+    "title": "Nontruncating <em>FRMD7</em> Variants Are More Penetrant than Truncating Variants in Heterozygous Female Carriers of Infantile Nystagmus",
+    "date": "2026-09-20T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST",
       "SNU"
     ]
   }
