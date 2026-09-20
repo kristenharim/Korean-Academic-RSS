@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-09-20T12:32:11.527Z",
+  "lastUpdate": "2026-09-20T21:24:19.709Z",
   "totalItems": 150,
-  "totalArchived": 123460,
-  "newPapersAdded": 182,
+  "totalArchived": 123463,
+  "newPapersAdded": 3,
   "institutionBreakdown": {
     "KAIST": 9,
     "SNU": 45,
@@ -20,8 +20,8 @@
   },
   "subjectAreaBreakdown": {
     "Biomedical": 43,
-    "Multidisciplinary": 74,
-    "Cancer Research": 18,
+    "Multidisciplinary": 75,
+    "Cancer Research": 17,
     "Materials Science": 5,
     "Neuroscience": 6,
     "Computer Science": 4
