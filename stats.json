@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-21T14:24:43.768Z",
+  "lastUpdate": "2026-09-21T22:32:41.071Z",
   "totalItems": 150,
-  "totalArchived": 123610,
-  "newPapersAdded": 147,
+  "totalArchived": 123737,
+  "newPapersAdded": 127,
   "institutionBreakdown": {
-    "KAIST": 7,
-    "SNU": 36,
+    "KAIST": 0,
+    "SNU": 0,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 28,
-    "IBS": 99,
-    "UNIST": 0,
-    "Hanyang University": 2,
-    "KIST": 0,
-    "GIST": 2,
+    "POSTECH": 3,
+    "Korea University": 41,
+    "IBS": 100,
+    "UNIST": 1,
+    "Hanyang University": 6,
+    "KIST": 1,
+    "GIST": 5,
     "Kyung Hee University": 4,
-    "Pusan National University": 4
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Neuroscience": 12,
-    "Multidisciplinary": 86,
-    "Cancer Research": 21,
-    "Biomedical": 18,
-    "Materials Science": 9,
-    "Computer Science": 4
+    "Multidisciplinary": 89,
+    "Cancer Research": 12,
+    "Biomedical": 28,
+    "Computer Science": 4,
+    "Neuroscience": 9,
+    "Materials Science": 8
   },
-  "multiInstitutional": 21,
+  "multiInstitutional": 8,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Association of combined mobility and cognitive impairments with adverse health outcomes in adults aged 66 years: a nationwide cohort study",
+    "title": "Emissivity prediction framework for freestanding multilayer nanomembranes",
     "date": "2026-09-21T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST",
-      "SNU"
+      "Hanyang University",
+      "POSTECH"
     ]
   }
 }
