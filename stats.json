@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-20T21:24:19.709Z",
+  "lastUpdate": "2026-09-21T14:24:43.768Z",
   "totalItems": 150,
-  "totalArchived": 123463,
-  "newPapersAdded": 3,
+  "totalArchived": 123610,
+  "newPapersAdded": 147,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 45,
+    "KAIST": 7,
+    "SNU": 36,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 47,
-    "IBS": 58,
-    "UNIST": 1,
-    "Hanyang University": 3,
-    "KIST": 2,
-    "GIST": 1,
-    "Kyung Hee University": 9,
-    "Pusan National University": 3
+    "Korea University": 28,
+    "IBS": 99,
+    "UNIST": 0,
+    "Hanyang University": 2,
+    "KIST": 0,
+    "GIST": 2,
+    "Kyung Hee University": 4,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 43,
-    "Multidisciplinary": 75,
-    "Cancer Research": 17,
-    "Materials Science": 5,
-    "Neuroscience": 6,
+    "Neuroscience": 12,
+    "Multidisciplinary": 86,
+    "Cancer Research": 21,
+    "Biomedical": 18,
+    "Materials Science": 9,
     "Computer Science": 4
   },
-  "multiInstitutional": 24,
+  "multiInstitutional": 21,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,9 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Nontruncating <em>FRMD7</em> Variants Are More Penetrant than Truncating Variants in Heterozygous Female Carriers of Infantile Nystagmus",
-    "date": "2026-09-20T10:00:00.000Z",
+    "title": "Association of combined mobility and cognitive impairments with adverse health outcomes in adults aged 66 years: a nationwide cohort study",
+    "date": "2026-09-21T10:00:00.000Z",
     "institutions": [
+      "IBS",
+      "KAIST",
       "SNU"
     ]
   }
