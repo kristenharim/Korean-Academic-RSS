@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-21T22:32:41.071Z",
+  "lastUpdate": "2026-09-22T12:44:27.206Z",
   "totalItems": 150,
-  "totalArchived": 123737,
-  "newPapersAdded": 127,
+  "totalArchived": 123921,
+  "newPapersAdded": 184,
   "institutionBreakdown": {
-    "KAIST": 0,
-    "SNU": 0,
+    "KAIST": 14,
+    "SNU": 41,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 41,
+    "POSTECH": 0,
+    "Korea University": 16,
     "IBS": 100,
-    "UNIST": 1,
-    "Hanyang University": 6,
-    "KIST": 1,
-    "GIST": 5,
+    "UNIST": 0,
+    "Hanyang University": 5,
+    "KIST": 0,
+    "GIST": 6,
     "Kyung Hee University": 4,
-    "Pusan National University": 0
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 89,
-    "Cancer Research": 12,
-    "Biomedical": 28,
-    "Computer Science": 4,
-    "Neuroscience": 9,
-    "Materials Science": 8
+    "Computer Science": 6,
+    "Multidisciplinary": 93,
+    "Materials Science": 7,
+    "Neuroscience": 14,
+    "Biomedical": 20,
+    "Cancer Research": 10
   },
-  "multiInstitutional": 8,
+  "multiInstitutional": 28,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Emissivity prediction framework for freestanding multilayer nanomembranes",
-    "date": "2026-09-21T10:00:00.000Z",
+    "title": "Attitudes and Perceptions of Generative Artificial Intelligence Chatbots in the Scientific Process of Traditional, Complementary, and Integrative Medicine Research: A Large-Scale, International Cross-Sectional Survey",
+    "date": "2026-09-22T10:00:00.000Z",
     "institutions": [
-      "Hanyang University",
-      "POSTECH"
+      "IBS",
+      "KAIST"
     ]
   }
 }
