@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-22T21:59:17.729Z",
+  "lastUpdate": "2026-09-23T12:51:48.752Z",
   "totalItems": 150,
-  "totalArchived": 124052,
-  "newPapersAdded": 131,
+  "totalArchived": 124249,
+  "newPapersAdded": 197,
   "institutionBreakdown": {
-    "KAIST": 4,
-    "SNU": 33,
+    "KAIST": 18,
+    "SNU": 66,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 20,
-    "IBS": 98,
-    "UNIST": 0,
-    "Hanyang University": 2,
-    "KIST": 0,
-    "GIST": 2,
-    "Kyung Hee University": 1,
-    "Pusan National University": 0
+    "Korea University": 19,
+    "IBS": 78,
+    "UNIST": 1,
+    "Hanyang University": 7,
+    "KIST": 2,
+    "GIST": 4,
+    "Kyung Hee University": 8,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 81,
-    "Computer Science": 3,
-    "Materials Science": 15,
-    "Biomedical": 28,
-    "Cancer Research": 15,
-    "Neuroscience": 8
+    "Materials Science": 8,
+    "Biomedical": 34,
+    "Multidisciplinary": 85,
+    "Neuroscience": 4,
+    "Cancer Research": 12,
+    "Computer Science": 7
   },
-  "multiInstitutional": 11,
+  "multiInstitutional": 34,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,14 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Spatially controlled interfacial engineering by area-selective atomic layer deposition of Nb<sub>2</sub>O<sub>5</sub> for high-performance metal-insulator-metal capacitors",
-    "date": "2026-09-22T10:00:00.000Z",
+    "title": "Eliminating Texture-Induced Retention of Self-Assembled Monolayer Residues for High-Performance Perovskite Solar Cells",
+    "date": "2026-09-23T10:00:00.000Z",
     "institutions": [
       "Hanyang University",
-      "KAIST"
+      "IBS",
+      "KAIST",
+      "SNU",
+      "UNIST"
     ]
   }
 }
