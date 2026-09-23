@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-23T12:51:48.752Z",
+  "lastUpdate": "2026-09-23T22:11:11.206Z",
   "totalItems": 150,
-  "totalArchived": 124249,
-  "newPapersAdded": 197,
+  "totalArchived": 124432,
+  "newPapersAdded": 183,
   "institutionBreakdown": {
-    "KAIST": 18,
-    "SNU": 66,
+    "KAIST": 17,
+    "SNU": 64,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 19,
-    "IBS": 78,
-    "UNIST": 1,
-    "Hanyang University": 7,
-    "KIST": 2,
-    "GIST": 4,
-    "Kyung Hee University": 8,
+    "POSTECH": 3,
+    "Korea University": 59,
+    "IBS": 37,
+    "UNIST": 2,
+    "Hanyang University": 5,
+    "KIST": 1,
+    "GIST": 2,
+    "Kyung Hee University": 9,
     "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Materials Science": 8,
-    "Biomedical": 34,
-    "Multidisciplinary": 85,
-    "Neuroscience": 4,
-    "Cancer Research": 12,
-    "Computer Science": 7
+    "Computer Science": 6,
+    "Biomedical": 38,
+    "Multidisciplinary": 76,
+    "Materials Science": 6,
+    "Neuroscience": 10,
+    "Cancer Research": 14
   },
-  "multiInstitutional": 34,
+  "multiInstitutional": 33,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,14 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Eliminating Texture-Induced Retention of Self-Assembled Monolayer Residues for High-Performance Perovskite Solar Cells",
+    "title": "Multioutput Machine Learning Model for Predicting Postoperative Outcomes After Liposuction: Algorithm Development and Validation Study in a Multicenter Cohort",
     "date": "2026-09-23T10:00:00.000Z",
     "institutions": [
-      "Hanyang University",
       "IBS",
       "KAIST",
-      "SNU",
-      "UNIST"
+      "Kyung Hee University",
+      "SNU"
     ]
   }
 }
