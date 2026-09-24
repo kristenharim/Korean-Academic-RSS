@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-23T22:11:11.206Z",
+  "lastUpdate": "2026-09-24T12:49:00.514Z",
   "totalItems": 150,
-  "totalArchived": 124432,
-  "newPapersAdded": 183,
+  "totalArchived": 124577,
+  "newPapersAdded": 145,
   "institutionBreakdown": {
-    "KAIST": 17,
-    "SNU": 64,
+    "KAIST": 20,
+    "SNU": 87,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 59,
-    "IBS": 37,
+    "POSTECH": 4,
+    "Korea University": 14,
+    "IBS": 55,
     "UNIST": 2,
-    "Hanyang University": 5,
-    "KIST": 1,
-    "GIST": 2,
-    "Kyung Hee University": 9,
+    "Hanyang University": 8,
+    "KIST": 4,
+    "GIST": 3,
+    "Kyung Hee University": 10,
     "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Computer Science": 6,
-    "Biomedical": 38,
-    "Multidisciplinary": 76,
-    "Materials Science": 6,
-    "Neuroscience": 10,
-    "Cancer Research": 14
+    "Multidisciplinary": 86,
+    "Neuroscience": 6,
+    "Biomedical": 40,
+    "Cancer Research": 7,
+    "Materials Science": 5,
+    "Computer Science": 6
   },
-  "multiInstitutional": 33,
+  "multiInstitutional": 42,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,9 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Multioutput Machine Learning Model for Predicting Postoperative Outcomes After Liposuction: Algorithm Development and Validation Study in a Multicenter Cohort",
-    "date": "2026-09-23T10:00:00.000Z",
+    "title": "Tailoring ethyl cellulose fibrous films with a TiO<sub>2</sub>/CDs nanohybrid for atmospheric preservation of climacteric fruits",
+    "date": "2026-09-24T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST",
       "Kyung Hee University",
       "SNU"
     ]
