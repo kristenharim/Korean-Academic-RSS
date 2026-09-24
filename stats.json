@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-24T12:49:00.514Z",
+  "lastUpdate": "2026-09-24T22:11:36.987Z",
   "totalItems": 150,
-  "totalArchived": 124577,
-  "newPapersAdded": 145,
+  "totalArchived": 124716,
+  "newPapersAdded": 139,
   "institutionBreakdown": {
-    "KAIST": 20,
-    "SNU": 87,
+    "KAIST": 10,
+    "SNU": 33,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 14,
-    "IBS": 55,
-    "UNIST": 2,
-    "Hanyang University": 8,
-    "KIST": 4,
-    "GIST": 3,
-    "Kyung Hee University": 10,
-    "Pusan National University": 4
+    "POSTECH": 1,
+    "Korea University": 20,
+    "IBS": 99,
+    "UNIST": 0,
+    "Hanyang University": 5,
+    "KIST": 0,
+    "GIST": 0,
+    "Kyung Hee University": 3,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 86,
-    "Neuroscience": 6,
-    "Biomedical": 40,
-    "Cancer Research": 7,
-    "Materials Science": 5,
-    "Computer Science": 6
+    "Multidisciplinary": 81,
+    "Computer Science": 6,
+    "Biomedical": 30,
+    "Cancer Research": 19,
+    "Neuroscience": 10,
+    "Materials Science": 4
   },
-  "multiInstitutional": 42,
+  "multiInstitutional": 15,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Tailoring ethyl cellulose fibrous films with a TiO<sub>2</sub>/CDs nanohybrid for atmospheric preservation of climacteric fruits",
+    "title": "A self-crosslinkable, adhesive intestine-derived extracellular matrix hydrogel enhances organoid retention and restores intestinal barrier integrity",
     "date": "2026-09-24T10:00:00.000Z",
     "institutions": [
-      "Kyung Hee University",
+      "IBS",
+      "KAIST",
+      "Korea University",
       "SNU"
     ]
   }
