@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-27T13:12:06.975Z",
+  "lastUpdate": "2026-09-27T21:59:28.158Z",
   "totalItems": 150,
-  "totalArchived": 125659,
-  "newPapersAdded": 170,
+  "totalArchived": 125773,
+  "newPapersAdded": 114,
   "institutionBreakdown": {
-    "KAIST": 48,
-    "SNU": 72,
+    "KAIST": 18,
+    "SNU": 31,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 19,
-    "IBS": 38,
-    "UNIST": 0,
+    "POSTECH": 0,
+    "Korea University": 16,
+    "IBS": 100,
+    "UNIST": 3,
     "Hanyang University": 2,
-    "KIST": 4,
-    "GIST": 6,
-    "Kyung Hee University": 8,
-    "Pusan National University": 7
+    "KIST": 3,
+    "GIST": 2,
+    "Kyung Hee University": 3,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 44,
+    "Materials Science": 20,
+    "Multidisciplinary": 67,
+    "Biomedical": 28,
     "Neuroscience": 10,
     "Cancer Research": 21,
-    "Multidisciplinary": 64,
-    "Materials Science": 10,
-    "Computer Science": 1
+    "Computer Science": 4
   },
-  "multiInstitutional": 45,
+  "multiInstitutional": 21,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Digital twin for neurological conditions: a systematic scoping review",
+    "title": "Sodiophilic Na<sub>3</sub>Sb Framework-Regulated Sodium Deposition and Interphase Evolution for Dendrite-Free and Long-Life Sodium Metal Batteries",
     "date": "2026-09-27T10:00:00.000Z",
     "institutions": [
       "IBS",
