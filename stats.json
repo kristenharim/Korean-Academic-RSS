@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-26T21:55:49.844Z",
+  "lastUpdate": "2026-09-27T13:12:06.975Z",
   "totalItems": 150,
-  "totalArchived": 125489,
-  "newPapersAdded": 0,
+  "totalArchived": 125659,
+  "newPapersAdded": 170,
   "institutionBreakdown": {
-    "KAIST": 40,
-    "SNU": 100,
+    "KAIST": 48,
+    "SNU": 72,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 27,
-    "IBS": 10,
+    "POSTECH": 2,
+    "Korea University": 19,
+    "IBS": 38,
     "UNIST": 0,
-    "Hanyang University": 4,
-    "KIST": 1,
+    "Hanyang University": 2,
+    "KIST": 4,
     "GIST": 6,
-    "Kyung Hee University": 15,
-    "Pusan National University": 5
+    "Kyung Hee University": 8,
+    "Pusan National University": 7
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 16,
-    "Multidisciplinary": 63,
-    "Biomedical": 40,
-    "Neuroscience": 8,
-    "Materials Science": 21,
-    "Computer Science": 2
+    "Biomedical": 44,
+    "Neuroscience": 10,
+    "Cancer Research": 21,
+    "Multidisciplinary": 64,
+    "Materials Science": 10,
+    "Computer Science": 1
   },
-  "multiInstitutional": 52,
+  "multiInstitutional": 45,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "NeuroTrustNet: a cost-effective multimodal ensemble framework for brain tumor classification under cross-dataset variability",
-    "date": "2026-09-26T10:00:00.000Z",
+    "title": "Digital twin for neurological conditions: a systematic scoping review",
+    "date": "2026-09-27T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
