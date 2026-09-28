@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-28T15:42:50.226Z",
+  "lastUpdate": "2026-09-28T23:47:42.294Z",
   "totalItems": 150,
-  "totalArchived": 125935,
-  "newPapersAdded": 162,
+  "totalArchived": 126059,
+  "newPapersAdded": 124,
   "institutionBreakdown": {
-    "KAIST": 14,
-    "SNU": 31,
+    "KAIST": 4,
+    "SNU": 32,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 0,
-    "Korea University": 15,
-    "IBS": 100,
-    "UNIST": 2,
-    "Hanyang University": 3,
-    "KIST": 1,
-    "GIST": 5,
+    "Korea University": 25,
+    "IBS": 96,
+    "UNIST": 1,
+    "Hanyang University": 4,
+    "KIST": 0,
+    "GIST": 0,
     "Kyung Hee University": 4,
-    "Pusan National University": 1
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 75,
-    "Biomedical": 40,
-    "Cancer Research": 13,
-    "Neuroscience": 10,
-    "Computer Science": 3,
-    "Materials Science": 9
+    "Biomedical": 33,
+    "Multidisciplinary": 88,
+    "Materials Science": 2,
+    "Cancer Research": 14,
+    "Neuroscience": 9,
+    "Computer Science": 4
   },
-  "multiInstitutional": 20,
+  "multiInstitutional": 14,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,14 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Development of Korea Superconducting Tokamak Advanced Researches (KSTAR) Lyman alpha diagnostics and its synthetic data algorithm",
+    "title": "Diagnostic Yield of Genetic Testing in Cerebral Palsy: A Systematic Review and Meta-Analysis",
     "date": "2026-09-28T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST",
-      "UNIST"
+      "Korea University",
+      "Pusan National University",
+      "SNU"
     ]
   }
 }
