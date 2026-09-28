@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-27T21:59:28.158Z",
+  "lastUpdate": "2026-09-28T15:42:50.226Z",
   "totalItems": 150,
-  "totalArchived": 125773,
-  "newPapersAdded": 114,
+  "totalArchived": 125935,
+  "newPapersAdded": 162,
   "institutionBreakdown": {
-    "KAIST": 18,
+    "KAIST": 14,
     "SNU": 31,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 0,
-    "Korea University": 16,
+    "Korea University": 15,
     "IBS": 100,
-    "UNIST": 3,
-    "Hanyang University": 2,
-    "KIST": 3,
-    "GIST": 2,
-    "Kyung Hee University": 3,
-    "Pusan National University": 3
+    "UNIST": 2,
+    "Hanyang University": 3,
+    "KIST": 1,
+    "GIST": 5,
+    "Kyung Hee University": 4,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Materials Science": 20,
-    "Multidisciplinary": 67,
-    "Biomedical": 28,
+    "Multidisciplinary": 75,
+    "Biomedical": 40,
+    "Cancer Research": 13,
     "Neuroscience": 10,
-    "Cancer Research": 21,
-    "Computer Science": 4
+    "Computer Science": 3,
+    "Materials Science": 9
   },
-  "multiInstitutional": 21,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Sodiophilic Na<sub>3</sub>Sb Framework-Regulated Sodium Deposition and Interphase Evolution for Dendrite-Free and Long-Life Sodium Metal Batteries",
-    "date": "2026-09-27T10:00:00.000Z",
+    "title": "Development of Korea Superconducting Tokamak Advanced Researches (KSTAR) Lyman alpha diagnostics and its synthetic data algorithm",
+    "date": "2026-09-28T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "UNIST"
     ]
   }
 }
