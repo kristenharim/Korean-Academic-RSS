@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-29T14:11:27.289Z",
+  "lastUpdate": "2026-09-29T22:55:16.978Z",
   "totalItems": 150,
-  "totalArchived": 126233,
-  "newPapersAdded": 174,
+  "totalArchived": 126374,
+  "newPapersAdded": 141,
   "institutionBreakdown": {
-    "KAIST": 8,
-    "SNU": 63,
+    "KAIST": 5,
+    "SNU": 39,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 18,
-    "IBS": 75,
+    "POSTECH": 2,
+    "Korea University": 20,
+    "IBS": 92,
     "UNIST": 1,
-    "Hanyang University": 6,
+    "Hanyang University": 2,
     "KIST": 2,
-    "GIST": 3,
-    "Kyung Hee University": 3,
-    "Pusan National University": 6
+    "GIST": 1,
+    "Kyung Hee University": 2,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 17,
-    "Materials Science": 9,
-    "Computer Science": 3,
-    "Biomedical": 33,
-    "Multidisciplinary": 77,
-    "Neuroscience": 11
+    "Materials Science": 13,
+    "Multidisciplinary": 80,
+    "Cancer Research": 13,
+    "Biomedical": 36,
+    "Neuroscience": 5,
+    "Computer Science": 3
   },
-  "multiInstitutional": 26,
+  "multiInstitutional": 12,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,14 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "The Impact of SF3B1 Mutations on the Tumor Microenvironment and Response to Immunotherapy",
+    "title": "Radiative Thermal Management for Extreme Environments: Mechanisms and Design Strategies",
     "date": "2026-09-29T10:00:00.000Z",
     "institutions": [
+      "GIST",
       "IBS",
-      "KAIST"
+      "KAIST",
+      "Pusan National University",
+      "SNU"
     ]
   }
 }
