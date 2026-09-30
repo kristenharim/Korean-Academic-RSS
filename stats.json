@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-30T14:01:53.216Z",
+  "lastUpdate": "2026-09-30T22:55:04.996Z",
   "totalItems": 150,
-  "totalArchived": 126575,
-  "newPapersAdded": 201,
+  "totalArchived": 126763,
+  "newPapersAdded": 188,
   "institutionBreakdown": {
-    "KAIST": 17,
-    "SNU": 37,
+    "KAIST": 14,
+    "SNU": 77,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 14,
-    "IBS": 100,
-    "UNIST": 2,
-    "Hanyang University": 4,
-    "KIST": 6,
+    "POSTECH": 5,
+    "Korea University": 41,
+    "IBS": 36,
+    "UNIST": 1,
+    "Hanyang University": 8,
+    "KIST": 3,
     "GIST": 4,
-    "Kyung Hee University": 3,
-    "Pusan National University": 1
+    "Kyung Hee University": 8,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 38,
-    "Neuroscience": 12,
-    "Multidisciplinary": 77,
-    "Materials Science": 9,
+    "Multidisciplinary": 80,
+    "Biomedical": 39,
     "Cancer Research": 12,
+    "Materials Science": 7,
+    "Neuroscience": 10,
     "Computer Science": 2
   },
-  "multiInstitutional": 26,
+  "multiInstitutional": 33,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,15 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Korean College of Rheumatology treatment recommendations for patients with axial spondyloarthritis: 2026 update",
+    "title": "Cisplatin-induced oxidative stress and ferroptosis-associated injury in retinal pigment epithelial cells attenuated by Toxoplasma gondii infection",
     "date": "2026-09-30T10:00:00.000Z",
     "institutions": [
-      "GIST",
-      "Hanyang University",
       "IBS",
-      "KAIST",
-      "Kyung Hee University",
-      "SNU"
+      "KAIST"
     ]
   }
 }
