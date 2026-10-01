@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-09-30T22:55:04.996Z",
+  "lastUpdate": "2026-10-01T14:39:37.427Z",
   "totalItems": 150,
-  "totalArchived": 126763,
-  "newPapersAdded": 188,
+  "totalArchived": 126953,
+  "newPapersAdded": 190,
   "institutionBreakdown": {
-    "KAIST": 14,
-    "SNU": 77,
+    "KAIST": 27,
+    "SNU": 31,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 5,
-    "Korea University": 41,
-    "IBS": 36,
-    "UNIST": 1,
-    "Hanyang University": 8,
-    "KIST": 3,
-    "GIST": 4,
-    "Kyung Hee University": 8,
-    "Pusan National University": 0
+    "POSTECH": 1,
+    "Korea University": 11,
+    "IBS": 95,
+    "UNIST": 2,
+    "Hanyang University": 3,
+    "KIST": 2,
+    "GIST": 6,
+    "Kyung Hee University": 3,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 80,
-    "Biomedical": 39,
-    "Cancer Research": 12,
-    "Materials Science": 7,
-    "Neuroscience": 10,
-    "Computer Science": 2
+    "Multidisciplinary": 82,
+    "Biomedical": 26,
+    "Computer Science": 4,
+    "Cancer Research": 11,
+    "Neuroscience": 17,
+    "Materials Science": 10
   },
-  "multiInstitutional": 33,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Cisplatin-induced oxidative stress and ferroptosis-associated injury in retinal pigment epithelial cells attenuated by Toxoplasma gondii infection",
-    "date": "2026-09-30T10:00:00.000Z",
+    "title": "Uncertainty-Aware Zero-Day Botnet Detection for IoT Networks with Real-World Edge Deployment on Resource-Constrained Hardware",
+    "date": "2026-10-01T10:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
