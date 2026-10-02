@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-02T13:59:55.814Z",
+  "lastUpdate": "2026-10-02T22:54:30.279Z",
   "totalItems": 150,
-  "totalArchived": 127288,
-  "newPapersAdded": 219,
+  "totalArchived": 127451,
+  "newPapersAdded": 163,
   "institutionBreakdown": {
-    "KAIST": 16,
-    "SNU": 80,
+    "KAIST": 9,
+    "SNU": 43,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 2,
-    "Korea University": 19,
-    "IBS": 58,
+    "Korea University": 36,
+    "IBS": 75,
     "UNIST": 0,
-    "Hanyang University": 3,
-    "KIST": 4,
-    "GIST": 4,
+    "Hanyang University": 4,
+    "KIST": 1,
+    "GIST": 1,
     "Kyung Hee University": 2,
-    "Pusan National University": 5
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 33,
-    "Multidisciplinary": 83,
-    "Neuroscience": 5,
-    "Cancer Research": 16,
-    "Materials Science": 10,
-    "Computer Science": 3
+    "Biomedical": 30,
+    "Multidisciplinary": 74,
+    "Cancer Research": 23,
+    "Neuroscience": 11,
+    "Computer Science": 5,
+    "Materials Science": 7
   },
-  "multiInstitutional": 30,
+  "multiInstitutional": 21,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Lee Byeong-haeng's Taegeuk Acupuncture and the Debate over the Modernization of Korean Medicine",
+    "title": "The effect of intermittent theta burst stimulation on central poststroke pain: A pilot randomized controlled trial",
     "date": "2026-10-02T10:00:00.000Z",
     "institutions": [
       "IBS",
