@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-02T22:54:30.279Z",
+  "lastUpdate": "2026-10-03T12:39:55.114Z",
   "totalItems": 150,
-  "totalArchived": 127451,
-  "newPapersAdded": 163,
+  "totalArchived": 127581,
+  "newPapersAdded": 130,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 43,
+    "KAIST": 16,
+    "SNU": 59,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 36,
-    "IBS": 75,
-    "UNIST": 0,
+    "POSTECH": 3,
+    "Korea University": 60,
+    "IBS": 37,
+    "UNIST": 1,
     "Hanyang University": 4,
-    "KIST": 1,
-    "GIST": 1,
-    "Kyung Hee University": 2,
+    "KIST": 2,
+    "GIST": 2,
+    "Kyung Hee University": 3,
     "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 30,
-    "Multidisciplinary": 74,
-    "Cancer Research": 23,
-    "Neuroscience": 11,
-    "Computer Science": 5,
-    "Materials Science": 7
+    "Multidisciplinary": 81,
+    "Biomedical": 34,
+    "Neuroscience": 10,
+    "Computer Science": 4,
+    "Materials Science": 10,
+    "Cancer Research": 11
   },
-  "multiInstitutional": 21,
+  "multiInstitutional": 30,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "The effect of intermittent theta burst stimulation on central poststroke pain: A pilot randomized controlled trial",
-    "date": "2026-10-02T10:00:00.000Z",
+    "title": "Metformin Use Before Assisted Reproductive Technology and Pregnancy Outcomes in Women With Polycystic Ovary Syndrome: A Nationwide Cohort Study",
+    "date": "2026-10-03T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST"
+      "SNU"
     ]
   }
 }
