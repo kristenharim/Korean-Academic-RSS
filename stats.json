@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-10-04T13:21:50.372Z",
+  "lastUpdate": "2026-10-04T22:17:03.413Z",
   "totalItems": 150,
-  "totalArchived": 127739,
-  "newPapersAdded": 158,
+  "totalArchived": 127766,
+  "newPapersAdded": 27,
   "institutionBreakdown": {
-    "KAIST": 3,
-    "SNU": 23,
+    "KAIST": 5,
+    "SNU": 25,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
     "Korea University": 38,
-    "IBS": 93,
+    "IBS": 91,
     "UNIST": 0,
     "Hanyang University": 4,
     "KIST": 2,
@@ -19,14 +19,14 @@
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
+    "Multidisciplinary": 75,
+    "Materials Science": 10,
     "Cancer Research": 16,
-    "Multidisciplinary": 72,
-    "Materials Science": 8,
-    "Biomedical": 40,
-    "Neuroscience": 11,
-    "Computer Science": 3
+    "Biomedical": 38,
+    "Neuroscience": 9,
+    "Computer Science": 2
   },
-  "multiInstitutional": 13,
+  "multiInstitutional": 15,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Tumor-to-tumor metastasis of small cell carcinoma of presumed pulmonary origin to a sphenoid ridge meningioma: A diagnostic pitfall in preoperative systemic evaluation",
+    "title": "Determination of Gene-Level Fitness Contributions Across the Mucin-Utilization Network of Bacteroides thetaiotaomicron",
     "date": "2026-10-04T10:00:00.000Z",
     "institutions": [
-      "Korea University"
+      "IBS",
+      "KAIST"
     ]
   }
 }
