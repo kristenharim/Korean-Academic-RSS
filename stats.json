@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-03T22:05:24.503Z",
+  "lastUpdate": "2026-10-04T13:21:50.372Z",
   "totalItems": 150,
-  "totalArchived": 127581,
-  "newPapersAdded": 0,
+  "totalArchived": 127739,
+  "newPapersAdded": 158,
   "institutionBreakdown": {
-    "KAIST": 16,
-    "SNU": 59,
+    "KAIST": 3,
+    "SNU": 23,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 60,
-    "IBS": 37,
-    "UNIST": 1,
+    "POSTECH": 1,
+    "Korea University": 38,
+    "IBS": 93,
+    "UNIST": 0,
     "Hanyang University": 4,
     "KIST": 2,
-    "GIST": 2,
-    "Kyung Hee University": 3,
-    "Pusan National University": 2
+    "GIST": 0,
+    "Kyung Hee University": 2,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 81,
-    "Biomedical": 34,
-    "Neuroscience": 10,
-    "Computer Science": 4,
-    "Materials Science": 10,
-    "Cancer Research": 11
+    "Cancer Research": 16,
+    "Multidisciplinary": 72,
+    "Materials Science": 8,
+    "Biomedical": 40,
+    "Neuroscience": 11,
+    "Computer Science": 3
   },
-  "multiInstitutional": 30,
+  "multiInstitutional": 13,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Metformin Use Before Assisted Reproductive Technology and Pregnancy Outcomes in Women With Polycystic Ovary Syndrome: A Nationwide Cohort Study",
-    "date": "2026-10-03T10:00:00.000Z",
+    "title": "Tumor-to-tumor metastasis of small cell carcinoma of presumed pulmonary origin to a sphenoid ridge meningioma: A diagnostic pitfall in preoperative systemic evaluation",
+    "date": "2026-10-04T10:00:00.000Z",
     "institutions": [
-      "SNU"
+      "Korea University"
     ]
   }
 }
