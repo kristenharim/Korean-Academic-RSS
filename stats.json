@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-06T00:43:57.117Z",
+  "lastUpdate": "2026-10-06T14:19:39.926Z",
   "totalItems": 150,
-  "totalArchived": 128035,
-  "newPapersAdded": 122,
+  "totalArchived": 128220,
+  "newPapersAdded": 185,
   "institutionBreakdown": {
-    "KAIST": 1,
-    "SNU": 33,
+    "KAIST": 12,
+    "SNU": 56,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 38,
-    "IBS": 87,
+    "Korea University": 11,
+    "IBS": 92,
     "UNIST": 0,
-    "Hanyang University": 3,
-    "KIST": 0,
-    "GIST": 0,
+    "Hanyang University": 7,
+    "KIST": 2,
+    "GIST": 6,
     "Kyung Hee University": 4,
-    "Pusan National University": 1
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 80,
-    "Biomedical": 35,
-    "Neuroscience": 6,
-    "Cancer Research": 21,
-    "Materials Science": 3,
-    "Computer Science": 5
+    "Multidisciplinary": 75,
+    "Biomedical": 34,
+    "Cancer Research": 19,
+    "Materials Science": 12,
+    "Computer Science": 3,
+    "Neuroscience": 7
   },
-  "multiInstitutional": 17,
+  "multiInstitutional": 25,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Different regulatory mechanisms of hepatitis B- and C-positive hepatocellular carcinoma by single-cell RNA sequencing",
-    "date": "2026-10-05T10:00:00.000Z",
+    "title": "Sarcopenia, Depression, Fatigue, and Fear of Falling in Middle-Aged and Older Adults With Visual Impairment: Empirical Research Quantitative",
+    "date": "2026-10-06T10:00:00.000Z",
     "institutions": [
-      "KAIST",
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
