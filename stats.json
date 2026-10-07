@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-07T14:38:18.639Z",
+  "lastUpdate": "2026-10-07T23:32:33.147Z",
   "totalItems": 150,
-  "totalArchived": 128573,
-  "newPapersAdded": 177,
+  "totalArchived": 128741,
+  "newPapersAdded": 168,
   "institutionBreakdown": {
-    "KAIST": 27,
-    "SNU": 52,
+    "KAIST": 11,
+    "SNU": 60,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 17,
-    "IBS": 83,
-    "UNIST": 3,
-    "Hanyang University": 3,
-    "KIST": 4,
-    "GIST": 6,
-    "Kyung Hee University": 7,
-    "Pusan National University": 2
+    "POSTECH": 3,
+    "Korea University": 41,
+    "IBS": 63,
+    "UNIST": 2,
+    "Hanyang University": 2,
+    "KIST": 2,
+    "GIST": 4,
+    "Kyung Hee University": 4,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Neuroscience": 8,
-    "Multidisciplinary": 83,
-    "Biomedical": 28,
-    "Materials Science": 11,
-    "Cancer Research": 18,
-    "Computer Science": 2
+    "Multidisciplinary": 87,
+    "Cancer Research": 15,
+    "Neuroscience": 6,
+    "Biomedical": 31,
+    "Materials Science": 6,
+    "Computer Science": 5
   },
-  "multiInstitutional": 32,
+  "multiInstitutional": 30,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Exercise-Induced Activation of IGF-1/mTOR Signaling and Hippocampal BDNF/PGC-1α Expression Reverses Age-Related Motor Decline",
+    "title": "Correlated one-dimensional electron conduction in ferroelastic domain walls through nematic-like charge stripes",
     "date": "2026-10-07T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "POSTECH"
     ]
   }
 }
