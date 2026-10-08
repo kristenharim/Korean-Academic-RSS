@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-08T14:45:14.760Z",
+  "lastUpdate": "2026-10-08T23:42:39.104Z",
   "totalItems": 150,
-  "totalArchived": 128932,
-  "newPapersAdded": 191,
+  "totalArchived": 129160,
+  "newPapersAdded": 228,
   "institutionBreakdown": {
-    "KAIST": 20,
-    "SNU": 67,
+    "KAIST": 17,
+    "SNU": 100,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 17,
-    "IBS": 74,
+    "POSTECH": 0,
+    "Korea University": 57,
+    "IBS": 7,
     "UNIST": 3,
-    "Hanyang University": 7,
-    "KIST": 0,
-    "GIST": 5,
-    "Kyung Hee University": 7,
+    "Hanyang University": 11,
+    "KIST": 3,
+    "GIST": 8,
+    "Kyung Hee University": 6,
     "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 76,
-    "Computer Science": 4,
-    "Cancer Research": 16,
-    "Biomedical": 37,
-    "Neuroscience": 11,
-    "Materials Science": 6
+    "Materials Science": 9,
+    "Computer Science": 6,
+    "Multidisciplinary": 72,
+    "Biomedical": 41,
+    "Cancer Research": 21,
+    "Neuroscience": 1
   },
-  "multiInstitutional": 31,
+  "multiInstitutional": 46,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,15 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Association of Estimated Arterial Stiffness with Collateral Status and Functional Outcome after Endovascular Thrombectomy: A Secondary Analysis of the OPTIMAL-BP Trial",
+    "title": "Volatile eutectics to tailor crystallization for perovskite optoelectronics",
     "date": "2026-10-08T10:00:00.000Z",
     "institutions": [
-      "GIST",
       "IBS",
       "KAIST",
       "Korea University",
-      "Kyung Hee University",
-      "Pusan National University",
       "SNU"
     ]
   }
