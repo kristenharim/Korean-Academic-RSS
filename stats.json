@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-07T23:32:33.147Z",
+  "lastUpdate": "2026-10-08T14:45:14.760Z",
   "totalItems": 150,
-  "totalArchived": 128741,
-  "newPapersAdded": 168,
+  "totalArchived": 128932,
+  "newPapersAdded": 191,
   "institutionBreakdown": {
-    "KAIST": 11,
-    "SNU": 60,
+    "KAIST": 20,
+    "SNU": 67,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 3,
-    "Korea University": 41,
-    "IBS": 63,
-    "UNIST": 2,
-    "Hanyang University": 2,
-    "KIST": 2,
-    "GIST": 4,
-    "Kyung Hee University": 4,
-    "Pusan National University": 1
+    "Korea University": 17,
+    "IBS": 74,
+    "UNIST": 3,
+    "Hanyang University": 7,
+    "KIST": 0,
+    "GIST": 5,
+    "Kyung Hee University": 7,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 87,
-    "Cancer Research": 15,
-    "Neuroscience": 6,
-    "Biomedical": 31,
-    "Materials Science": 6,
-    "Computer Science": 5
+    "Multidisciplinary": 76,
+    "Computer Science": 4,
+    "Cancer Research": 16,
+    "Biomedical": 37,
+    "Neuroscience": 11,
+    "Materials Science": 6
   },
-  "multiInstitutional": 30,
+  "multiInstitutional": 31,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,16 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Correlated one-dimensional electron conduction in ferroelastic domain walls through nematic-like charge stripes",
-    "date": "2026-10-07T10:00:00.000Z",
+    "title": "Association of Estimated Arterial Stiffness with Collateral Status and Functional Outcome after Endovascular Thrombectomy: A Secondary Analysis of the OPTIMAL-BP Trial",
+    "date": "2026-10-08T10:00:00.000Z",
     "institutions": [
+      "GIST",
       "IBS",
       "KAIST",
-      "POSTECH"
+      "Korea University",
+      "Kyung Hee University",
+      "Pusan National University",
+      "SNU"
     ]
   }
 }
