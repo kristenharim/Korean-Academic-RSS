@@ -1,29 +1,29 @@
 {
-  "lastUpdate": "2026-10-11T14:16:56.131Z",
+  "lastUpdate": "2026-10-11T22:46:20.544Z",
   "totalItems": 150,
-  "totalArchived": 129858,
-  "newPapersAdded": 181,
+  "totalArchived": 129884,
+  "newPapersAdded": 26,
   "institutionBreakdown": {
     "KAIST": 7,
-    "SNU": 38,
+    "SNU": 40,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 0,
-    "Korea University": 41,
-    "IBS": 68,
+    "Korea University": 42,
+    "IBS": 66,
     "UNIST": 0,
     "Hanyang University": 0,
     "KIST": 0,
     "GIST": 0,
-    "Kyung Hee University": 4,
+    "Kyung Hee University": 3,
     "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Neuroscience": 6,
-    "Biomedical": 55,
-    "Multidisciplinary": 73,
-    "Cancer Research": 10,
-    "Materials Science": 5,
+    "Multidisciplinary": 75,
+    "Biomedical": 53,
+    "Neuroscience": 7,
+    "Cancer Research": 7,
+    "Materials Science": 7,
     "Computer Science": 1
   },
   "multiInstitutional": 8,
@@ -44,9 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Cerebral Hemodynamic Changes in Older Adults With Cognitive Complaints According to the Presence of Peripheral Artery Disease",
+    "title": "Control of Depletion Interactions in Nanoplatelets via Ligand-Shell Engineering to Enhance Colloidal Stability and Nanocomposite Uniformity",
     "date": "2026-10-11T10:00:00.000Z",
     "institutions": [
+      "IBS",
       "SNU"
     ]
   }
