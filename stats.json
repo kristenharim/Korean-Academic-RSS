@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-11T22:46:20.544Z",
+  "lastUpdate": "2026-10-12T16:53:23.834Z",
   "totalItems": 150,
-  "totalArchived": 129884,
-  "newPapersAdded": 26,
+  "totalArchived": 130065,
+  "newPapersAdded": 181,
   "institutionBreakdown": {
-    "KAIST": 7,
-    "SNU": 40,
+    "KAIST": 6,
+    "SNU": 31,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 42,
-    "IBS": 66,
+    "POSTECH": 1,
+    "Korea University": 17,
+    "IBS": 100,
     "UNIST": 0,
-    "Hanyang University": 0,
-    "KIST": 0,
-    "GIST": 0,
-    "Kyung Hee University": 3,
-    "Pusan National University": 0
+    "Hanyang University": 4,
+    "KIST": 3,
+    "GIST": 3,
+    "Kyung Hee University": 2,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 75,
-    "Biomedical": 53,
-    "Neuroscience": 7,
-    "Cancer Research": 7,
-    "Materials Science": 7,
-    "Computer Science": 1
+    "Biomedical": 33,
+    "Multidisciplinary": 88,
+    "Neuroscience": 8,
+    "Cancer Research": 13,
+    "Materials Science": 6,
+    "Computer Science": 2
   },
-  "multiInstitutional": 8,
+  "multiInstitutional": 13,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Control of Depletion Interactions in Nanoplatelets via Ligand-Shell Engineering to Enhance Colloidal Stability and Nanocomposite Uniformity",
-    "date": "2026-10-11T10:00:00.000Z",
+    "title": "Comparative Diagnostic Performance of Three Commercial Real-Time PCR Assays for the Detection of Mycobacterium tuberculosis Complex in Bronchial Washing Specimens: A Large Retrospective Study",
+    "date": "2026-10-12T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "SNU"
+      "KAIST"
     ]
   }
 }
