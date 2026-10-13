@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-13T15:11:41.885Z",
+  "lastUpdate": "2026-10-13T23:14:34.475Z",
   "totalItems": 150,
-  "totalArchived": 130308,
-  "newPapersAdded": 144,
+  "totalArchived": 130469,
+  "newPapersAdded": 161,
   "institutionBreakdown": {
-    "KAIST": 16,
-    "SNU": 42,
+    "KAIST": 7,
+    "SNU": 44,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 0,
-    "IBS": 100,
+    "POSTECH": 3,
+    "Korea University": 27,
+    "IBS": 90,
     "UNIST": 2,
     "Hanyang University": 5,
-    "KIST": 1,
-    "GIST": 4,
-    "Kyung Hee University": 3,
+    "KIST": 2,
+    "GIST": 3,
+    "Kyung Hee University": 2,
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Materials Science": 10,
-    "Biomedical": 34,
-    "Multidisciplinary": 78,
-    "Computer Science": 3,
-    "Cancer Research": 15,
-    "Neuroscience": 10
+    "Multidisciplinary": 83,
+    "Materials Science": 15,
+    "Biomedical": 32,
+    "Cancer Research": 13,
+    "Computer Science": 2,
+    "Neuroscience": 5
   },
-  "multiInstitutional": 15,
+  "multiInstitutional": 25,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Chemical Functionality Engineering of Anti-Solvent Additives for Photostable Perovskite Solar Cells",
+    "title": "Demagnetization-Driven Nanoscale Chirality-Selective Phonon Transport",
     "date": "2026-10-13T10:00:00.000Z",
     "institutions": [
-      "Hanyang University",
+      "GIST",
       "IBS",
       "KAIST",
       "SNU"
