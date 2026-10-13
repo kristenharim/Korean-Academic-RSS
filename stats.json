@@ -1,31 +1,32 @@
 {
-  "lastUpdate": "2026-10-13T01:14:03.312Z",
+  "lastUpdate": "2026-10-13T15:11:41.885Z",
   "totalItems": 150,
-  "totalArchived": 130164,
-  "newPapersAdded": 99,
+  "totalArchived": 130308,
+  "newPapersAdded": 144,
   "institutionBreakdown": {
-    "KAIST": 6,
-    "SNU": 33,
+    "KAIST": 16,
+    "SNU": 42,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 31,
-    "IBS": 90,
-    "UNIST": 0,
-    "Hanyang University": 4,
-    "KIST": 2,
-    "GIST": 2,
-    "Kyung Hee University": 0,
-    "Pusan National University": 0
+    "POSTECH": 1,
+    "Korea University": 0,
+    "IBS": 100,
+    "UNIST": 2,
+    "Hanyang University": 5,
+    "KIST": 1,
+    "GIST": 4,
+    "Kyung Hee University": 3,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 76,
-    "Biomedical": 40,
-    "Neuroscience": 13,
-    "Materials Science": 8,
-    "Cancer Research": 13
+    "Materials Science": 10,
+    "Biomedical": 34,
+    "Multidisciplinary": 78,
+    "Computer Science": 3,
+    "Cancer Research": 15,
+    "Neuroscience": 10
   },
-  "multiInstitutional": 14,
+  "multiInstitutional": 15,
   "institutions": [
     "KAIST",
     "SNU",
@@ -43,11 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Product-stabilized filamentation by human glutamine synthetase allosterically tunes metabolic activity",
-    "date": "2026-10-12T10:00:00.000Z",
+    "title": "Chemical Functionality Engineering of Anti-Solvent Additives for Photostable Perovskite Solar Cells",
+    "date": "2026-10-13T10:00:00.000Z",
     "institutions": [
+      "Hanyang University",
       "IBS",
-      "KAIST"
+      "KAIST",
+      "SNU"
     ]
   }
 }
