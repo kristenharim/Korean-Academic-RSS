@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-13T23:14:34.475Z",
+  "lastUpdate": "2026-10-14T12:58:17.385Z",
   "totalItems": 150,
-  "totalArchived": 130469,
-  "newPapersAdded": 161,
+  "totalArchived": 130654,
+  "newPapersAdded": 185,
   "institutionBreakdown": {
-    "KAIST": 7,
-    "SNU": 44,
+    "KAIST": 13,
+    "SNU": 74,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 3,
-    "Korea University": 27,
-    "IBS": 90,
-    "UNIST": 2,
-    "Hanyang University": 5,
-    "KIST": 2,
-    "GIST": 3,
-    "Kyung Hee University": 2,
-    "Pusan National University": 1
+    "Korea University": 20,
+    "IBS": 66,
+    "UNIST": 0,
+    "Hanyang University": 8,
+    "KIST": 5,
+    "GIST": 5,
+    "Kyung Hee University": 9,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 83,
-    "Materials Science": 15,
-    "Biomedical": 32,
-    "Cancer Research": 13,
-    "Computer Science": 2,
-    "Neuroscience": 5
+    "Cancer Research": 9,
+    "Multidisciplinary": 80,
+    "Materials Science": 11,
+    "Neuroscience": 7,
+    "Biomedical": 40,
+    "Computer Science": 3
   },
-  "multiInstitutional": 25,
+  "multiInstitutional": 37,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,13 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Demagnetization-Driven Nanoscale Chirality-Selective Phonon Transport",
-    "date": "2026-10-13T10:00:00.000Z",
+    "title": "Label-Free YaxAB Nanopore Fingerprinting of Cancer-Associated Single-Residue Bcl-xL Variants",
+    "date": "2026-10-14T10:00:00.000Z",
     "institutions": [
-      "GIST",
       "IBS",
-      "KAIST",
-      "SNU"
+      "KAIST"
     ]
   }
 }
