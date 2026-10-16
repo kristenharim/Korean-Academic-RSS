@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-16T12:37:02.728Z",
+  "lastUpdate": "2026-10-16T21:59:21.185Z",
   "totalItems": 150,
-  "totalArchived": 131472,
-  "newPapersAdded": 324,
+  "totalArchived": 131558,
+  "newPapersAdded": 86,
   "institutionBreakdown": {
-    "KAIST": 13,
-    "SNU": 96,
+    "KAIST": 15,
+    "SNU": 100,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 2,
-    "Korea University": 42,
-    "IBS": 20,
+    "Korea University": 45,
+    "IBS": 8,
     "UNIST": 0,
-    "Hanyang University": 8,
+    "Hanyang University": 9,
     "KIST": 1,
-    "GIST": 2,
-    "Kyung Hee University": 13,
+    "GIST": 3,
+    "Kyung Hee University": 14,
     "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
+    "Biomedical": 38,
+    "Multidisciplinary": 64,
     "Materials Science": 15,
-    "Multidisciplinary": 62,
-    "Biomedical": 39,
-    "Neuroscience": 10,
-    "Computer Science": 5,
-    "Cancer Research": 19
+    "Neuroscience": 12,
+    "Cancer Research": 16,
+    "Computer Science": 5
   },
-  "multiInstitutional": 39,
+  "multiInstitutional": 42,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Polymer-Dependent Morphology Development of Biodegradable Porous Microspheres with Amphiphilic PEG-PDLLA Incorporation",
+    "title": "P2Y12 Inhibitor Monotherapy vs Dual Antiplatelet Therapy by Age After PCI: A SHARE Substudy",
     "date": "2026-10-16T10:00:00.000Z",
     "institutions": [
+      "Hanyang University",
       "IBS",
-      "KAIST"
+      "KAIST",
+      "SNU"
     ]
   }
 }
