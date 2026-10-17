@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-16T21:59:21.185Z",
+  "lastUpdate": "2026-10-17T11:42:30.501Z",
   "totalItems": 150,
-  "totalArchived": 131558,
-  "newPapersAdded": 86,
+  "totalArchived": 131746,
+  "newPapersAdded": 188,
   "institutionBreakdown": {
-    "KAIST": 15,
-    "SNU": 100,
+    "KAIST": 23,
+    "SNU": 56,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 45,
-    "IBS": 8,
-    "UNIST": 0,
-    "Hanyang University": 9,
-    "KIST": 1,
-    "GIST": 3,
-    "Kyung Hee University": 14,
-    "Pusan National University": 2
+    "POSTECH": 1,
+    "Korea University": 22,
+    "IBS": 76,
+    "UNIST": 1,
+    "Hanyang University": 7,
+    "KIST": 2,
+    "GIST": 5,
+    "Kyung Hee University": 10,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 38,
-    "Multidisciplinary": 64,
-    "Materials Science": 15,
-    "Neuroscience": 12,
+    "Multidisciplinary": 82,
+    "Biomedical": 35,
+    "Neuroscience": 9,
+    "Materials Science": 7,
     "Cancer Research": 16,
-    "Computer Science": 5
+    "Computer Science": 1
   },
-  "multiInstitutional": 42,
+  "multiInstitutional": 37,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "P2Y12 Inhibitor Monotherapy vs Dual Antiplatelet Therapy by Age After PCI: A SHARE Substudy",
-    "date": "2026-10-16T10:00:00.000Z",
+    "title": "Persistent chemotherapy-induced alopecia: a scoping review",
+    "date": "2026-10-17T10:00:00.000Z",
     "institutions": [
-      "Hanyang University",
       "IBS",
-      "KAIST",
       "SNU"
     ]
   }
