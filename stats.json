@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-17T21:22:21.995Z",
+  "lastUpdate": "2026-10-18T12:08:16.072Z",
   "totalItems": 150,
-  "totalArchived": 131746,
-  "newPapersAdded": 0,
+  "totalArchived": 131965,
+  "newPapersAdded": 219,
   "institutionBreakdown": {
-    "KAIST": 23,
-    "SNU": 56,
+    "KAIST": 3,
+    "SNU": 23,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 22,
-    "IBS": 76,
-    "UNIST": 1,
-    "Hanyang University": 7,
-    "KIST": 2,
-    "GIST": 5,
-    "Kyung Hee University": 10,
+    "POSTECH": 0,
+    "Korea University": 34,
+    "IBS": 100,
+    "UNIST": 0,
+    "Hanyang University": 0,
+    "KIST": 3,
+    "GIST": 2,
+    "Kyung Hee University": 2,
     "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 82,
-    "Biomedical": 35,
-    "Neuroscience": 9,
-    "Materials Science": 7,
-    "Cancer Research": 16,
+    "Biomedical": 41,
+    "Cancer Research": 23,
+    "Multidisciplinary": 74,
+    "Neuroscience": 6,
+    "Materials Science": 5,
     "Computer Science": 1
   },
-  "multiInstitutional": 37,
+  "multiInstitutional": 14,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Persistent chemotherapy-induced alopecia: a scoping review",
-    "date": "2026-10-17T10:00:00.000Z",
+    "title": "Two enduring controversies in de Quervain surgery: retinacular repair and accessory abductor pollicis longus tendon excision",
+    "date": "2026-10-18T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "SNU"
+      "KAIST"
     ]
   }
 }
