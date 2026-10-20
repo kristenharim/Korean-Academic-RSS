@@ -1,29 +1,30 @@
 {
-  "lastUpdate": "2026-10-20T12:50:17.664Z",
+  "lastUpdate": "2026-10-20T22:12:26.977Z",
   "totalItems": 150,
-  "totalArchived": 132425,
-  "newPapersAdded": 171,
+  "totalArchived": 132611,
+  "newPapersAdded": 186,
   "institutionBreakdown": {
     "KAIST": 17,
-    "SNU": 35,
+    "SNU": 58,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 24,
-    "IBS": 94,
-    "UNIST": 1,
-    "Hanyang University": 1,
-    "KIST": 1,
-    "GIST": 8,
-    "Kyung Hee University": 5,
-    "Pusan National University": 3
+    "POSTECH": 1,
+    "Korea University": 48,
+    "IBS": 42,
+    "UNIST": 2,
+    "Hanyang University": 2,
+    "KIST": 0,
+    "GIST": 2,
+    "Kyung Hee University": 3,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 15,
-    "Multidisciplinary": 80,
-    "Neuroscience": 13,
-    "Biomedical": 41,
-    "Computer Science": 1
+    "Multidisciplinary": 81,
+    "Materials Science": 12,
+    "Cancer Research": 17,
+    "Neuroscience": 12,
+    "Biomedical": 26,
+    "Computer Science": 2
   },
   "multiInstitutional": 22,
   "institutions": [
@@ -43,9 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Digital image analysis-based quantification of p53 immunohistochemistry in gastric cancer: a systematic comparison of three-tier cutoff-derivation strategies in tissue microarrays",
+    "title": "An interstitial fluid-like NICHE-chip for neural stem cell niche modeling and nanoscale neurotrophic delivery",
     "date": "2026-10-20T10:00:00.000Z",
     "institutions": [
+      "Hanyang University",
+      "IBS",
+      "KAIST",
       "SNU"
     ]
   }
