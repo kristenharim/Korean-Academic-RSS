@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-20T22:12:26.977Z",
+  "lastUpdate": "2026-10-21T13:03:09.707Z",
   "totalItems": 150,
-  "totalArchived": 132611,
-  "newPapersAdded": 186,
+  "totalArchived": 132777,
+  "newPapersAdded": 166,
   "institutionBreakdown": {
-    "KAIST": 17,
-    "SNU": 58,
+    "KAIST": 24,
+    "SNU": 65,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 48,
-    "IBS": 42,
-    "UNIST": 2,
-    "Hanyang University": 2,
-    "KIST": 0,
-    "GIST": 2,
-    "Kyung Hee University": 3,
-    "Pusan National University": 1
+    "Korea University": 17,
+    "IBS": 61,
+    "UNIST": 1,
+    "Hanyang University": 3,
+    "KIST": 1,
+    "GIST": 3,
+    "Kyung Hee University": 4,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 81,
-    "Materials Science": 12,
-    "Cancer Research": 17,
-    "Neuroscience": 12,
-    "Biomedical": 26,
-    "Computer Science": 2
+    "Biomedical": 42,
+    "Multidisciplinary": 78,
+    "Cancer Research": 16,
+    "Neuroscience": 5,
+    "Materials Science": 6,
+    "Computer Science": 3
   },
-  "multiInstitutional": 22,
+  "multiInstitutional": 29,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,9 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "An interstitial fluid-like NICHE-chip for neural stem cell niche modeling and nanoscale neurotrophic delivery",
-    "date": "2026-10-20T10:00:00.000Z",
+    "title": "Clinical and radiological comparisons of posterior labral tears with and without posterior glenohumeral instability",
+    "date": "2026-10-21T10:00:00.000Z",
     "institutions": [
-      "Hanyang University",
-      "IBS",
-      "KAIST",
       "SNU"
     ]
   }
