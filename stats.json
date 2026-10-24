@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-23T21:58:20.109Z",
+  "lastUpdate": "2026-10-24T12:08:22.032Z",
   "totalItems": 150,
-  "totalArchived": 133269,
-  "newPapersAdded": 106,
+  "totalArchived": 133621,
+  "newPapersAdded": 352,
   "institutionBreakdown": {
-    "KAIST": 23,
-    "SNU": 30,
+    "KAIST": 34,
+    "SNU": 53,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 11,
-    "IBS": 100,
-    "UNIST": 2,
-    "Hanyang University": 0,
-    "KIST": 3,
-    "GIST": 2,
-    "Kyung Hee University": 4,
+    "POSTECH": 4,
+    "Korea University": 12,
+    "IBS": 69,
+    "UNIST": 5,
+    "Hanyang University": 6,
+    "KIST": 4,
+    "GIST": 6,
+    "Kyung Hee University": 6,
     "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 17,
-    "Neuroscience": 13,
-    "Multidisciplinary": 72,
-    "Biomedical": 35,
-    "Computer Science": 5,
-    "Materials Science": 8
+    "Multidisciplinary": 95,
+    "Neuroscience": 7,
+    "Materials Science": 13,
+    "Biomedical": 18,
+    "Cancer Research": 15,
+    "Computer Science": 2
   },
-  "multiInstitutional": 19,
+  "multiInstitutional": 35,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,10 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "miR-378f targets CAB39 to regulate autophagy in chemotherapy-induced peripheral neuropathy",
-    "date": "2026-10-23T10:00:00.000Z",
+    "title": "Older adult care policy implications derived from quality of life disparities and sociodemographic risk factors",
+    "date": "2026-10-24T10:00:00.000Z",
     "institutions": [
-      "IBS",
-      "KAIST"
+      "SNU"
     ]
   }
 }
