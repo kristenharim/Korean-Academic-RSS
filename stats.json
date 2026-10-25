@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-25T12:40:40.811Z",
+  "lastUpdate": "2026-10-25T21:37:39.900Z",
   "totalItems": 150,
-  "totalArchived": 133799,
-  "newPapersAdded": 178,
+  "totalArchived": 133926,
+  "newPapersAdded": 127,
   "institutionBreakdown": {
-    "KAIST": 10,
-    "SNU": 75,
+    "KAIST": 11,
+    "SNU": 49,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 0,
-    "IBS": 74,
-    "UNIST": 1,
-    "Hanyang University": 8,
-    "KIST": 2,
-    "GIST": 6,
-    "Kyung Hee University": 11,
-    "Pusan National University": 3
+    "POSTECH": 0,
+    "Korea University": 20,
+    "IBS": 90,
+    "UNIST": 0,
+    "Hanyang University": 5,
+    "KIST": 1,
+    "GIST": 5,
+    "Kyung Hee University": 12,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 82,
+    "Multidisciplinary": 71,
+    "Biomedical": 34,
     "Computer Science": 5,
     "Cancer Research": 19,
-    "Neuroscience": 8,
-    "Materials Science": 6,
-    "Biomedical": 30
+    "Materials Science": 9,
+    "Neuroscience": 12
   },
-  "multiInstitutional": 29,
+  "multiInstitutional": 30,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Ancient somatosensory circuit architectures employ flexible molecular strategies",
+    "title": "3D-printed fish-skin-derived composite dECM hydrogel patch for immunomodulatory and pro-angiogenic diabetic wound repair",
     "date": "2026-10-25T10:00:00.000Z",
     "institutions": [
-      "SNU"
+      "IBS",
+      "KAIST",
+      "Korea University"
     ]
   }
 }
