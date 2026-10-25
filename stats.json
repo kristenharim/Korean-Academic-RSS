@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-24T21:28:40.106Z",
+  "lastUpdate": "2026-10-25T12:40:40.811Z",
   "totalItems": 150,
-  "totalArchived": 133621,
-  "newPapersAdded": 0,
+  "totalArchived": 133799,
+  "newPapersAdded": 178,
   "institutionBreakdown": {
-    "KAIST": 34,
-    "SNU": 53,
+    "KAIST": 10,
+    "SNU": 75,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 12,
-    "IBS": 69,
-    "UNIST": 5,
-    "Hanyang University": 6,
-    "KIST": 4,
+    "POSTECH": 3,
+    "Korea University": 0,
+    "IBS": 74,
+    "UNIST": 1,
+    "Hanyang University": 8,
+    "KIST": 2,
     "GIST": 6,
-    "Kyung Hee University": 6,
-    "Pusan National University": 2
+    "Kyung Hee University": 11,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 95,
-    "Neuroscience": 7,
-    "Materials Science": 13,
-    "Biomedical": 18,
-    "Cancer Research": 15,
-    "Computer Science": 2
+    "Multidisciplinary": 82,
+    "Computer Science": 5,
+    "Cancer Research": 19,
+    "Neuroscience": 8,
+    "Materials Science": 6,
+    "Biomedical": 30
   },
-  "multiInstitutional": 35,
+  "multiInstitutional": 29,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Older adult care policy implications derived from quality of life disparities and sociodemographic risk factors",
-    "date": "2026-10-24T10:00:00.000Z",
+    "title": "Ancient somatosensory circuit architectures employ flexible molecular strategies",
+    "date": "2026-10-25T10:00:00.000Z",
     "institutions": [
       "SNU"
     ]
