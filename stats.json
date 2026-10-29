@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-28T23:04:42.222Z",
+  "lastUpdate": "2026-10-29T14:34:17.578Z",
   "totalItems": 150,
-  "totalArchived": 135219,
-  "newPapersAdded": 164,
+  "totalArchived": 135388,
+  "newPapersAdded": 169,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 73,
+    "KAIST": 14,
+    "SNU": 47,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 35,
-    "IBS": 55,
-    "UNIST": 1,
-    "Hanyang University": 6,
-    "KIST": 4,
-    "GIST": 2,
-    "Kyung Hee University": 6,
-    "Pusan National University": 1
+    "POSTECH": 0,
+    "Korea University": 10,
+    "IBS": 97,
+    "UNIST": 0,
+    "Hanyang University": 1,
+    "KIST": 1,
+    "GIST": 1,
+    "Kyung Hee University": 1,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Cancer Research": 11,
-    "Multidisciplinary": 82,
-    "Materials Science": 15,
-    "Biomedical": 28,
-    "Neuroscience": 8,
-    "Computer Science": 6
+    "Multidisciplinary": 89,
+    "Cancer Research": 16,
+    "Neuroscience": 11,
+    "Biomedical": 25,
+    "Materials Science": 7,
+    "Computer Science": 2
   },
-  "multiInstitutional": 33,
+  "multiInstitutional": 17,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Induced-fit anti-GFRAL antibody ameliorates cancer cachexia and attenuates sympathetic outflow in tumor-bearing mice",
-    "date": "2026-10-28T10:00:00.000Z",
+    "title": "Wafer-Scale Direct Growth of Ultraclean Monolayer Amorphous Carbon on c-Sapphire by Remote Catalytic Dehydrogenation",
+    "date": "2026-10-29T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "SNU"
     ]
   }
 }
