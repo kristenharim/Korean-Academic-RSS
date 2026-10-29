@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-29T14:34:17.578Z",
+  "lastUpdate": "2026-10-29T23:12:34.635Z",
   "totalItems": 150,
-  "totalArchived": 135388,
-  "newPapersAdded": 169,
+  "totalArchived": 135547,
+  "newPapersAdded": 159,
   "institutionBreakdown": {
-    "KAIST": 14,
-    "SNU": 47,
+    "KAIST": 7,
+    "SNU": 0,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 10,
-    "IBS": 97,
+    "POSTECH": 1,
+    "Korea University": 51,
+    "IBS": 94,
     "UNIST": 0,
-    "Hanyang University": 1,
-    "KIST": 1,
+    "Hanyang University": 0,
+    "KIST": 2,
     "GIST": 1,
     "Kyung Hee University": 1,
     "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 89,
-    "Cancer Research": 16,
-    "Neuroscience": 11,
-    "Biomedical": 25,
-    "Materials Science": 7,
-    "Computer Science": 2
+    "Materials Science": 6,
+    "Biomedical": 30,
+    "Multidisciplinary": 83,
+    "Cancer Research": 13,
+    "Neuroscience": 15,
+    "Computer Science": 3
   },
-  "multiInstitutional": 17,
+  "multiInstitutional": 6,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Wafer-Scale Direct Growth of Ultraclean Monolayer Amorphous Carbon on c-Sapphire by Remote Catalytic Dehydrogenation",
+    "title": "Retraction Note: Assessing Microalgal Protein's Impact on Environment and Energy Footprint via Life Cycle Analysis",
     "date": "2026-10-29T10:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "SNU"
+      "KAIST"
     ]
   }
 }
