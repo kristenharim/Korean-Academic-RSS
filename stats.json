@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-10-31T22:23:56.109Z",
+  "lastUpdate": "2026-11-01T14:24:26.100Z",
   "totalItems": 150,
-  "totalArchived": 135987,
-  "newPapersAdded": 0,
+  "totalArchived": 136137,
+  "newPapersAdded": 150,
   "institutionBreakdown": {
-    "KAIST": 20,
-    "SNU": 33,
+    "KAIST": 11,
+    "SNU": 0,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 17,
-    "IBS": 100,
+    "POSTECH": 1,
+    "Korea University": 48,
+    "IBS": 97,
     "UNIST": 0,
-    "Hanyang University": 1,
-    "KIST": 2,
-    "GIST": 0,
-    "Kyung Hee University": 1,
-    "Pusan National University": 3
+    "Hanyang University": 0,
+    "KIST": 0,
+    "GIST": 1,
+    "Kyung Hee University": 4,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Materials Science": 8,
-    "Multidisciplinary": 84,
-    "Neuroscience": 5,
-    "Biomedical": 32,
-    "Computer Science": 5,
-    "Cancer Research": 16
+    "Multidisciplinary": 77,
+    "Cancer Research": 23,
+    "Materials Science": 11,
+    "Neuroscience": 13,
+    "Biomedical": 24,
+    "Computer Science": 2
   },
-  "multiInstitutional": 21,
+  "multiInstitutional": 11,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Bioinspired Vibration-Induced Droplet Depinning Enables Extraction of Particulates Buried Within Surface Asperities",
-    "date": "2026-10-31T10:00:00.000Z",
+    "title": "Nonparametric maximum likelihood estimation for competing risks frailty models",
+    "date": "2026-11-01T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "SNU"
+      "KAIST"
     ]
   }
 }
