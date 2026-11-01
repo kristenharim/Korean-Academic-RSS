@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-11-01T14:24:26.100Z",
+  "lastUpdate": "2026-11-01T22:41:33.057Z",
   "totalItems": 150,
-  "totalArchived": 136137,
-  "newPapersAdded": 150,
+  "totalArchived": 136147,
+  "newPapersAdded": 10,
   "institutionBreakdown": {
-    "KAIST": 11,
+    "KAIST": 12,
     "SNU": 0,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 1,
-    "Korea University": 48,
-    "IBS": 97,
+    "Korea University": 50,
+    "IBS": 96,
     "UNIST": 0,
     "Hanyang University": 0,
     "KIST": 0,
@@ -19,14 +19,14 @@
     "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 77,
-    "Cancer Research": 23,
-    "Materials Science": 11,
+    "Multidisciplinary": 79,
+    "Cancer Research": 21,
+    "Computer Science": 2,
     "Neuroscience": 13,
-    "Biomedical": 24,
-    "Computer Science": 2
+    "Biomedical": 26,
+    "Materials Science": 9
   },
-  "multiInstitutional": 11,
+  "multiInstitutional": 13,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Nonparametric maximum likelihood estimation for competing risks frailty models",
+    "title": "Molecular identification of Korean Broussonetia × kazinoki using cleaved amplified polymorphic sequence (CAPS) marker",
     "date": "2026-11-01T11:00:00.000Z",
     "institutions": [
       "IBS",
