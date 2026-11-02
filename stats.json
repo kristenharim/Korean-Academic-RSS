@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-01T22:41:33.057Z",
+  "lastUpdate": "2026-11-02T17:17:51.601Z",
   "totalItems": 150,
-  "totalArchived": 136147,
-  "newPapersAdded": 10,
+  "totalArchived": 136330,
+  "newPapersAdded": 183,
   "institutionBreakdown": {
-    "KAIST": 12,
-    "SNU": 0,
+    "KAIST": 4,
+    "SNU": 39,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 50,
-    "IBS": 96,
-    "UNIST": 0,
-    "Hanyang University": 0,
+    "POSTECH": 2,
+    "Korea University": 36,
+    "IBS": 81,
+    "UNIST": 1,
+    "Hanyang University": 3,
     "KIST": 0,
-    "GIST": 1,
-    "Kyung Hee University": 4,
-    "Pusan National University": 1
+    "GIST": 2,
+    "Kyung Hee University": 2,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 79,
-    "Cancer Research": 21,
-    "Computer Science": 2,
-    "Neuroscience": 13,
-    "Biomedical": 26,
-    "Materials Science": 9
+    "Multidisciplinary": 89,
+    "Cancer Research": 8,
+    "Biomedical": 33,
+    "Materials Science": 7,
+    "Computer Science": 5,
+    "Neuroscience": 8
   },
-  "multiInstitutional": 13,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Molecular identification of Korean Broussonetia × kazinoki using cleaved amplified polymorphic sequence (CAPS) marker",
-    "date": "2026-11-01T11:00:00.000Z",
+    "title": "Associations Between Hospice Care Duties and Compassion Fatigue Among Nurses in Korea: The Roles of End-of-Life Care Stress and Peer Support",
+    "date": "2026-11-02T11:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
