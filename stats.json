@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-03T01:30:14.642Z",
+  "lastUpdate": "2026-11-03T15:23:32.461Z",
   "totalItems": 150,
-  "totalArchived": 136467,
-  "newPapersAdded": 137,
+  "totalArchived": 136658,
+  "newPapersAdded": 191,
   "institutionBreakdown": {
-    "KAIST": 3,
-    "SNU": 27,
+    "KAIST": 6,
+    "SNU": 42,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 2,
-    "Korea University": 35,
-    "IBS": 95,
+    "Korea University": 18,
+    "IBS": 97,
     "UNIST": 0,
-    "Hanyang University": 2,
+    "Hanyang University": 4,
     "KIST": 1,
-    "GIST": 1,
-    "Kyung Hee University": 4,
+    "GIST": 2,
+    "Kyung Hee University": 3,
     "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 81,
-    "Biomedical": 39,
-    "Cancer Research": 15,
-    "Neuroscience": 5,
-    "Computer Science": 5,
-    "Materials Science": 5
+    "Neuroscience": 7,
+    "Multidisciplinary": 79,
+    "Cancer Research": 13,
+    "Biomedical": 35,
+    "Computer Science": 7,
+    "Materials Science": 9
   },
-  "multiInstitutional": 13,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,15 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Extended Outcomes of the ADAPT AF-DES Trial",
-    "date": "2026-11-02T11:00:00.000Z",
+    "title": "Dopaminergic System: A Potential Therapeutic Target for Alzheimer's and Parkinson's Diseases",
+    "date": "2026-11-03T11:00:00.000Z",
     "institutions": [
-      "Hanyang University",
-      "KAIST",
-      "Korea University",
-      "Kyung Hee University",
-      "Pusan National University",
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
