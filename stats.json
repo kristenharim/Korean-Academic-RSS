@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-03T15:23:32.461Z",
+  "lastUpdate": "2026-11-03T23:56:17.345Z",
   "totalItems": 150,
-  "totalArchived": 136658,
-  "newPapersAdded": 191,
+  "totalArchived": 136826,
+  "newPapersAdded": 168,
   "institutionBreakdown": {
     "KAIST": 6,
-    "SNU": 42,
+    "SNU": 56,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 18,
-    "IBS": 97,
+    "POSTECH": 4,
+    "Korea University": 43,
+    "IBS": 62,
     "UNIST": 0,
-    "Hanyang University": 4,
-    "KIST": 1,
-    "GIST": 2,
-    "Kyung Hee University": 3,
-    "Pusan National University": 3
+    "Hanyang University": 5,
+    "KIST": 2,
+    "GIST": 5,
+    "Kyung Hee University": 4,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Neuroscience": 7,
-    "Multidisciplinary": 79,
-    "Cancer Research": 13,
-    "Biomedical": 35,
-    "Computer Science": 7,
-    "Materials Science": 9
+    "Multidisciplinary": 82,
+    "Neuroscience": 8,
+    "Cancer Research": 17,
+    "Biomedical": 34,
+    "Materials Science": 7,
+    "Computer Science": 2
   },
-  "multiInstitutional": 20,
+  "multiInstitutional": 33,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Dopaminergic System: A Potential Therapeutic Target for Alzheimer's and Parkinson's Diseases",
+    "title": "Engineered probiotics for the control of antibiotic-resistant and difficult-to-treat pathogens",
     "date": "2026-11-03T11:00:00.000Z",
     "institutions": [
       "IBS",
