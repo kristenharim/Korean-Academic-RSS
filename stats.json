@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-03T23:56:17.345Z",
+  "lastUpdate": "2026-11-04T15:37:36.965Z",
   "totalItems": 150,
-  "totalArchived": 136826,
-  "newPapersAdded": 168,
+  "totalArchived": 137007,
+  "newPapersAdded": 181,
   "institutionBreakdown": {
-    "KAIST": 6,
-    "SNU": 56,
+    "KAIST": 14,
+    "SNU": 43,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 43,
-    "IBS": 62,
+    "POSTECH": 0,
+    "Korea University": 8,
+    "IBS": 100,
     "UNIST": 0,
-    "Hanyang University": 5,
-    "KIST": 2,
-    "GIST": 5,
-    "Kyung Hee University": 4,
-    "Pusan National University": 2
+    "Hanyang University": 3,
+    "KIST": 0,
+    "GIST": 3,
+    "Kyung Hee University": 3,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 82,
-    "Neuroscience": 8,
-    "Cancer Research": 17,
-    "Biomedical": 34,
-    "Materials Science": 7,
+    "Multidisciplinary": 90,
+    "Cancer Research": 5,
+    "Biomedical": 31,
+    "Neuroscience": 12,
+    "Materials Science": 10,
     "Computer Science": 2
   },
-  "multiInstitutional": 33,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Engineered probiotics for the control of antibiotic-resistant and difficult-to-treat pathogens",
-    "date": "2026-11-03T11:00:00.000Z",
+    "title": "Antiviral effects of traditional herbal medicine Otsu-Ji-To against human coronavirus OC43, SARS-CoV-2, and its variants: <em>in vitro</em> and <em>in vivo</em> studies",
+    "date": "2026-11-04T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "Kyung Hee University",
+      "SNU"
     ]
   }
 }
