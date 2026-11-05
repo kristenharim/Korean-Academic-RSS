@@ -1,32 +1,31 @@
 {
-  "lastUpdate": "2026-11-04T15:37:36.965Z",
+  "lastUpdate": "2026-11-05T00:17:15.368Z",
   "totalItems": 150,
-  "totalArchived": 137007,
-  "newPapersAdded": 181,
+  "totalArchived": 137151,
+  "newPapersAdded": 144,
   "institutionBreakdown": {
-    "KAIST": 14,
-    "SNU": 43,
+    "KAIST": 10,
+    "SNU": 55,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 0,
-    "Korea University": 8,
-    "IBS": 100,
+    "POSTECH": 2,
+    "Korea University": 30,
+    "IBS": 73,
     "UNIST": 0,
-    "Hanyang University": 3,
+    "Hanyang University": 4,
     "KIST": 0,
-    "GIST": 3,
+    "GIST": 1,
     "Kyung Hee University": 3,
-    "Pusan National University": 4
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 90,
-    "Cancer Research": 5,
-    "Biomedical": 31,
-    "Neuroscience": 12,
-    "Materials Science": 10,
-    "Computer Science": 2
+    "Multidisciplinary": 85,
+    "Biomedical": 32,
+    "Neuroscience": 11,
+    "Cancer Research": 11,
+    "Materials Science": 11
   },
-  "multiInstitutional": 20,
+  "multiInstitutional": 26,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,13 +43,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Antiviral effects of traditional herbal medicine Otsu-Ji-To against human coronavirus OC43, SARS-CoV-2, and its variants: <em>in vitro</em> and <em>in vivo</em> studies",
+    "title": "Stress granule assembly drives an adaptive survival response in keratinocytes under TiO<sub>2</sub> nanoparticles and UV irradiation",
     "date": "2026-11-04T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "Kyung Hee University",
-      "SNU"
+      "KAIST"
     ]
   }
 }
