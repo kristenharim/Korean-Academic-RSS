@@ -1,31 +1,32 @@
 {
-  "lastUpdate": "2026-11-05T00:17:15.368Z",
+  "lastUpdate": "2026-11-05T15:40:59.118Z",
   "totalItems": 150,
-  "totalArchived": 137151,
-  "newPapersAdded": 144,
+  "totalArchived": 137301,
+  "newPapersAdded": 150,
   "institutionBreakdown": {
-    "KAIST": 10,
-    "SNU": 55,
+    "KAIST": 14,
+    "SNU": 84,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 2,
-    "Korea University": 30,
-    "IBS": 73,
+    "Korea University": 59,
+    "IBS": 15,
     "UNIST": 0,
-    "Hanyang University": 4,
+    "Hanyang University": 6,
     "KIST": 0,
-    "GIST": 1,
-    "Kyung Hee University": 3,
+    "GIST": 2,
+    "Kyung Hee University": 7,
     "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
     "Multidisciplinary": 85,
-    "Biomedical": 32,
-    "Neuroscience": 11,
-    "Cancer Research": 11,
-    "Materials Science": 11
+    "Cancer Research": 13,
+    "Biomedical": 34,
+    "Neuroscience": 4,
+    "Materials Science": 13,
+    "Computer Science": 1
   },
-  "multiInstitutional": 26,
+  "multiInstitutional": 32,
   "institutions": [
     "KAIST",
     "SNU",
@@ -43,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Stress granule assembly drives an adaptive survival response in keratinocytes under TiO<sub>2</sub> nanoparticles and UV irradiation",
+    "title": "Atroposelective Access to Bicyclic Peptides via an Amide Photocaging Strategy",
     "date": "2026-11-04T11:00:00.000Z",
     "institutions": [
       "IBS",
