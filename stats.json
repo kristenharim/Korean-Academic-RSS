@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-06T15:15:13.499Z",
+  "lastUpdate": "2026-11-06T23:41:44.105Z",
   "totalItems": 150,
-  "totalArchived": 137755,
-  "newPapersAdded": 197,
+  "totalArchived": 137938,
+  "newPapersAdded": 183,
   "institutionBreakdown": {
-    "KAIST": 20,
-    "SNU": 75,
+    "KAIST": 14,
+    "SNU": 71,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 16,
-    "IBS": 63,
-    "UNIST": 1,
-    "Hanyang University": 8,
-    "KIST": 1,
-    "GIST": 2,
-    "Kyung Hee University": 7,
-    "Pusan National University": 11
+    "POSTECH": 4,
+    "Korea University": 51,
+    "IBS": 40,
+    "UNIST": 0,
+    "Hanyang University": 7,
+    "KIST": 0,
+    "GIST": 6,
+    "Kyung Hee University": 4,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 83,
-    "Biomedical": 30,
-    "Cancer Research": 18,
-    "Neuroscience": 9,
-    "Materials Science": 8,
-    "Computer Science": 2
+    "Multidisciplinary": 79,
+    "Materials Science": 9,
+    "Biomedical": 31,
+    "Neuroscience": 11,
+    "Cancer Research": 19,
+    "Computer Science": 1
   },
-  "multiInstitutional": 39,
+  "multiInstitutional": 33,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "<em>In vitro</em> study of gut microbiota-mediated response to <em>Salmonella</em> Typhimurium with a focus on dynamics and immune modulation",
+    "title": "A real-time motional Stark effect diagnostic for KSTAR",
     "date": "2026-11-06T11:00:00.000Z",
     "institutions": [
       "IBS",
