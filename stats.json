@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-06T23:41:44.105Z",
+  "lastUpdate": "2026-11-07T14:15:45.284Z",
   "totalItems": 150,
-  "totalArchived": 137938,
-  "newPapersAdded": 183,
+  "totalArchived": 138062,
+  "newPapersAdded": 124,
   "institutionBreakdown": {
-    "KAIST": 14,
-    "SNU": 71,
+    "KAIST": 18,
+    "SNU": 86,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 51,
-    "IBS": 40,
+    "POSTECH": 5,
+    "Korea University": 62,
+    "IBS": 9,
     "UNIST": 0,
-    "Hanyang University": 7,
+    "Hanyang University": 8,
     "KIST": 0,
     "GIST": 6,
     "Kyung Hee University": 4,
     "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 79,
-    "Materials Science": 9,
-    "Biomedical": 31,
-    "Neuroscience": 11,
-    "Cancer Research": 19,
+    "Multidisciplinary": 82,
+    "Neuroscience": 9,
+    "Materials Science": 6,
+    "Biomedical": 34,
+    "Cancer Research": 18,
     "Computer Science": 1
   },
-  "multiInstitutional": 33,
+  "multiInstitutional": 36,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "A real-time motional Stark effect diagnostic for KSTAR",
+    "title": "Axial length and glaucoma prevalence in a nationally representative Korean population",
     "date": "2026-11-06T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "SNU"
     ]
   }
 }
