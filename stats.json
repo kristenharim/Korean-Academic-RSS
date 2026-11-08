@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-07T22:38:09.692Z",
+  "lastUpdate": "2026-11-08T14:24:32.313Z",
   "totalItems": 150,
-  "totalArchived": 138062,
-  "newPapersAdded": 0,
+  "totalArchived": 138245,
+  "newPapersAdded": 183,
   "institutionBreakdown": {
-    "KAIST": 18,
-    "SNU": 86,
+    "KAIST": 10,
+    "SNU": 44,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 5,
-    "Korea University": 62,
-    "IBS": 9,
+    "POSTECH": 2,
+    "Korea University": 40,
+    "IBS": 77,
     "UNIST": 0,
-    "Hanyang University": 8,
-    "KIST": 0,
-    "GIST": 6,
-    "Kyung Hee University": 4,
-    "Pusan National University": 4
+    "Hanyang University": 2,
+    "KIST": 3,
+    "GIST": 1,
+    "Kyung Hee University": 1,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 82,
-    "Neuroscience": 9,
-    "Materials Science": 6,
+    "Multidisciplinary": 69,
     "Biomedical": 34,
-    "Cancer Research": 18,
-    "Computer Science": 1
+    "Neuroscience": 9,
+    "Cancer Research": 24,
+    "Computer Science": 8,
+    "Materials Science": 6
   },
-  "multiInstitutional": 36,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Axial length and glaucoma prevalence in a nationally representative Korean population",
-    "date": "2026-11-06T11:00:00.000Z",
+    "title": "Statin-Ezetimibe Combination Therapy versus Statin Monotherapy in Atherosclerotic Cardiovascular Disease: A Prespecified Secondary Analysis of the Randomized Ez-PAVE Trial",
+    "date": "2026-11-07T11:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST",
+      "Korea University",
+      "Kyung Hee University",
       "SNU"
     ]
   }
