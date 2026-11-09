@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-08T22:45:10.106Z",
+  "lastUpdate": "2026-11-09T17:43:00.862Z",
   "totalItems": 150,
-  "totalArchived": 138329,
-  "newPapersAdded": 84,
+  "totalArchived": 138518,
+  "newPapersAdded": 189,
   "institutionBreakdown": {
-    "KAIST": 10,
-    "SNU": 48,
+    "KAIST": 9,
+    "SNU": 50,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 2,
-    "Korea University": 41,
-    "IBS": 67,
+    "Korea University": 14,
+    "IBS": 98,
     "UNIST": 0,
-    "Hanyang University": 3,
-    "KIST": 3,
-    "GIST": 1,
-    "Kyung Hee University": 1,
-    "Pusan National University": 1
+    "Hanyang University": 2,
+    "KIST": 2,
+    "GIST": 3,
+    "Kyung Hee University": 5,
+    "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Computer Science": 9,
-    "Biomedical": 35,
-    "Cancer Research": 27,
-    "Multidisciplinary": 63,
-    "Materials Science": 6,
-    "Neuroscience": 10
+    "Multidisciplinary": 90,
+    "Biomedical": 30,
+    "Cancer Research": 10,
+    "Materials Science": 10,
+    "Neuroscience": 5,
+    "Computer Science": 5
   },
-  "multiInstitutional": 17,
+  "multiInstitutional": 24,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Sublinearly structured deep neural networks achieve feature learning consistency for compositional functions",
-    "date": "2026-11-08T11:00:00.000Z",
+    "title": "Reading and rewiring natural-product biosynthesis in microbial hosts with genetically encoded biosensors",
+    "date": "2026-11-09T11:00:00.000Z",
     "institutions": [
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
