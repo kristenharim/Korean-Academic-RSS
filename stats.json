@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-09T17:43:00.862Z",
+  "lastUpdate": "2026-11-10T01:57:35.232Z",
   "totalItems": 150,
-  "totalArchived": 138518,
-  "newPapersAdded": 189,
+  "totalArchived": 138591,
+  "newPapersAdded": 73,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 50,
+    "KAIST": 10,
+    "SNU": 57,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 2,
-    "Korea University": 14,
-    "IBS": 98,
+    "Korea University": 26,
+    "IBS": 78,
     "UNIST": 0,
     "Hanyang University": 2,
-    "KIST": 2,
-    "GIST": 3,
-    "Kyung Hee University": 5,
+    "KIST": 1,
+    "GIST": 2,
+    "Kyung Hee University": 6,
     "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 90,
-    "Biomedical": 30,
-    "Cancer Research": 10,
-    "Materials Science": 10,
-    "Neuroscience": 5,
-    "Computer Science": 5
+    "Multidisciplinary": 89,
+    "Biomedical": 35,
+    "Cancer Research": 17,
+    "Computer Science": 3,
+    "Neuroscience": 2,
+    "Materials Science": 4
   },
-  "multiInstitutional": 24,
+  "multiInstitutional": 25,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Reading and rewiring natural-product biosynthesis in microbial hosts with genetically encoded biosensors",
+    "title": "Age-Dependent Nonlinear Association Between Gait Impairment and Incident Dementia",
     "date": "2026-11-09T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "SNU"
     ]
   }
 }
