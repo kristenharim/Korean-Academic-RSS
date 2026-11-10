@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-10T15:42:16.721Z",
+  "lastUpdate": "2026-11-10T23:58:41.956Z",
   "totalItems": 150,
-  "totalArchived": 138709,
-  "newPapersAdded": 118,
+  "totalArchived": 138972,
+  "newPapersAdded": 263,
   "institutionBreakdown": {
     "KAIST": 13,
-    "SNU": 71,
+    "SNU": 78,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 37,
-    "IBS": 57,
-    "UNIST": 1,
-    "Hanyang University": 3,
-    "KIST": 1,
+    "POSTECH": 1,
+    "Korea University": 57,
+    "IBS": 24,
+    "UNIST": 0,
+    "Hanyang University": 9,
+    "KIST": 2,
     "GIST": 2,
-    "Kyung Hee University": 7,
-    "Pusan National University": 0
+    "Kyung Hee University": 12,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 32,
-    "Multidisciplinary": 95,
-    "Computer Science": 1,
-    "Cancer Research": 16,
-    "Materials Science": 2,
-    "Neuroscience": 4
+    "Materials Science": 12,
+    "Biomedical": 28,
+    "Multidisciplinary": 83,
+    "Neuroscience": 6,
+    "Computer Science": 3,
+    "Cancer Research": 18
   },
-  "multiInstitutional": 35,
+  "multiInstitutional": 38,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,9 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Sub-second Three-dimensional Behavioral Profiling Reveals a Shared Rearing-descent Deficit and Lesion-aligned Lateralization in Parkinsonian Mice",
-    "date": "2026-11-09T11:00:00.000Z",
+    "title": "Single-Atom-Mediated Two-Dimensional Heterointerface Stabilizing 1T-MoS2 for Durable Hydrogen Evolution",
+    "date": "2026-11-10T11:00:00.000Z",
     "institutions": [
-      "IBS",
       "KAIST"
     ]
   }
