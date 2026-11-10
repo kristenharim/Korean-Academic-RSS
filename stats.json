@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-10T01:57:35.232Z",
+  "lastUpdate": "2026-11-10T15:42:16.721Z",
   "totalItems": 150,
-  "totalArchived": 138591,
-  "newPapersAdded": 73,
+  "totalArchived": 138709,
+  "newPapersAdded": 118,
   "institutionBreakdown": {
-    "KAIST": 10,
-    "SNU": 57,
+    "KAIST": 13,
+    "SNU": 71,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 2,
-    "Korea University": 26,
-    "IBS": 78,
-    "UNIST": 0,
-    "Hanyang University": 2,
+    "Korea University": 37,
+    "IBS": 57,
+    "UNIST": 1,
+    "Hanyang University": 3,
     "KIST": 1,
     "GIST": 2,
-    "Kyung Hee University": 6,
+    "Kyung Hee University": 7,
     "Pusan National University": 0
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 89,
-    "Biomedical": 35,
-    "Cancer Research": 17,
-    "Computer Science": 3,
-    "Neuroscience": 2,
-    "Materials Science": 4
+    "Biomedical": 32,
+    "Multidisciplinary": 95,
+    "Computer Science": 1,
+    "Cancer Research": 16,
+    "Materials Science": 2,
+    "Neuroscience": 4
   },
-  "multiInstitutional": 25,
+  "multiInstitutional": 35,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Age-Dependent Nonlinear Association Between Gait Impairment and Incident Dementia",
+    "title": "Sub-second Three-dimensional Behavioral Profiling Reveals a Shared Rearing-descent Deficit and Lesion-aligned Lateralization in Parkinsonian Mice",
     "date": "2026-11-09T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "SNU"
+      "KAIST"
     ]
   }
 }
