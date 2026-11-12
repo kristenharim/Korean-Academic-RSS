@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-11T15:29:53.407Z",
+  "lastUpdate": "2026-11-12T01:26:48.351Z",
   "totalItems": 150,
-  "totalArchived": 139117,
-  "newPapersAdded": 145,
+  "totalArchived": 139345,
+  "newPapersAdded": 228,
   "institutionBreakdown": {
-    "KAIST": 17,
-    "SNU": 100,
+    "KAIST": 13,
+    "SNU": 55,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 53,
-    "IBS": 7,
+    "POSTECH": 3,
+    "Korea University": 55,
+    "IBS": 52,
     "UNIST": 0,
-    "Hanyang University": 11,
-    "KIST": 3,
-    "GIST": 4,
-    "Kyung Hee University": 15,
-    "Pusan National University": 1
+    "Hanyang University": 7,
+    "KIST": 5,
+    "GIST": 2,
+    "Kyung Hee University": 4,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
+    "Multidisciplinary": 87,
+    "Biomedical": 22,
+    "Cancer Research": 13,
     "Computer Science": 4,
-    "Biomedical": 29,
-    "Multidisciplinary": 80,
-    "Materials Science": 9,
-    "Neuroscience": 12,
-    "Cancer Research": 16
+    "Materials Science": 14,
+    "Neuroscience": 10
   },
-  "multiInstitutional": 47,
+  "multiInstitutional": 32,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Why Generative Artificial Intelligence Makes Biomedical Expertise More, Not Less, Important",
-    "date": "2026-11-10T11:00:00.000Z",
+    "title": "AquaMamba: Selective state space modeling for underwater scene segmentation in marine robotics",
+    "date": "2026-11-11T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST",
-      "SNU"
+      "KAIST"
     ]
   }
 }
