@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-12T01:26:48.351Z",
+  "lastUpdate": "2026-11-12T16:05:39.764Z",
   "totalItems": 150,
-  "totalArchived": 139345,
-  "newPapersAdded": 228,
+  "totalArchived": 139530,
+  "newPapersAdded": 185,
   "institutionBreakdown": {
-    "KAIST": 13,
-    "SNU": 55,
+    "KAIST": 22,
+    "SNU": 78,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 55,
-    "IBS": 52,
+    "POSTECH": 4,
+    "Korea University": 21,
+    "IBS": 58,
     "UNIST": 0,
-    "Hanyang University": 7,
-    "KIST": 5,
-    "GIST": 2,
-    "Kyung Hee University": 4,
-    "Pusan National University": 3
+    "Hanyang University": 4,
+    "KIST": 4,
+    "GIST": 1,
+    "Kyung Hee University": 5,
+    "Pusan National University": 6
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 87,
-    "Biomedical": 22,
-    "Cancer Research": 13,
-    "Computer Science": 4,
-    "Materials Science": 14,
-    "Neuroscience": 10
+    "Biomedical": 36,
+    "Cancer Research": 15,
+    "Computer Science": 7,
+    "Multidisciplinary": 76,
+    "Materials Science": 10,
+    "Neuroscience": 6
   },
-  "multiInstitutional": 32,
+  "multiInstitutional": 36,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "AquaMamba: Selective state space modeling for underwater scene segmentation in marine robotics",
-    "date": "2026-11-11T11:00:00.000Z",
+    "title": "Intraoperative transesophageal echocardiography detection of a mobile echogenic structure at the left atriotomy suture line - A case report",
+    "date": "2026-11-12T11:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
