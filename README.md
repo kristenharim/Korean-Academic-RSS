@@ -1,63 +1,29 @@
-Intended to make it easy to follow newly published articles across disciplines in Korea. The list is organized, machine-readable, and designed to be used with RSS readers or integrated into automation workflows (e.g., GitHub Actions) for updates and notifications.
+# Korean Academic Research Digest
 
-**Why this exists** 
-Discoverability of Korean journals’ RSS feeds is fragmented; a centralized list simplifies tracking new publications across fields and publishers.
+A twice-daily feed of new papers from 13 Korean universities and research institutes, sorted by subject.
 
-Having feeds in a consistent format lets researchers plug them into readers, dashboards, or CI workflows that update summaries automatically.
+**Live page:** https://kristenharim.github.io/Korean-Academic-RSS/ · **Feeds:** [`feed.xml`](feed.xml) (RSS) · [`feed.json`](feed.json)
 
-**What’s inside**
-Curated RSS/Atom feed links grouped by domain (e.g., medicine, engineering, social sciences), including canonical titles and homepage links where available.
+## Why I built it
 
-Optional automation examples for turning feeds into daily or weekly digests in README or separate files using GitHub Actions-compatible tooling.
+Following new work out of Korean institutions meant checking a dozen separate sites. PubMed already indexes most of it by author affiliation, so this project turns one saved affiliation search per institution into a single feed you can read in any RSS reader.
 
-**Quick start**
-Use with any RSS reader: import selected feed URLs into a preferred reader (e.g., Inoreader, Feedly, FreshRSS) to receive new-article alerts as they’re published.
+## How it works
 
-Programmatic use: point scripts or workflows to the feed list (CSV/JSON/Markdown) and process items to generate newsletters, Slack notifications, or README sections.
+1. **Sources.** One PubMed affiliation search per institution, read as RSS: KAIST, SNU, Yonsei, SKKU, POSTECH, Korea University, IBS, UNIST, Hanyang, KIST, GIST, Kyung Hee and Pusan National University.
+2. **Dedupe and archive.** New papers are merged into [`papers-archive.csv`](papers-archive.csv), which keeps every paper seen so far (about 139,000 rows). Papers with authors at more than one institution are flagged as multi-institutional.
+3. **Subject tagging.** Each title and abstract is tagged as Computer Science, Biomedical, Cancer Research, Materials Science, Neuroscience or Multidisciplinary. The generator tries a small TensorFlow.js model first and falls back to keyword rules (`ml-features.js`) when the model is unavailable, which is the usual case in CI. Every tag carries a confidence score.
+4. **Publish.** A GitHub Actions job ([`generate-rss.yml`](.github/workflows/generate-rss.yml)) runs at about 12:30 AM and 12:00 PM Pacific, rewrites `feed.xml`, `feed.json` and [`stats.json`](stats.json), and commits them. That is why most commits here come from `github-actions`.
 
+## Run it locally
 
-**Validation and health checks**
-Run a feed validation script to ensure URLs resolve (HTTP 200), are in RSS/Atom format, and return recent items; optionally mark dead or redirected feeds with status.
+```bash
+npm install
+node rss-generator-script.js
+```
 
+## Limits
 
-
-
-**Guidelines**
-Prefer official journal feeds over third-party scrapers; confirm that the feed updates reliably and uses HTTPS where available.
-
-For journals without feeds, include a “no official feed” note and, if permitted, a queryable TOC page that could be monitored by external tools (not included here).
-
-Roadmap
-Add OPML exports to make it easy to bulk-import sets (by discipline) into readers, and publish a combined OPML for “ALL Korean journals”.
-
-Optional: add examples for piping feed items to Slack/Discord/Email using simple Actions workflows and templated messages.
-
-Related work
-Large collections of academic feeds (international) can serve as references for structure and categorization; these projects show how to scale and maintain big lists over time.
-
-GitHub Actions recipes that turn RSS into README sections or files are well-established and easy to adapt to journal feeds and custom templates.
-
-**Current Limitations** 
-
-Infrastructure Constraints:
-RSS Dependency: Relies solely on RSS feeds from PubMed and only covers 13 major Korean universities, limiting the breadth of discoverable papers.
-Limited Open Access: Restricted to open-access research databases, excluding valuable content from paid institutions.
-Static Hosting: The platform is statically hosted, preventing real-time updates or user accounts, with content updated only twice daily.
-Display Limit: Only 150 current publications are displayed, despite an archive containing over 2000 papers.
-AI Limitations:
-Limited Subject Areas: The AI currently categorizes research into only 6 subject areas with basic confidence scoring.
-High "Multidisciplinary" Default: A significant portion of the current dataset (77 papers, or 52%) defaults to "Multidisciplinary," indicating classification challenges.
-Basic Rule-Based Fallback: When machine learning confidence is low, the rule-based fallback relies on limited keyword matching.
-No Confidence Thresholding: Lacks dynamic adjustment based on classification uncertainty, potentially leading to less precise categorization.
-
-**Improvement Opportunities** 
-Expand Coverage:
-Broader University Inclusion: Increase the number of covered universities to 30+ research institutions.
-Beyond PubMed: Integrate additional academic databases like ArXiv and various Korean journals to enhance content diversity.
-User Experience & Personalization:
-User Accounts & Profiles: Introduce user accounts to enable personal bookmarks, reading history, and custom alerts.
-Enhanced Search: Implement advanced search functionalities with Boolean operators and field-specific filtering.
-Expanded ML Categories: Increase the number of AI-driven subject categories and allow papers to belong to multiple research areas.
-Infrastructure & Advanced Analytics:
-Research Analytics Dashboard: Develop a dashboard for trend analysis, visualization of collaboration networks, and institutional comparisons.
-
+- Coverage is whatever PubMed indexes, so it leans biomedical. Engineering and CS work that never reaches PubMed is missed.
+- Affiliation matching depends on how authors write their institution, so some papers are missed or misattributed.
+- The keyword rules are coarse. "Multidisciplinary" is the catch-all and is the largest bucket.
