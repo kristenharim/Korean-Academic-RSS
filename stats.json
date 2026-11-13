@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-13T00:04:05.310Z",
+  "lastUpdate": "2026-11-13T15:33:23.180Z",
   "totalItems": 150,
-  "totalArchived": 139692,
-  "newPapersAdded": 162,
+  "totalArchived": 139883,
+  "newPapersAdded": 191,
   "institutionBreakdown": {
-    "KAIST": 3,
-    "SNU": 39,
+    "KAIST": 13,
+    "SNU": 74,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 33,
-    "IBS": 79,
+    "POSTECH": 0,
+    "Korea University": 15,
+    "IBS": 69,
     "UNIST": 0,
-    "Hanyang University": 2,
-    "KIST": 2,
-    "GIST": 1,
-    "Kyung Hee University": 2,
-    "Pusan National University": 2
+    "Hanyang University": 1,
+    "KIST": 0,
+    "GIST": 4,
+    "Kyung Hee University": 4,
+    "Pusan National University": 5
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 83,
-    "Materials Science": 7,
-    "Biomedical": 26,
-    "Cancer Research": 15,
-    "Computer Science": 9,
-    "Neuroscience": 10
+    "Multidisciplinary": 81,
+    "Cancer Research": 17,
+    "Biomedical": 34,
+    "Materials Science": 5,
+    "Computer Science": 8,
+    "Neuroscience": 5
   },
-  "multiInstitutional": 12,
+  "multiInstitutional": 24,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,14 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Case Report: A modified Karapandzic flap with bilateral V-Y advancement for reconstruction of a large full-thickness lower lip defect after squamous cell carcinoma excision",
-    "date": "2026-11-12T11:00:00.000Z",
+    "title": "Progression to Advanced Age-Related Macular Degeneration in Drusen-Driven and Pachychoroid-Driven Disease: The Korean Age-Related Maculopathy Study",
+    "date": "2026-11-13T11:00:00.000Z",
     "institutions": [
-      "KAIST"
+      "IBS",
+      "KAIST",
+      "Korea University",
+      "Kyung Hee University",
+      "SNU"
     ]
   }
 }
