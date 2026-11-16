@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-15T23:21:37.720Z",
+  "lastUpdate": "2026-11-16T17:13:34.264Z",
   "totalItems": 150,
-  "totalArchived": 140608,
-  "newPapersAdded": 54,
+  "totalArchived": 140775,
+  "newPapersAdded": 167,
   "institutionBreakdown": {
-    "KAIST": 34,
-    "SNU": 49,
+    "KAIST": 16,
+    "SNU": 35,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 9,
-    "IBS": 81,
-    "UNIST": 1,
-    "Hanyang University": 3,
+    "POSTECH": 1,
+    "Korea University": 13,
+    "IBS": 100,
+    "UNIST": 2,
+    "Hanyang University": 4,
     "KIST": 2,
-    "GIST": 2,
-    "Kyung Hee University": 13,
-    "Pusan National University": 1
+    "GIST": 3,
+    "Kyung Hee University": 4,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 95,
-    "Biomedical": 21,
-    "Cancer Research": 17,
-    "Materials Science": 6,
-    "Neuroscience": 8,
-    "Computer Science": 3
+    "Biomedical": 33,
+    "Multidisciplinary": 91,
+    "Materials Science": 12,
+    "Computer Science": 3,
+    "Cancer Research": 9,
+    "Neuroscience": 2
   },
-  "multiInstitutional": 33,
+  "multiInstitutional": 20,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Spatial profiles of acupoint use across the distal-proximal Five-Shu sequence",
-    "date": "2026-11-15T11:00:00.000Z",
+    "title": "10-Year Outcomes of Initial CTO-PCI vs No CTO-PCI Strategies for Chronic Total Occlusion: The DECISION-CTO Randomized Trial",
+    "date": "2026-11-16T11:00:00.000Z",
     "institutions": [
+      "GIST",
       "IBS",
       "KAIST",
-      "Kyung Hee University",
+      "Korea University",
       "SNU"
     ]
   }
