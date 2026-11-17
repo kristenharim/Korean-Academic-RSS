@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-17T02:24:34.514Z",
+  "lastUpdate": "2026-11-17T16:59:07.292Z",
   "totalItems": 150,
-  "totalArchived": 140892,
-  "newPapersAdded": 117,
+  "totalArchived": 141121,
+  "newPapersAdded": 229,
   "institutionBreakdown": {
-    "KAIST": 7,
-    "SNU": 40,
+    "KAIST": 20,
+    "SNU": 37,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 24,
-    "IBS": 89,
+    "POSTECH": 0,
+    "Korea University": 15,
+    "IBS": 97,
     "UNIST": 1,
-    "Hanyang University": 3,
-    "KIST": 2,
-    "GIST": 3,
-    "Kyung Hee University": 3,
-    "Pusan National University": 1
+    "Hanyang University": 5,
+    "KIST": 1,
+    "GIST": 11,
+    "Kyung Hee University": 2,
+    "Pusan National University": 6
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 40,
-    "Multidisciplinary": 78,
-    "Materials Science": 6,
-    "Computer Science": 7,
-    "Neuroscience": 10,
-    "Cancer Research": 9
+    "Biomedical": 33,
+    "Multidisciplinary": 85,
+    "Cancer Research": 19,
+    "Computer Science": 2,
+    "Neuroscience": 4,
+    "Materials Science": 7
   },
-  "multiInstitutional": 16,
+  "multiInstitutional": 26,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "10-Year Outcomes of Initial CTO-PCI vs No CTO-PCI Strategies for Chronic Total Occlusion: The DECISION-CTO Randomized Trial",
-    "date": "2026-11-16T11:00:00.000Z",
+    "title": "Does Mild Anemia Associate With 3-Month Vascular Outcomes in Severe Acute Ischemic Stroke?",
+    "date": "2026-11-17T11:00:00.000Z",
     "institutions": [
       "GIST",
+      "IBS",
       "KAIST",
       "Korea University",
       "SNU"
