@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-20T16:16:52.446Z",
+  "lastUpdate": "2026-11-21T00:43:20.606Z",
   "totalItems": 150,
-  "totalArchived": 142255,
-  "newPapersAdded": 210,
+  "totalArchived": 142420,
+  "newPapersAdded": 165,
   "institutionBreakdown": {
-    "KAIST": 25,
-    "SNU": 72,
+    "KAIST": 7,
+    "SNU": 55,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 4,
-    "Korea University": 17,
+    "POSTECH": 1,
+    "Korea University": 42,
     "IBS": 65,
-    "UNIST": 3,
+    "UNIST": 0,
     "Hanyang University": 2,
-    "KIST": 2,
-    "GIST": 1,
+    "KIST": 1,
+    "GIST": 3,
     "Kyung Hee University": 8,
-    "Pusan National University": 5
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Computer Science": 6,
-    "Multidisciplinary": 76,
-    "Biomedical": 31,
-    "Cancer Research": 20,
-    "Neuroscience": 12,
-    "Materials Science": 5
+    "Multidisciplinary": 78,
+    "Biomedical": 38,
+    "Computer Science": 7,
+    "Materials Science": 9,
+    "Cancer Research": 12,
+    "Neuroscience": 6
   },
-  "multiInstitutional": 41,
+  "multiInstitutional": 34,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,7 +44,7 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Evaluating the Accuracy of an Artificial Intelligence Solution Program for Identifying Anatomical Landmarks in Orthodontics",
+    "title": "Bovine Serum Albumin-Crosslinked Silk Fibroin-Based Bioink via Thiol-Ene Click Chemistry for Bone Tissue Engineering",
     "date": "2026-11-20T11:00:00.000Z",
     "institutions": [
       "IBS",
