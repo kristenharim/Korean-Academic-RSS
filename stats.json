@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-21T00:43:20.606Z",
+  "lastUpdate": "2026-11-21T15:29:26.681Z",
   "totalItems": 150,
-  "totalArchived": 142420,
-  "newPapersAdded": 165,
+  "totalArchived": 142599,
+  "newPapersAdded": 179,
   "institutionBreakdown": {
-    "KAIST": 7,
-    "SNU": 55,
+    "KAIST": 13,
+    "SNU": 78,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 42,
-    "IBS": 65,
+    "POSTECH": 0,
+    "Korea University": 19,
+    "IBS": 60,
     "UNIST": 0,
-    "Hanyang University": 2,
-    "KIST": 1,
-    "GIST": 3,
-    "Kyung Hee University": 8,
+    "Hanyang University": 8,
+    "KIST": 4,
+    "GIST": 6,
+    "Kyung Hee University": 7,
     "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 78,
-    "Biomedical": 38,
-    "Computer Science": 7,
-    "Materials Science": 9,
-    "Cancer Research": 12,
-    "Neuroscience": 6
+    "Neuroscience": 7,
+    "Biomedical": 25,
+    "Multidisciplinary": 82,
+    "Cancer Research": 20,
+    "Computer Science": 9,
+    "Materials Science": 7
   },
-  "multiInstitutional": 34,
+  "multiInstitutional": 37,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,8 +44,8 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Bovine Serum Albumin-Crosslinked Silk Fibroin-Based Bioink via Thiol-Ene Click Chemistry for Bone Tissue Engineering",
-    "date": "2026-11-20T11:00:00.000Z",
+    "title": "Multimodal MRI and blood-based epigenomic and protein-based multiomics profiling in mild neurocognitive disorder: a single-center cross-sectional observational study protocol",
+    "date": "2026-11-21T11:00:00.000Z",
     "institutions": [
       "IBS",
       "KAIST"
