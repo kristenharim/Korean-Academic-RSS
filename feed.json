@@ -1,10 +1,10 @@
 {
   "title": "Korean Academic Publications with ML Classification",
   "description": "Latest research from top Korean institutions with AI-powered subject classification",
-  "lastBuildDate": "2026-11-21T15:29:26.662Z",
+  "lastBuildDate": "2026-11-21T23:44:45.448Z",
   "totalItems": 150,
   "totalArchived": 142599,
-  "newPapersAdded": 179,
+  "newPapersAdded": 0,
   "institutionBreakdown": {
     "KAIST": 13,
     "SNU": 78,
@@ -47,7 +47,7 @@
   "items": [
     {
       "title": "Multimodal MRI and blood-based epigenomic and protein-based multiomics profiling in mild neurocognitive disorder: a single-center cross-sectional observational study protocol",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065618/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065618/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "INTRODUCTION: Mild neurocognitive disorder (mild NCD) is a clinically relevant stage of cognitive decline with heterogeneous clinical trajectories that remain poorly characterized, limiting efforts to identify early markers of disease progression. It may be associated with structural, functional, metabolic, CSF-related, and molecular features of the brain. This single-center, single-group, cross-sectional observational study aims to characterize multimodal imaging, cognitive, emotional, and...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -64,7 +64,7 @@
     },
     {
       "title": "The next frontier of peptide therapeutics: from targeted conjugates (PDC/ODC) to AI-driven safety-by-design",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065609/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065609/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "The pharmaceutical landscape is witnessing a profound \"Peptide Renaissance,\" driven primarily by the clinical success of GLP-1 receptor agonists and reinforced by engineering advanced drug delivery platforms. This review provides a comprehensive analysis of current trends in peptide-based drug development, using a target-localization framework that distinguishes molecular recognition from pharmacological action. We delineate the functional divergence between extracellular, cell-surface, and...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -81,7 +81,7 @@
     },
     {
       "title": "Impact of implementing a specialized rehabilitation hospital system on healthcare utilization in patients with traumatic brain injury: a nationwide retrospective cohort study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065465/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065465/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Implementation of the specialized rehabilitation hospital system was associated with increased healthcare utilization and changes in post-acute healthcare utilization pathways among patients with TBI. These findings provide evidence regarding changes in healthcare utilization following implementation of the system.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -97,7 +97,7 @@
     },
     {
       "title": "Authors' Response: Short-Term Surgical Outcomes of Palliative Gastrectomy According to the Extent of Lymph Node Dissection: A Nationwide Propensity Score-Weighted Cohort Analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065312/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065312/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "No abstract",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -114,7 +114,7 @@
     },
     {
       "title": "Concentration-Driven Solvation Reorganization Featuring Viologen Clustering Enables Air-Tolerant Aqueous Organic Redox Flow Batteries",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065265/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065265/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Viologen derivatives are promising anolytes in aqueous organic redox-flow batteries (AORFBs), but long-term stability under ambient air remains challenging. Using 1,1'-bis[3-(trimethylammonio)propyl]-4,4'-bipyridinium tetrachloride (BVCl(4)), we show through physicochemical characterization and molecular dynamics simulations that increasing BV concentration beyond a critical threshold induces a solvation transition characterized by viologen clustering. Controlled O(2) exposure of...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -132,7 +132,7 @@
     },
     {
       "title": "Safranine T-Derived Activable Photosensitizer to Synergistically Regulate the RSS/ROS Dynamic Equilibrium for Boosted Photosensitization",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065227/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065227/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Photodynamic therapy (PDT) eliminates lesions like tumors via reactive oxygen species (ROS)-mediated oxidative damage. However, tumors overexpress reactive sulfur species (RSS) that scavenge cytotoxic ROS, endowing cancer cells with strong antioxidant resistance and weakening PDT efficacy. We fabricated a biosafe, readily available activatable photosensitizer ST-DNBS based on safranine T (ST). ST-DNBS selectively consumes RSS overexpressed in tumors and recovers photochemically active ST to...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -148,7 +148,7 @@
     },
     {
       "title": "Association of Concomitant Proton Pump Inhibitor Use with Survival Outcomes During CDK4/6 Inhibitor Therapy for Breast Cancer",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065147/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065147/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Concomitant PPI use was associated with shorter rwPFS and OS among patients who remained alive and event-free through day 90. Residual confounding, including differences in the indications for PPI use, may contribute to these associations. Further studies are needed to clarify their clinical significance.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -164,7 +164,7 @@
     },
     {
       "title": "Longitudinal Clinical Outcomes After Intra-Articular Dexamethasone-Lidocaine Injection for Temporomandibular Joint Arthralgia",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065131/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065131/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Intra-articular dexamethasone-lidocaine injection was followed by decreases in pain intensity and pain-location burden and a modest increase in CMO, whereas MMO showed no consistent longitudinal change. These findings support a multidomain approach to assessing clinical trajectories after TMJ injection.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -182,7 +182,7 @@
     },
     {
       "title": "Visual-field position shapes input sampling and output routing in the superior colliculus",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065615/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065615/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121184426&v=2.20.1",
       "description": "The location of visual stimuli influences the actions animals select, reflecting the distinct ecological and behavioral significance of the upper and lower visual fields. In mice, the superior colliculus transforms visual information into defensive and approach behaviors, with its superficial layers containing genetically defined cell types with distinct projections. Whether these circuits are repeated across visual space or are specialized by visual-field position remains unclear. Dual-color...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -199,7 +199,7 @@
     },
     {
       "title": "Tezepelumab for asthma-COPD coexistence receiving long-term oxygen therapy: Two cases",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065547/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065547/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121184426&v=2.20.1",
       "description": "Asthma-COPD coexistence is associated with frequent exacerbations that worsen patients' quality of life. Although tezepelumab, an anti-thymic stromal lymphopoietin monoclonal antibody, is effective in preventing exacerbations in severe asthma, evidence of its efficacy in asthma-COPD coexistence is limited. We describe two elderly former smokers with asthma-COPD coexistence receiving long-term oxygen therapy (LTOT) who remained symptomatic despite inhaled corticosteroid/long-acting...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -215,7 +215,7 @@
     },
     {
       "title": "TaPaD: An instance-level image dataset for tactile paving with deterioration annotations",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065426/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065426/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121184426&v=2.20.1",
       "description": "Tactile paving provides navigational cues for people with visual impairments, but its surfaces can deteriorate through cracking, soiling, fading, heat deformation, and wear. This data article presents TaPaD, an instance-level road-surface image dataset for tactile-paving detection, block-type classification, and deterioration assessment. TaPaD contains 1611 images captured with a bicycle-mounted compact camera and 3192 images captured with smartphones. All bicycle images are annotated,...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -231,7 +231,7 @@
     },
     {
       "title": "Black Titanium-Oxo Cluster as a Dual-Mode Catalyst for Regioselective Protein Editing",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065267/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065267/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121184426&v=2.20.1",
       "description": "Atomically precise titanium-oxo clusters are discrete molecular analogues of TiO(2) and structural building blocks of many metal-organic frameworks. Combining features of homogeneous and heterogeneous catalysis, they provide a versatile platform for catalyst design. However, due to limited stability in aqueous media, they remain largely unexplored in biologically relevant catalysis. Here, we report a structurally engineered hexanuclear titanium-oxo cluster (tBu-Ti(6)) with promising...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -247,7 +247,7 @@
     },
     {
       "title": "ANCA-Negative Pauci-Immune Crescentic Glomerulonephritis With Atypical Endothelial Injury in a Patient With Long-Standing Rheumatoid Arthritis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065231/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065231/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=12guA9dSu1tGGvNP7mhhDa45fpbWpGPzILFj69wJJFdG48xkuI&fc=20250822205125&ff=20261121184426&v=2.20.1",
       "description": "Rheumatoid arthritis (RA) is a systemic inflammatory disorder that may be complicated by diverse extra-articular manifestations, including renal involvement. Anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV) is an important cause of crescentic glomerulonephritis; however, ANCA-negative pauci-immune crescentic glomerulonephritis in patients with RA is uncommon and diagnostically challenging. We herein report a case of ANCA-negative pauci-immune crescentic glomerulonephritis...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -263,7 +263,7 @@
     },
     {
       "title": "Subgenome-Resolved Assembly of the Mahseer <em>Tor tambra</em> Reveals Allotetraploid Subgenomes Shared with <em>Tor sinensis</em>",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065587/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065587/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Mahseers (Tor spp.) are cyprinids of high conservation and aquaculture value, and their genomes carry extensive gene duplication. Whether this duplication reflects 2 subgenomes has not been resolved at chromosome scale. We assembled a 1.76-Gb genome of a wild female Tor tambra from southern Thailand using Oxford Nanopore and Omni-C data. K-mer spectra were best fitted by a tetraploid model with a monoploid size of 0.85 Gb. Alignment to both subgenomes of Tor sinensis revealed 30 Hi-C joins...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -279,7 +279,7 @@
     },
     {
       "title": "A national environmental scan of postvention services in Veterans Affairs healthcare systems",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065582/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065582/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: VA postvention programs varied considerably in structure and scope, though proactive advance planning and outreach to both loved ones and staff were common features. Future implementation efforts could include assisting facilities with documenting their postvention preparation plans in written SOPs, broadening interdisciplinary engagement in providing postvention services, and engaging leadership support.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -295,7 +295,7 @@
     },
     {
       "title": "Integrative multi-omics, machine learning, computational toxicology, and experimental validation reveal PFAS-associated immune-inflammatory signatures in chronic obstructive pulmonary disease",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065562/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065562/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: This integrative systems-immunology framework delineates immune-inflammatory signatures at the PFAS-COPD interface and identifies HMOX1, JUNB, CXCL12, and PTGS2 as convergent molecular nodes. The findings do not establish exposure causality but provide a multi-scale basis for future epidemiological and mechanistic studies of how persistent environmental pollutants may contribute to COPD-associated immune and inflammatory alterations.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -311,7 +311,7 @@
     },
     {
       "title": "SEVI fibrils are induced by bacterial surface molecules and exert antimicrobial activity against ESKAPE pathogens",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065534/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065534/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "INTRODUCTION: Semen-derived enhancer of viral infection (SEVI) is an amyloid fibril formed from PAP248-286, a fragment of prostatic acid phosphatase naturally occuring in seminal plasma. Beyond its role in HIV transmission, SEVI may contribute to innate immunity. Since many amyloids display antimicrobial effects, we investigated its antibacterial activity against ESKAPE pathogens and urogenital bacteria.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -327,7 +327,7 @@
     },
     {
       "title": "Editorial: Autophagy evasion by intracellular pathogens: mechanistic insights",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065530/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065530/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "No abstract",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -343,7 +343,7 @@
     },
     {
       "title": "DASH diet adherence is associated with lower ischemic stroke incidence among older women: findings from a sex-specific analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065524/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065524/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Higher DASH adherence was associated with a lower risk of ischemic stroke among older women. These findings support a potential role for the DASH dietary pattern in ischemic stroke prevention and highlight the need for further investigation of sex-specific associations.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -359,7 +359,7 @@
     },
     {
       "title": "Protective effects of AKBA against hypoxia-induced cognitive dysfunction: potential involvement of SLC2A1, PTGS1, and BCL2L1",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065521/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065521/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Collectively, these findings indicate that concurrent AKBA administration provides protection against hypoxia-associated cognitive dysfunction, potentially involving coordinated changes in inflammatory, antioxidant, and neurotrophic responses. However, the causal roles of the candidate proteins and gut microbiota alterations remain to be established through further functional investigations.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -375,7 +375,7 @@
     },
     {
       "title": "Trajectories of odor identification during and after a 5-year exercise intervention in older adults",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065504/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065504/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: OI decline did not differ between the MICT, HIIT, and control groups. However, higher VO(2peak) at baseline and 10 years later was associated with better OI performance. These findings suggest a direct link between VO(2peak) and reduced age-related OI decline in older adults.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -391,7 +391,7 @@
     },
     {
       "title": "Pathways to progress: navigating the evolving field of PIDs and associated conditions - proceedings from the IPOPI Global Multi-Stakeholders' Summit (July 2025)",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065496/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065496/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "INTRODUCTION: In July 2025, the International Patient Organisation for Primary Immunodeficiencies (IPOPI) held its fourth consecutive Global Multi-Stakeholders' Summit, bringing together key stakeholders and experts in primary immunodeficiencies (PIDs) and related fields to discuss current challenges and opportunities for improving patient care.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -407,7 +407,7 @@
     },
     {
       "title": "Intellectual Structure and Thematic Evolution of Diabetes-Sepsis Research, 1992-2025: A Bibliometric and Science-Mapping Analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065486/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065486/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Within this query-defined diabetes-sepsis literature, research attention broadened from infection- and glycemic-control-centered questions toward greater attention to host response, organ vulnerability, outcome heterogeneity, and data-driven risk stratification. Recent signals were often methodological or data-oriented rather than indicative of a single dominant new biological mechanism. Future work should distinguish sepsis susceptibility from post-onset outcomes, better...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -423,7 +423,7 @@
     },
     {
       "title": "Early-stage follicle development regulated by RGD peptide and ovarian fragment size in three-dimensional culture",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065484/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065484/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "The tripeptide Arg-Gly-Asp (RGD) is a minimal integrin-binding motif found in multiple extracellular matrix (ECM) proteins. We previously determined that immature ovarian fragments cultured in the RGD-immobilized dextran hydrogel significantly promoted antral follicle development compared to those cultured in the dextran hydrogel control. In this study, using neonatal mouse ovaries, we examined the effects of RGD peptide and ovarian fragment size on early-stage follicle development in our 3D...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -439,7 +439,7 @@
     },
     {
       "title": "Deletion of <em>pyrE</em> disrupts pyrimidine <em>de novo</em> synthesis, attenuates virulence, and confers protective immunity as a live attenuated vaccine candidate against <em>Brucella melitensis</em>",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065464/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065464/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: This study demonstrates that pyrE is essential for pyrimidine synthesis and virulence in Brucella. The ΔpyrE strain represents a safe, immunogenic, and protective vaccine candidate with long-term potential, providing a new strategy for brucellosis control.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -455,7 +455,7 @@
     },
     {
       "title": "A cross-sectional and longitudinal examination of adolescents' emotion expression flexibility and their self-injurious thoughts and behaviors",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065457/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065457/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "INTRODUCTION: Suicide is a leading cause of death among adolescents worldwide, yet, understanding of risks factors remains unclear. Past studies have shown that emotion regulation (ER) difficulties are associated with self-injurious thoughts and behaviors (SITBs) in teens but the vast majority of this research has focused on assessing broad ER abilities in response to negative emotions (using the Difficulties in Emotion Regulation Scale; DERS) as opposed to the specific ability to flexibly...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -471,7 +471,7 @@
     },
     {
       "title": "Diagnostic pathways and unmet healthcare needs in rare diseases: a Romanian survey",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065445/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065445/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Rare disease policy in Europe increasingly emphasises not only timely diagnosis but also the integration of specialist expertise into sustainable national care pathways. We analysed a cross-sectional, network-based online survey conducted in Romania within the ECOU project to describe diagnostic trajectories and principal unmet care needs and to consider their relevance within the evolving European rare disease landscape. Of 799 exported records, 768 met the inclusion criteria and were analysed....",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -487,7 +487,7 @@
     },
     {
       "title": "Case Report: Multimodal treatment of cervical intramedullary spinal cord metastasis from gastric adenocarcinoma",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065422/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065422/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: This case showed temporary neurological and radiographic improvement after a multimodal non-surgical approach, but it does not establish the efficacy of an individual treatment component or an overall survival benefit.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -503,7 +503,7 @@
     },
     {
       "title": "Prospective comparison of CT- and MRI-based tumor delineation based on intraoperative navigation and spatially annotated pathology in locally advanced midfacial squamous cell carcinoma",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065419/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065419/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "INTRODUCTION: Precise tumor delineation is critical for navigation-guided surgery and radiotherapy (RT) in locally advanced midfacial squamous cell carcinoma (SCC). Contrast-enhanced computed tomography (CT) and magnetic resonance imaging (MRI) are both recommended for staging and provide complementary information. However, quantitative comparisons of CT- and MRI-based tumor contours remain scarce, while a spatial comparison with histopathological data has never been performed. Therefore, we...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -519,7 +519,7 @@
     },
     {
       "title": "Immediate early response 3 promotes airway epithelial inflammation and represents a therapeutic target in chronic obstructive pulmonary disease",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065417/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065417/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: We developed an interpretable machine-learning framework for COPD risk prediction and identified IER3 as a candidate mediator of airway epithelial inflammation. Integrated evidence supports its involvement in smoke-induced inflammatory amplification and potential contribution to impaired lung function, highlighting IER3 as a potential therapeutic target warranting further mechanistic and clinical validation.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -535,7 +535,7 @@
     },
     {
       "title": "SOX4-activated lncRNA AC004854.2 promotes colorectal cancer progression by disrupting the PUF60-FUBP1 complex and activating c-MYC transcription",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065400/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065400/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Colorectal cancer remains a major cause of cancer-related mortality worldwide, underscoring the critical need for novel biomarkers and effective therapeutic targets. In this study, we identify the long non-coding RNA AC004854.2 as significantly up-regulated in colorectal cancer tissues and strongly associated with poor clinical prognosis. Mechanistic analyses reveal that AC004854.2 competitively interacts with PUF60, leading to the disruption of the PUF60-FUBP1 repressor complex at the...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -551,7 +551,7 @@
     },
     {
       "title": "Sex and gender dynamics in health outcomes of partner dance",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065392/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065392/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "No abstract",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -567,7 +567,7 @@
     },
     {
       "title": "Corrigendum to \"PinX1 suppresses cancer progression by inhibiting telomerase activity in cervical squamous cell carcinoma and endocervical adenocarcinoma\" [Genes Dis 12 (2025) 101319]",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065389/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065389/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "[This corrects the article DOI: 10.1016/j.gendis.2024.101319.].",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -583,7 +583,7 @@
     },
     {
       "title": "What is commoning? A systematic review of definitions, narratives and differences with the commons",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065383/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065383/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Research on commoning is expanding, but there is no unifying definition or conceptual framework. Numerous definitions and narratives of what commoning is or could be are observable across research fields and empirical contexts. How is commoning scholarship different or similar to literature on the commons? In this article, we systematically review the literature on commoning across all academic fields and topics. We examine 637 peer-reviewed articles that explicitly use the term and analyze the...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -599,7 +599,7 @@
     },
     {
       "title": "Effects of a high-quality protein diet on glycemic control in patients with prediabetes: a systematic review and network meta-analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065373/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065373/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: LP was significantly superior to a low-protein diet for HOMA-IR; LCP significantly reduced total cholesterol and FP significantly reduced LDL-C. No other intervention reached significance. These differences may reflect the nutrients accompanying each protein source rather than protein content alone. Given the few primary studies, heterogeneity among some interventions, and short intervention periods, further well-reported trials and implementation research are needed to bridge...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -615,7 +615,7 @@
     },
     {
       "title": "AI involvement scenarios and perceived responsibility attribution in a human-AI legal decision vignette: associations with psychological ownership and sense of control",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065360/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065360/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The randomized scenario comparisons showed differences in perceived responsibility attribution. Because the scenarios jointly varied multiple features, these findings do not isolate the causal effects of AI functionality, human authority, or opportunities to intervene. Ownership and control ratings partly reflected information supplied in the vignettes and therefore cannot establish distinct causal mediating mechanisms or their temporal sequence.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -631,7 +631,7 @@
     },
     {
       "title": "Validation of the Korean Version of the Biphasic Sleep Scale (BiSS) and Its Associations with Insomnia and Sleep-Related Cognition",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065337/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065337/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The four-factor model of the Korean BiSS is a reliable and valid measure for assessing people's perceptions, preferences, and habits related to biphasic sleep, which involves nighttime sleep and daytime naps.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -647,7 +647,7 @@
     },
     {
       "title": "Performance of predictive models for infection in knee arthroplasty surgeries: an analysis of a clinical cohort from routine surveillance at a rehabilitation hospital",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065335/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065335/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: The findings highlight the need to develop predictive models specific to the hospital context studied, including additional variables and the use of artificial intelligence.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -663,7 +663,7 @@
     },
     {
       "title": "Sarcoidosis Initially Misdiagnosed as Culture-Negative Pulmonary Tuberculosis Presenting as Dialysis-Requiring Acute Kidney Injury: A Case Report",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065300/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065300/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Sarcoidosis is a systemic granulomatous disease that commonly involves the lungs. Renal involvement is uncommon, most often manifesting as granulomatous interstitial nephritis (GIN), which can progress to acute kidney injury (AKI). The clinical and radiological overlap with tuberculosis (TB), particularly culture-negative pulmonary TB, poses a significant risk of misdiagnosis. We report a 78-year-old male who presented with dialysis-requiring AKI. Renal biopsy demonstrated non-caseating GIN, and...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -679,7 +679,7 @@
     },
     {
       "title": "Gold Nanoparticle-Based Optical Sensors for Antibiotic Detection: Recent Advances in Sensing Mechanisms, Portable Platforms, and Commercialization Prospects",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065292/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065292/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "The widespread use of antibiotics in various fields has resulted in rising contamination of environmental and food systems. Antibiotic residues accumulation poses serious risks like antimicrobial resistance, ecological imbalance, allergic reactions, and long term toxicity. Consequently, the accurate and precise quantification of antibiotic ion various samples are very important. Gold nanoparticles (AuNPs) have unique properties and emerged as one of the most promising nanomaterials having...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -695,7 +695,7 @@
     },
     {
       "title": "Carrageenan-Based Hydrogel Incorporating Self-Emulsifying Systems for Controlled Topical Delivery of Sichuan Pepper Extract",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065286/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065286/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "The development of topical delivery systems for plant-derived bioactives remains challenging because of limited formulation performance and residence time at the application site. This study developed a κ-carrageenan-based hydrogel incorporating a self-emulsifying drug delivery system (SEDDS) loaded with Sichuan pepper extract (SPE). SPE showed total polyphenolic content of 26.65 ± 0.42 mg GAE/g, α-hydroxysanshool (HAS) content of 10.47 ± 0.06 mg/g, and antioxidant activity (IC(50) = 3.91...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -711,7 +711,7 @@
     },
     {
       "title": "Genesis of High-Fluoride Groundwater and Associated Health Risks in the Huangqihai Basin",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065279/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065279/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "The presence of high fluoride in groundwater poses a major health concern. In the present study, 63 samples of groundwater and surface water were obtained from the Huangqihai Basin in the Inner Mongolia Autonomous Region. The influencing factors and their relative contributions to fluoride (F^(-)) enrichment in groundwater were analyzed, and the potential health risks associated with groundwater fluoride were assessed. Studies of groundwater samples from the Huangqihai Basin indicate that...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -727,7 +727,7 @@
     },
     {
       "title": "The Jebel Sahaba-Tushka-Wadi Halfa Nexus in the Late Pleistocene Nile Valley",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065276/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065276/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "OBJECTIVES: This paper uses dental and cranial nonmetric data to assess biological homogeneity among three Nile Valley Late Pleistocene (NVLP) samples: Jebel Sahaba, Tushka, and Wadi Halfa. The objective is to confirm previous data aggregation practices, which have been based primarily on assessments of cranial robusticity, and provide a modified approach to biodistance analysis that privileges trait selection based on the most limiting sample within a hypothesis testing framework.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -743,7 +743,7 @@
     },
     {
       "title": "LRRK2 in Focus: A Global Browser Linking Genetic Diversity to Functional Effects",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065274/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065274/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: The publicly available LRRK2 Browser represents an open-access resource to support LRRK2 variant interpretation. It aims to enhance the translational potential of genetic and functional data for precision medicine and the implementation of gene-targeted therapies in diverse populations. © 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -759,7 +759,7 @@
     },
     {
       "title": "Hepatic Macrophages Depletion by Clodronate Liposomes Alleviates RRV-Induced Biliary Injury via Targeting the Notch3/PPAR Signalling Pathway",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065273/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065273/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Biliary atresia is a rare obliterative cholangiopathy in neonates, and hepatic macrophages participate in biliary atresia pathogenesis. The study aimed to reveal the regulatory mechanism of macrophages in the progression of biliary atresia. Hepatic macrophages were co-cultured with vascular smooth muscle cells (VSMCs). Delta like canonical notch ligand 4 (DLL4) and neurogenic locus notch homologue 3 (Notch3) were quantified in rhesus rotavirus (RRV)-treated cells following anti-DLL4 antibody...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -775,7 +775,7 @@
     },
     {
       "title": "Protection Against Rabies Virus by a Bacterium-Like Particle-Based Subunit Vaccine Displaying the Glycoprotein",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065271/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065271/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Rabies is a fatal zoonotic disease caused by the rabies virus (RABV) and remains a major global public health concern. Although currently available rabies vaccines provide reliable protection, their widespread application is limited by complicated immunization schedules and relatively high production costs. Therefore, the development of safe, effective and economically accessible next-generation vaccines is urgently needed. In this study, we developed a novel rabies subunit vaccine based on a...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -791,7 +791,7 @@
     },
     {
       "title": "Plain Language Summary Publication: Posttraumatic headache: A two-arm parallel-group, randomized, single-blind, sham-controlled clinical superiority trial evaluating repetitive transcranial magnetic stimulation as a novel treatment modality",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065270/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065270/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "No abstract",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -807,7 +807,7 @@
     },
     {
       "title": "Synergistic Lewis Base Organocatalysis and Electrocatalysis for the Enantioselective Construction of α-Fluorinated Quaternary Stereocenters",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065266/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065266/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "The construction of α-fluorinated quaternary stereocenters-a structural motif of high value in pharmaceuticals and bioactive molecules-remains a formidable synthetic challenge due to inherent steric and stereoelectronic constraints. Herein, we report a synergistic strategy combining chiral isothiourea (ITU) organocatalysis with electrochemistry, enabling the direct and highly enantioselective α-alkylation of bench-stable fluorinated acetic esters with both silyl enol ethers and allylsilanes....",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -823,7 +823,7 @@
     },
     {
       "title": "N-Type Organic Ultraviolet Sensor",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065262/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065262/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Ultraviolet radiation monitoring is important for health, industrial, and environmental applications. Commercial inorganic UV photodetectors offer high selectivity and stability, yet rely on rigid materials and high-temperature processing, whereas organic UV photodetectors are solution-processable and flexible but suffer from instability and complex stacking architectures. In this study, we demonstrate ambient-operated organic UV sensors based on an n-type conducting polymer,...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -839,7 +839,7 @@
     },
     {
       "title": "The great mimicker: Carotid-cavernous fistula presenting as refractory unilateral headache",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065258/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065258/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "No abstract",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -855,7 +855,7 @@
     },
     {
       "title": "Advances in Genome Engineering of Social Amoebae for Natural Product Discovery",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065218/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065218/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Natural products are low-molecular-weight molecules derived from living organisms which often exhibit distinct biological activities for potential pharmaceutical, agricultural or cosmetic applications. However, identifying novel natural products is becoming increasingly difficult due to high rates of rediscovery. Nevertheless, given the genetic information available across thousands of microbial genomes, there exists a vast 'dark matter' of biosynthetic pathways whose potential remains to be...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -871,7 +871,7 @@
     },
     {
       "title": "Autonomous Scanning Electrochemical Cell Microscopy Enables Rapid Exploration of Large Compositionally Complex Material Spaces",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065216/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065216/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Alloying is a central strategy in electrocatalysis, enabling fine-tuning of the electronic structure. In particular, compositionally complex solid solutions (CCSSs), often called high-entropy alloys, are of high interest. However, the \"combinatorial explosion\" in the number of possible compositions poses a critical bottleneck for the discovery of CCSS electrocatalysts. We present an autonomous scanning electrochemical cell microscopy (SECCM) system for ultrahigh-throughput and large-scale CCSS...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -887,7 +887,7 @@
     },
     {
       "title": "Stabilizing High-Voltage Oxygen Holes via π-Bonding Mediated Frontier-Orbital Character Inversion in Intermediate-Regime Oxide Cathodes",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065214/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065214/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Oxygen redox chemistry offers a promising route to higher energy densities in layered oxide cathodes. However, it is commonly plagued by unstable O─O dimerization that leads to voltage hysteresis and capacity loss. While oxygen hole can mitigate these degradation pathways, its lower operating voltage results in reduced energy density. Herein, high-voltage oxygen-hole states are stabilized in Li(2)RuO(3) through precisely tailoring the Ru─O π-bonding interaction. The successful modulation arises...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -903,7 +903,7 @@
     },
     {
       "title": "Selective Oxidation of Toluene to Benzaldehyde Driven by Electroreduction of Oxygen to Hydrogen Peroxide Coupled With In Situ Electro-Fenton Reaction",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065213/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065213/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Selective toluene oxidation is a pivotal reaction in the fine chemical industry. While electrooxidation at high anodic potentials shows promise, the low efficiency of the generation of reactive oxygen species limits the product yield. Herein, we describe a cathodic strategy for selective oxidation of toluene to benzaldehyde via coupling the electrosynthesis of hydrogen peroxide from oxygen reduction with an in situ electro-Fenton reaction (eH(2)O(2)-EF). Among the different metal-nitrogen-carbon...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -919,7 +919,7 @@
     },
     {
       "title": "Microbial Exposures and Probiotic Interventions in Allergic Diseases: An Evidence Gap Map of Synthesised Evidence",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065208/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065208/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "No abstract",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -935,7 +935,7 @@
     },
     {
       "title": "Recognizing remodeled fungal cell walls: Chitosan sensing in plant immunity",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065197/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065197/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "No abstract",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -951,7 +951,7 @@
     },
     {
       "title": "Perinatal maternal undernutrition in baboons modulates hepatic mitochondrial function but not metabolites in aging offspring",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065196/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065196/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Nutritional stress during development can increase the risk of developing chronic metabolic diseases later in life. We previously demonstrated in a translational baboon model that maternal undernutrition (MUN), 70% of control animal's nutrition, impairs fetal liver function. However, later-life effects in offspring remain unexplored. We assessed clinical phenotypes of liver function, blood glucose, total cholesterol, mitochondrial bioenergetics, protein abundance, and mRNA expression of...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -967,7 +967,7 @@
     },
     {
       "title": "Coupled Self-Alkalization and Chelation Chemistry Enables Highly Reversible Zn Anodes and Rechargeable Alkaline Zn-I<sub>2</sub> Batteries",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065192/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065192/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "The practical development of alkaline rechargeable zinc-based batteries (ARZBs) is fundamentally limited by the intrinsic trade-off among redox potential, high Zn^(2+) concentration, and Zn anode stability. Herein, we report a synergistic \"self-alkalization + chelation chemistry\" electrolyte using ethylenediamine (EN) as a multifunctional co-solvent. Acting simultaneously as an organic base and a Zn^(2+) chelating ligand, EN enables in situ OH^(-) generation while forming soluble five-membered...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -983,7 +983,7 @@
     },
     {
       "title": "Exploring Dental Biomechanics in the Context of Cultural Behaviors: Technical Note",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065188/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065188/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Dental biomechanics plays a crucial role in understanding how teeth respond to mechanical demands and whether anatomical variation can be interpreted as functional adaptations. Physical pressures imposed on the dentition arise mainly from food ingestion and chewing, but also from para-masticatory activities. The latter occurs when external items contact the occlusal surfaces, while tooth-to-tooth contacts can take place during clenching and empty grinding. This study presents a methodology to...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -999,7 +999,7 @@
     },
     {
       "title": "Amphiphilic Interface-Mediated Dual-Domain Architecture Enhances Phosphatase-Like Activity for Plastic Additives Assay",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065183/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065183/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Plastics are ubiquitous, and their performance depends on phosphate ester additives used as plasticizers and flame retardants. Leaching of these additives causes environmental persistence and biotoxicity, demanding efficient detection. To overcome the polarity mismatch in detecting plastic additives, we developed amphiphilic F127-modified Pt with Pt-OH sites (Pt-OH/F) for colorimetric detection of mixed plastic additives. Pt-OH/F outperforms alkaline phosphatase and works directly in water, with...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1015,7 +1015,7 @@
     },
     {
       "title": "Steering C-C Coupling via Amorphous Nd<sub>2</sub>O<sub>3</sub> Pinning for Efficient CO<sub>2</sub> Electroreduction to Ethylene",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065180/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065180/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Copper-catalyzed electrochemical CO(2) reduction provides a sustainable route for carbon fixation. However, the undercoordinated Cu active sites that facilitate C-C coupling readily undergo rapid, detrimental structural reconstruction under negative potentials. To tackle this challenge, we introduce amorphous Nd(2)O(3) nanostructures pinned at the Cu(2)O interface to stabilize the undercoordinated Cu sites. Electron microscopy and spectroscopy reveal that this pinning interface not only refines...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1031,7 +1031,7 @@
     },
     {
       "title": "Cost-Effectiveness of a Cluster Randomised Whole of Systems Trial of Prevention Strategies for Childhood Obesity (WHO STOPS)",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065166/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065166/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: WHO STOPS was not cost-effective in changing BMIz but had the potential to change children's HRQoL and build community capacity to generate investment over and above the initial funding. Further studies should explore the long-term cost-benefit of such system interventions.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1047,7 +1047,7 @@
     },
     {
       "title": "Constructing Dynamic Interfacial Hydration Network Channel for Efficient Co‑Transport of OH<sup>-</sup> and H<sub>2</sub> in Water‑Electrolysis Cathodes",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065164/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065164/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Efficient mass transport at the electrode-electrolyte interface of anion-exchange membrane water electrolysis (AEM-WE) is fundamentally constrained by antagonistic hydration requirements. Drawing inspiration from biological channels that mediate hydrophilic yet non-retentive transport, we designed a series of covalent organic frameworks (COFs) with tunable sulfone densities as synthetic nanochannels. Combined experimental and theoretical investigations revealed that the sulfone moiety (O═S═O)...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1063,7 +1063,7 @@
     },
     {
       "title": "Molecular Regulation of Excited-State Dynamics Enables Photochemically Stable Organic Semiconductors",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065156/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065156/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Photochemical degradation fundamentally limits the operational stability of organic photovoltaics (OPVs), yet the molecular processes linking excited-state dynamics to irreversible chemical reactions remain poorly understood. Here, we show that excited-state vibrational processes represent a previously underexplored molecular degree of freedom governing photochemical stability and can be regulated to suppress degradation. By incorporating melatonin into the donor layer of an OPV device,...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1079,7 +1079,7 @@
     },
     {
       "title": "SlitOBP9 contributes to cis-3-hexenol recognition and larval orientation in Spodoptera litura",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065155/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065155/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Cis-3-hexenol is a typical green leaf volatile (GLV) that plays an important regulatory role in plant-insect interactions. Spodoptera litura is a globally significant agricultural pest whose larvae cause severe damage to a wide range of crops, yet the olfactory molecular mechanism underlying larval recognition of this volatile has remained unclear. Two-choice behavioral assays showed that a low dose (0.1 µg) of cis-3-hexenol exerted a significant attractive effect on S. litura larvae....",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1095,7 +1095,7 @@
     },
     {
       "title": "Emergency Onlay Mesh Repair Does not Compromise Patient-Reported Outcomes: A Nationwide Survey- and Register-Based Study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065134/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065134/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Emergency onlay mesh repair did not compromise long-term patient-reported outcomes compared with elective repair. These findings suggest that onlay mesh in emergency ventral hernia repair seems safe regarding patient-reported outcomes consistent with the EHS guideline recommendation.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1111,7 +1111,7 @@
     },
     {
       "title": "Oncolytic Viruses Armed with Multiple Immunomodulatory Transgenes in Cancer Immunotherapy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065127/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065127/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "Oncolytic viruses (OVs) have emerged as versatile cancer immunotherapeutic agents that selectively kill tumor cells while simultaneously inducing antitumor immune responses. The therapeutic activity of OVs can be further enhanced by arming them with immunomodulatory transgenes. However, expression of a single transgene often fails to generate durable antitumor immunity, largely because of the complex, immunosuppressive nature of the tumor microenvironment (TME). To overcome this limitation,...",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1127,7 +1127,7 @@
     },
     {
       "title": "Influence of Infusion Duration and Tubing Length on Insulin Lispro Stability in Subcutaneous Insulin Pump Delivery Systems",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065126/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065126/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1HyCEy3kccvK7zE0-AQi3b_3KChicv5K_t8YL3UITyEWtrEgUY&fc=20250822210237&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Flow imaging proved more sensitive than light obscuration for this in vitro analysis. Polyethylene shed from infusion tubing was identified as a source of particulate matter. These findings suggest that sensitive analytical methods may offer utility in characterizing infusion set systems.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1143,7 +1143,7 @@
     },
     {
       "title": "Three Decades of Robotic Gallbladder Surgery: A Descriptive and Science Mapping Analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065174/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lIZdG7__acDiOnILwc1UJFv1EU2tzCDqwphAfr3PZolpno9sb&fc=20250824201059&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065174/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lIZdG7__acDiOnILwc1UJFv1EU2tzCDqwphAfr3PZolpno9sb&fc=20250824201059&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: RAGS has evolved into a rapidly expanding but geographically concentrated research field, highlighting opportunities for broader international collaboration and continued diversification of research themes.",
       "pubDate": "2026-11-21T11:00:00.000Z",
       "institutions": [
@@ -1159,7 +1159,7 @@
     },
     {
       "title": "Sirtuin 1-dependent oleanolic acid protection attenuates oxidative stress-induced granulosa cell dysfunction and ovarian damage",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065040/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065040/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: OA protects granulosa cells and ovarian tissue from oxidative stress-induced inflammatory injury by restoring SIRT1 expression and suppressing NF-κB signaling in a SIRT1-dependent manner. These findings suggest that OA may help preserve granulosa cell function, support follicular development, and maintain ovarian reserve under oxidative stress-associated ovarian dysfunction.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1176,7 +1176,7 @@
     },
     {
       "title": "AKT as a central node integrating multidrug resistance mechanisms in ovarian Cancer",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064176/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064176/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "Ovarian cancer, particularly high-grade serous ovarian cancer (HGSOC), remains a leading cause of gynecologic cancer mortality. Although HGSOC responds to platinum-taxane therapy, 70-85% relapse, with acquired resistance playing a major role. The phosphoinositide 3-kinase (PI3K)/protein kinase B (AKT)/mammalian target of rapamycin (mTOR) pathway, centered on AKT, contributes to this resistance. Current literature examines AKT's downstream consequences in isolation, overlooking their collective...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1193,7 +1193,7 @@
     },
     {
       "title": "Operator-induced reduction of air kerma during backpack-based gamma-ray measurement",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063746/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063746/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "Backpack-based gamma-ray measurement systems are widely used to monitor environmental radiation; however, measurements can be affected by attenuation caused by the operator's body. The present study investigated the effect of operator-induced attenuation on backpack-based gamma-ray measurements. A backpack gamma-ray measurement system equipped with a 7.62 cm × 7.62 cm NaI(Tl) detector was calibrated through experimental measurements and Monte Carlo simulations. The gamma-ray spectra were divided...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1209,7 +1209,7 @@
     },
     {
       "title": "Advancing structural interpretability in multispecies aquatic toxicity prediction through feature-wise conditioning in multimodal graph neural networks",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063672/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063672/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "Ecological risk assessment requires aquatic toxicity estimates for untested chemical-species combinations. Predictive models can combine molecular structure with physicochemical, species, and exposure information to estimate these toxicities. We examined how this integration affects prediction and structural interpretation. Conventional concatenation joins encoded molecular features with other inputs. We compared this with feature-wise linear modulation (FiLM), which adjusts molecular features...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1228,7 +1228,7 @@
     },
     {
       "title": "Nationwide monitoring of neurotoxin β-N-methylamino-L-alanine (BMAA) and its isomers in phytoplankton, mussels, and commercial shellfish from Korean coastal waters",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063657/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063657/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "β-N-methylamino-L-alanine (BMAA) is a neurotoxin produced by certain phytoplankton and has attracted attention due to its potential association with neurodegenerative diseases. However, information on its occurrence, bioaccumulation, and transfer to seafood remains limited. This study investigated the nationwide distribution of BMAA and its isomers, 2,4-diaminobutyric acid (DAB) and N-(2-aminoethyl)glycine (AEG), in phytoplankton, mussels, and commercial shellfish from Korean coastal waters and...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1244,7 +1244,7 @@
     },
     {
       "title": "Bovine Serum Albumin-Crosslinked Silk Fibroin-Based Bioink via Thiol-Ene Click Chemistry for Bone Tissue Engineering",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43062796/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062796/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The Silk-NB/BSA-SH thiol-ene click chemistry bioink presents a design strategy that simultaneously satisfies printability, mechanical performance, and biological functionality. This protein-based functional crosslinking approach addresses key limitations of conventional Sil-MA and supports the potential of the Silk-NB/BSA-SH bioink for digital light processing (DLP)-based bone tissue engineering applications.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1260,7 +1260,7 @@
     },
     {
       "title": "Exposure to Diesel Particulate Matter Aggravates Developmental Toxicity Induced by Cyclophosphamide in Rats",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061936/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061936/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "Despite widespread human exposure to diesel particulate matter (DPM) and its recognized health risks, its impact on embryo-fetal development, particularly under conditions of concomitant exposure to developmental toxicants, remains insufficiently characterized. This study investigated whether DPM exacerbates cyclophosphamide (CP)-induced embryo-fetal developmental toxicity in rats and assessed maternal hepatic oxidative stress-related parameters, including malondialdehyde (MDA) levels and...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1277,7 +1277,7 @@
     },
     {
       "title": "Multi-gene phylogeny and morphological study reveal three new species of <em>Ophiostoma</em> Syd. and P. Syd. (<em>Ascomycota</em>, <em>Ophiostomatales</em>) from oak trees in South Korea",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061397/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061397/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "During a survey of putative fungal pathogens infecting oak trees in the Republic of Korea, fungal isolates exhibiting morphological characteristics of Ophiostoma species were consistently collected from natural wounds on oak trees. Based on morphological characterization and phylogenetic analyses, including single-gene phylogenies of ITS, TUB2, TEF1-α, and RPBII sequences, alongside a multi-gene phylogeny of ITS, TUB2, and TEF1-α, it was revealed that the fungi collected resided in a distinct...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1293,7 +1293,7 @@
     },
     {
       "title": "Protective effects of <em>Gentiana macrophylla</em> Pall. against blue light-induced retinal injury associated with of antioxidant defense, mitochondrial dysfunction, apoptosis, and inflammatory responses",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061192/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061192/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: MEG pretreatment attenuated acute BL-induced retinal injury, accompanied by changes in antioxidant defense-related markers, mitochondrial status, apoptosis-associated alterations, and inflammatory responses. These findings provide experimental evidence supporting further investigation of MEG as a potential protective botanical preparation against oxidative and phototoxic retinal injury.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1310,7 +1310,7 @@
     },
     {
       "title": "Research Trends in the Journal of Dental Hygiene Science Using Keyword Network Analysis and Topic Modeling: A Comparative Study of Pre- and Post-COVID-19 Periods (2015∼2024)",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059637/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059637/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Over the past decade, JDHS research has shifted from an education- and psychology-oriented focus to clinical and experimental studies, with infection control emerging as an independent research theme after COVID-19. However, internationally prominent topics such as teledentistry and digital dentistry remain underrepresented, suggesting the need for expanded research in these emerging areas. This study provides quantitative evidence of structural changes in Korean dental hygiene...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1326,7 +1326,7 @@
     },
     {
       "title": "Research Trends in Artificial Intelligence Applications in Dental Hygiene and Dentistry in Korean Academic Journals: A Scoping Review",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059609/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059609/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: AI research in Korea exhibits divergent developmental trajectories. Dental hygiene research emphasizes education, prevention, and public oral health, combining exploratory and applied approaches, while dentistry demonstrates greater clinical integration and application-level maturity. Advancing AI maturity in dental hygiene will require expansion of clinical data-driven studies, incorporation of AI and data literacy into curricula, standardized integration of unstructured and...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1343,7 +1343,7 @@
     },
     {
       "title": "Evaluating the Accuracy of an Artificial Intelligence Solution Program for Identifying Anatomical Landmarks in Orthodontics",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059070/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059070/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1lGTpA7S74whuNVC_kQy0F4ncgCxeB9B9U0hbi6Wldiv2cIgV2&fc=20250822163126&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: The findings suggest that EzOrtho may offer clinical utility and reliability for automatic cephalometric landmark detection using real clinical data. Its performance indicates the potential to improve efficiency and consistency relative to manual tracing. However, the study's limitations, including its small sample size, mean that these results remain preliminary. Further validation is needed to establish its role as a decision-support tool in orthodontic practice.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1359,7 +1359,7 @@
     },
     {
       "title": "Periodontal ligament stem cells modulate macrophage inflammation in association with pyrimidine metabolic remodeling",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065117/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065117/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: PDLSCs modulate macrophage inflammation in association with coordinated remodeling of Pyrimidine metabolism. Functional studies with TAU further support a role for pyrimidine metabolic regulation in controlling inflammatory responses and tissue repair, highlighting this metabolic pathway as a potential therapeutic target for oral inflammatory diseases.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1376,7 +1376,7 @@
     },
     {
       "title": "Development of a multidimensional scale for discomfort related to personal protective equipment and its exploratory association with musculoskeletal symptoms among Korean healthcare workers during the COVID-19 pandemic",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065077/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065077/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: The PPE Discomfort Scale identified two dimensions: direct wearing burden and organisational vulnerability, supporting a multidimensional conceptualisation of PPE-related discomfort. In exploratory analyses, organisational vulnerability showed a stronger association with MSDs, although this association was attenuated after additional adjustment. Further studies are needed to confirm the factor structure and evaluate the scale in other healthcare settings.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1392,7 +1392,7 @@
     },
     {
       "title": "Short-term dietary and exercise interventions modify the CD86-Faecalibaculum association linked to adipose tissue inflammation after prolonged high-fat diet exposure",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065042/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065042/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The CD86-Faecalibaculum association was linked to AT inflammation and adverse metabolic measures after prolonged HFD exposure. Dietary reversal, particularly when combined with exercise, was associated with improved metabolic, immune, and microbial profiles.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1408,7 +1408,7 @@
     },
     {
       "title": "Baseline and longitudinal changes in blood biomarkers for predicting clinical outcomes in pirfenidone-treated idiopathic pulmonary fibrosis: a prospective observational study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43065028/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43065028/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: These findings suggest that several blood biomarkers, particularly CCL18, KL-6, and CA-125, may provide additional prognostic information for IPF patients receiving pirfenidone and warrant further investigation.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1427,7 +1427,7 @@
     },
     {
       "title": "Estimation of serial intervals and time-varying reproduction numbers across SARS-CoV-2 variants in childcare clusters: symptom onset vs. reporting dates",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064940/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064940/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The choice of temporal reference substantially affects SI and Rt estimation in childcare clusters. Reliance on reporting dates may underestimate real-time transmission intensity and distort epidemic risk assessment. Prioritizing symptom onset data in surveillance systems may improve the accuracy and timeliness of public health responses in high-risk settings.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1445,7 +1445,7 @@
     },
     {
       "title": "Machine learning-based risk prediction of hepatocellular carcinoma in patients with chronic hepatitis B: current evidence and future directions",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064890/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064890/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: ML-based models may complement conventional risk scores and support individualized surveillance in CHB. Future research should prioritize dynamic, multimodal, externally validated, and clinically implementable systems that improve surveillance decisions and patient outcomes.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1461,7 +1461,7 @@
     },
     {
       "title": "Treatment burden and long-term morbidity after transoral robotic vs. nonrobotic surgery for oropharyngeal cancer",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064870/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064870/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Transoral robotic surgery (TORS) is widely used in the surgical management of oropharyngeal cancer, yet its longer-term consequences beyond survival and perioperative care remain uncertain. We examined 4,173 patients who underwent surgery for oropharyngeal cancer using nationwide Korean National Health Insurance Service data from 2010 to 2023. Of these, 2,430 received TORS and 1,743 received nonrobotic surgery. Treatment groups were balanced using stabilized inverse probability weights. Blood...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1478,7 +1478,7 @@
     },
     {
       "title": "Genomic and Transcriptomic Changes in Early Gastric Cancer Inform Clinical Risk Stratification Prior to Endoscopic Resection",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064672/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064672/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Integrating genomic and transcriptomic data with clinicopathologic features provides additional insight into the molecular characteristics associated with established risk categories in EGC. These findings expand our understanding of the molecular heterogeneity of EGC and provide a foundation for future studies evaluating the clinical utility of molecular profiling in larger independent cohorts.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1494,7 +1494,7 @@
     },
     {
       "title": "Meta-Analysis: Moderate HBV DNA Levels Are Associated With the Highest Risk of Hepatocellular Carcinoma in Chronic Hepatitis B",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064654/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064654/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Moderate HBV DNA levels were associated with the highest pooled HCC incidence across the predefined categories.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1513,7 +1513,7 @@
     },
     {
       "title": "International expert perspectives on three-dimensional virtual hepatectomy: clinical value, selective use, and implementation barriers",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064636/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064636/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Experts valued 3D virtual hepatectomy primarily for maintaining intraoperative orientation and guiding an appropriate transection plane with an adequate surgical margin. Selective, question-driven use and reduced reconstruction burden may support broader implementation.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1529,7 +1529,7 @@
     },
     {
       "title": "Inflammatory and cardiometabolic signatures of atherosclerotic cardiovascular disease (ASCVD) in rheumatoid arthritis: a machine learning analysis of NHANES 2003-2023",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064569/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064569/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Traditional cardiovascular factors remained dominant correlates of prevalent ASCVD in adults with RA. ABSI was the most consistent composite marker, whereas inflammatory indices showed model-dependent importance. Longitudinal validation is required before clinical use in RA populations.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1546,7 +1546,7 @@
     },
     {
       "title": "Assessment of Potential Microplastic and Particulate Wear Debris Generation from Road-Marking Paint Wear in School Zones",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064289/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064289/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "This study developed a screening-level model to estimate the potential generation of microplastics and particulate wear debris from cold-plastic road markings in a hypothetical fully painted school zone (300 m × 6 m; 1,800 m²) in South Korea. Because published area-based wear data are averaged over the marked surface, they were applied to the total painted area rather than to a wheel-path sub-area. The baseline abrasion rate was taken from field measurements on cold-plastic pedestrian crossings...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1564,7 +1564,7 @@
     },
     {
       "title": "Redesigning the bacterial envelope: Multi-layered genetic strategies for outer membrane vesicle production",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064264/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064264/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Bacterial outer membrane vesicles (OMVs) are promising nanoplatforms for therapeutics, vaccines, and bioengineering; however, their industrial translation is constrained by low native yields and strain-dependent heterogeneity. Although static genetic knockouts can enhance vesicle shedding, they often provoke envelope fragility, premature cell lysis, and downstream contamination-creating a severe trade-off between vesicle yield and host cellular fitness. This review systematically outlines...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1580,7 +1580,7 @@
     },
     {
       "title": "Artificial Intelligence in Thoracic Pathology and Biomarker Assessment: An IASLC Pathology Committee Review",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064238/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064238/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Artificial intelligence (AI) is starting to transform pathology by enhancing diagnostic accuracy, prognostication, and therapeutic prediction through advanced computational analysis of histopathological images. This review explores key AI methodologies and their applications in lung cancer diagnostics. Supervised learning dominates current clinical AI tools, relying on annotated whole-slide images (WSIs) for tasks like tumor subtyping, quantitation of tissue-based parameters, prediction of...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1596,7 +1596,7 @@
     },
     {
       "title": "Prognostic Significance of AI-Quantified Central Tumor-Infiltrating Lymphocytes in Bladder Cancer",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064200/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064200/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: AI-based quantification of TILs at the tumor center was associated with favorable survival outcomes across two independent bladder cancer cohorts, whereas measurements at the invasive front showed no significant prognostic association. These findings support the potential prognostic relevance of spatially resolved TIL assessment in bladder cancer and warrant further validation in larger, independent cohorts.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1613,7 +1613,7 @@
     },
     {
       "title": "Estrogen loss and Alzheimer's disease: five exposures ordered by age, and why timing is the variable to test",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064171/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064171/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Alzheimer's disease occurs about twice as often in women as in men. A widely held hypothesis attributes part of the excess to loss of ovarian estradiol at menopause and, at its simplest, predicts that risk tracks the level of estrogen available to the brain. That prediction can be read against aromatase inhibitors, which engage brain aromatase and which millions of postmenopausal women take for years. We place this exposure alongside three other forms of estrogen loss - natural menopause,...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1629,7 +1629,7 @@
     },
     {
       "title": "Re: 'Evaluation of persistence of Candidozyma auris colonization' by Bavastro et al",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064152/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064152/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "No abstract",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1645,7 +1645,7 @@
     },
     {
       "title": "Adaptive Replanning in Hypofractionated Stereotactic Radiosurgery for Large Brain Metastases",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064110/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064110/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Adaptive replanning based on early volumetric response was feasible during hypofractionated SRS for large BMs and was not associated with increased toxicity; however, a clinical benefit of replanning over non-adaptive treatment, including a reduction in radiation necrosis or transient swelling, was not demonstrated. Inter-fractional tumor volume reduction may serve as an early indicator of favorable local control.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1661,7 +1661,7 @@
     },
     {
       "title": "Quality, Power, and Fragility of Randomized Controlled Trials in ANCA-Associated Vasculitis: A Systematic Review",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064054/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064054/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Most trials in AAV were of good quality, but were small, frequently underpowered, and highly fragile. A shift in the outcomes of only five participants on average, often fewer than the number of participants lost to follow-up, would have been sufficient to change findings.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1677,7 +1677,7 @@
     },
     {
       "title": "Histone remodeling in immune cells and its metabolic regulation and implications for metabolic disease",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43064032/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43064032/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Immune cells continuously adapt to local tissue environments, and this functional plasticity plays a critical role in tissue homeostasis and metabolic disease. Emerging evidence indicates that histone post-translational modifications (HPTMs) contribute to immune cell adaptation by linking metabolic and environmental signals to transcriptional regulation. Beyond canonical histone acetylation and methylation, recently characterized modifications, including lactylation, crotonylation, and...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1694,7 +1694,7 @@
     },
     {
       "title": "Spatial transcriptomics uncovers pharmacokinetic and tumor-intrinsic determinants of resistance to trastuzumab deruxtecan in breast cancer",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063936/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063936/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Trastuzumab deruxtecan (T-DXd) is effective in both HER2-positive and HER2-low metastatic breast cancers, but clinical responses are heterogeneous. To delineate spatial determinants of response, we perform spatial transcriptomics in patients treated with T-DXd. More spatially dispersed HER2 expression in cancer cells correlates with improved response, consistent with the bystander effect. In HER2-positive tumors, resistant fragments show downregulation of ERBB2 expression and activation of PI3K...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1710,7 +1710,7 @@
     },
     {
       "title": "Alcohol-associated attenuation of postmortem β-hydroxybutyrate and complementary biochemical findings in fatal hypothermia",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063882/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063882/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "The postmortem diagnosis of fatal hypothermia remains challenging, particularly when alcohol exposure complicates interpretation of β-hydroxybutyrate (BHB). This study examined the relationship between blood alcohol concentration (BAC) and cardiac blood BHB in forensic autopsy cases and explored free fatty acid (FFA) concentrations as potentially complementary biochemical findings related to lipid mobilization and ketone-body metabolism. Of 74 autopsy cases with a final diagnosis of fatal...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1727,7 +1727,7 @@
     },
     {
       "title": "Regional factors associated with social isolation and subjective cognitive decline among Korean older adults: A multilevel analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063864/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063864/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The association between social isolation and SCD was weaker in districts with more senior leisure facilities, with no evidence that this pattern differed between urban and rural areas. Community infrastructure that supports social engagement may help socially isolated older adults; longitudinal studies are needed to confirm these associations.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1743,7 +1743,7 @@
     },
     {
       "title": "Employment patterns and correlates among young adults registered with autism or intellectual disability in South Korea",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063818/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063818/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Educational experiences, caregiver-reported functioning, and family characteristics were associated with employment status. Cross-sectional data cannot establish temporal or causal direction and may partly reflect employment-related differences in caregiver ratings. Longitudinal studies with independent assessments are needed to clarify these relationships and inform support planning.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1761,7 +1761,7 @@
     },
     {
       "title": "Association between quantitative REM sleep without atonia and skeletal muscle indices by subsequent phenoconversion status in isolated REM sleep behavior disorder",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063797/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063797/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: The inverse association between RWA and skeletal muscle indices was more pronounced among patients with iRBD who subsequently phenoconverted. These hypothesis-generating findings require confirmation in larger cohorts.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1777,7 +1777,7 @@
     },
     {
       "title": "Lipocalin-2 facilitates neuronal iron delivery and is associated with heme oxygenase-1 responses during iron overload",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063778/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063778/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Lipocalin-2 (Lcn2) links inflammatory signaling with iron metabolism, but its capacity to deliver iron to neurons and its effects under iron-loaded conditions remain poorly understood. Using primary cortical neurons isolated from mouse embryos, we compared the uptake of iron-free apo-Lcn2 and iron-loaded holo-Lcn2, assessed iron delivery under a defined equimolar Lcn2-to-iron condition, and examined responses to ferric ammonium citrate (FAC) in the presence of Lcn2-containing conditioned medium....",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1793,7 +1793,7 @@
     },
     {
       "title": "Early mitochondrial superoxide accumulation and respiratory impairment in UVB-exposed dermal fibroblasts: A role for electron transport chain dysfunction",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063682/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063682/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: UVB-induced ROS generation is primarily driven by mitochondrial oxidative stress, stemming from ETC dysfunction, providing an important mechanistic insight into the UVB-induced skin damage and photoaging.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1809,7 +1809,7 @@
     },
     {
       "title": "Metformin use and all-cause and cause-specific mortality in patients with kidney cancer: a nationwide Korean cohort study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063679/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063679/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Post-diagnosis metformin use was associated with lower unadjusted mortality in patients with kidney cancer, but this association was likely inflated by immortal time bias and was not adjusted for tumor characteristics or other confounders. These hypothesis-generating findings require confirmation in studies with time-varying exposure and detailed clinical data.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1826,7 +1826,7 @@
     },
     {
       "title": "Environmental phenol contaminants originating from the HPLC system and sample-preparation materials, and influence on the quantitative accuracy of phenols in human urine",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063614/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063614/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Environmental phenols are ubiquitous environmental contaminants that frequently contaminate analytical systems and sample-preparation materials, thereby compromising quantitative accuracy. In the present study, background contamination of 39 environmental phenols originating from the HPLC system and sample-preparation materials and reagents was systematically evaluated, along with its impact on quantitative accuracy in human urine. Among the 39 environmental phenols investigated, bisphenol A,...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1843,7 +1843,7 @@
     },
     {
       "title": "Machine Learning Models Combining Routine Urine Dipstick Results With Age, Sex, and BMI to Triage Serum Urate Testing: Development and External Validation Study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063480/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063480/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Routine dipstick results add a small increment to age, sex, and BMI for identifying serum urate ≥7.0 mg/dL. Ranking transferred from the hospital to a national survey sample, but absolute risk did not, and at the tested thresholds the models mainly selected men. Both cohorts comprised people who had blood drawn, so triage of serum urate testing in urine-only encounters, in which BMI is usually missing, remains an untested hypothesis. Before any use, the models would need local...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1859,7 +1859,7 @@
     },
     {
       "title": "Alkaline phosphatase recovery patterns and in-hospital mortality in very low birth weight infants: A single-center retrospective cohort study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063375/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063375/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "BackgroundLow alkaline phosphatase (ALP) values in very low birth weight (VLBW) infants have received little attention, and the clinical significance of serial ALP changes after an initial low value is unclear. We examined whether ALP trajectory patterns were associated with in-hospital death in VLBW infants.Materials and MethodsThis single-center retrospective study included VLBW infants admitted from 2013 to 2024 with a serum ALP ≤100 U/L after postnatal day 2. Infants were classified by their...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1875,7 +1875,7 @@
     },
     {
       "title": "Resolving the black hole sphere of influence in a hyperluminous obscured quasar at redshift 4.6",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063285/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063285/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Supermassive black holes (SMBHs) imprint gravitational signatures on the matter within their sphere of influence (SoI). Nuclear gas dynamics can hence be used to accurately measure the mass of an SMBH, yet these measurements remain elusive in the early universe. We report the first dynamical measurement of an SMBH mass at z > 2, based on high-spatial resolution observations of the ionized-carbon 157.7-micrometer and carbon monoxide (12-11) 216.93-micrometer emission lines that resolve the SoI in...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1891,7 +1891,7 @@
     },
     {
       "title": "Solubility-driven morphological decoupling enables elastic electron-deficient semiconducting polymers for fully stretchable electronics",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063272/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063272/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "The development of fully stretchable electronics is limited by the scarcity of electron-deficient polymers that combine high electron mobility with mechanical elasticity. Here, we report a solubility-driven morphological decoupling strategy that mitigates this trade-off by incorporating ∼10% planar, insoluble PyF units into a semicrystalline PySe backbone. This approach yields a hierarchical morphology characterized by suppressed long-range crystallinity alongside robust local aggregation....",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1908,7 +1908,7 @@
     },
     {
       "title": "Urinary transferrin/creatinine ratio as a biomarker of reduced allograft function and rapid renal function decline in kidney transplant recipients",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063241/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063241/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Chronic allograft injury and progressive loss of graft function remain major challenges after kidney transplantation. Urinary transferrin has been proposed as an early marker of renal damage in diabetic nephropathy and chronic kidney disease, but its clinical utility in kidney transplant recipients (KTRs) is unclear. We conducted an observational study of 50 adult KTRs who provided a spot urine sample. Thirty recipients had reduced allograft function (estimated glomerular filtration rate [eGFR]...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1924,7 +1924,7 @@
     },
     {
       "title": "Risk of major adverse cardiovascular events and all-cause mortality across chronic kidney disease stages: A population-based retrospective cohort study in South Korea",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063110/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063110/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Chronic kidney disease (CKD) is associated with increased cardiovascular and all-cause mortality risk. However, few studies have assessed whether these risks vary across CKD stages in Asian populations. Using Korean National Health Insurance data (2016-2020), we analyzed a cohort of 51,352 individuals newly diagnosed with CKD. We compared incidence rates of major adverse cardiovascular events (MACE) and all-cause mortality across CKD stages. Model 1 adjusted for age and sex; Model 2, the primary...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1940,7 +1940,7 @@
     },
     {
       "title": "Global burden of HBV/HCV-related liver diseases, 1990-2021, and projections to 2050: A global burden of disease study 2021",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063093/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063093/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Despite the availability of measures to control hepatitis B virus (HBV)- and hepatitis C virus (HCV)-related diseases, achieving elimination remains a substantial challenge. Effective action demands accurate assessment of the present and anticipation of the future. We utilized data from the Global Burden of Disease Study (GBD) 2021 to estimate the global burden of HBV- and HCV-related diseases for 204 countries and territories from 1990 to 2021. We defined HBV/HCV-related liver disease to...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1957,7 +1957,7 @@
     },
     {
       "title": "Clinical characteristics across graded frailty status in older public hospital outpatients: An exploratory cross-sectional study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063088/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063088/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Frailty is a multidimensional geriatric syndrome, but practical clinical indicators that reflect vulnerability across graded frailty status in routine outpatient care remain insufficiently characterized. This exploratory cross-sectional study included 28 community-dwelling adults aged 65 years or older who attended outpatient clinics at a public hospital in Seoul, Republic of Korea. Frailty status was classified as robust, pre-frail, or frail using a modified Fried frailty phenotype. Physical...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1973,7 +1973,7 @@
     },
     {
       "title": "Comparing outcomes of trigger finger release in patients with and without diabetes mellitus: A meta-analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063071/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063071/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Diabetes increases the risk of developing trigger digits and may predispose patients to poorer clinical outcomes and a higher incidence of complications. However, conflicting results have been reported regarding surgical outcomes of trigger finger release in patients with diabetes compared to those without. We aimed to evaluate the association between diabetes and surgical outcomes of trigger finger release in terms of symptoms, complications, and patient satisfaction. A comprehensive search of...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -1989,7 +1989,7 @@
     },
     {
       "title": "Comparison of claims-defined postpartum depression after cesarean delivery under spinal versus epidural anesthesia: A nationwide propensity score-matched cohort study in Korea",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43063061/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43063061/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Postpartum depression (PPD) is a common and serious mental health disorder that adversely affects maternal well-being and early parenting. Although spinal and epidural anesthesia are widely used during cesarean section, their differential associations with PPD remain unclear. This nationwide retrospective cohort study used data from the Korean National Health Insurance Service between 2013 and 2022. Women who underwent cesarean section with either spinal or epidural anesthesia were included....",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2006,7 +2006,7 @@
     },
     {
       "title": "A unified approach to generalized entropy calibration with missing data",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43062474/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062474/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "We propose a unified framework for constructing calibration weights under missing at random by maximizing a generalized entropy function subject to carefully chosen calibration constraints. The key idea is to embed three components into calibration constraints: (i) an outcome regression (OR) calibration constraint, (ii) a debiasing constraint tied to inverse-probability weighting, and (iii) a Neyman-orthogonality constraint with respect to the estimated response propensity (RP) model. This...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2022,7 +2022,7 @@
     },
     {
       "title": "Association of the Hepatic Steatosis Index and Fatty Liver Index With Breast Cancer Risk: A Nationwide Cohort Study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43062332/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062332/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Background This study aimed to evaluate the association between the Hepatic Steatosis Index (HSI) and the Fatty Liver Index (FLI), both serving as surrogate indices of hepatic steatosis, and breast cancer risk among Korean women. Methods This nationwide cohort study included 3,629,375 women aged ≥40 years who participated in a national breast cancer screening program between 2009 and 2010. HSI and FLI were categorized as follows: HSI (<30, 30-35.9, ≥36) and FLI (<30, 30-59.9, ≥60). Combined HSI...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2039,7 +2039,7 @@
     },
     {
       "title": "Synergistically Driven Catalytic Activity in Amorphous-Crystalline CoCe-NiMo-Oxide Heterostructures for Efficient Ampere-Level Water Splitting",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43062247/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062247/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "To counter the environmental issues, recently hydrogen has emerged as a substitute candidate for fossil fuels which can produce via electrolysis of the water requiring efficient electrocatalyst. In this work, we synthesized amorphous-crystalline heterostructured CoCe-NiMo composite electrocatalysts via a single-step hydrothermal technique, and their interface-engineered electrochemical properties are investigated. CoCe-NiMo composite electrocatalyst shows enhanced HER activity with the lowest...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2056,7 +2056,7 @@
     },
     {
       "title": "Age-Stratified Sirolimus Trough Concentrations in Pediatric Vascular Malformations: A Real-World Retrospective Study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43062181/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062181/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Sustained long-term treatment continuity suggests that sirolimus was generally tolerated across pediatric age groups, although direct toxicity data were not systematically captured in this study. Younger patients exhibited greater pharmacokinetic variability, necessitating closer monitoring and cautious dose adjustment. Prospective PK-PD studies incorporating standardized clinical outcomes are needed to define optimal trough targets and individualized dosing strategies.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2072,7 +2072,7 @@
     },
     {
       "title": "Sustained reduction of blood culture contamination with a dedicated phlebotomy team",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43062030/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43062030/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Blood culture contamination and inadequate fill volumes compromise the diagnosis of bloodstream infections. While dedicated phlebotomy teams improve these metrics, evidence regarding long-term sustainability is scarce. We evaluated the impact of a 24/7 dedicated phlebotomy team on blood culture quality using a 9-year longitudinal data set. In this retrospective cohort study at a 1,300-bed tertiary hospital, we analyzed 505,752 adult blood culture sets collected between 2015 and 2023. Following...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2088,7 +2088,7 @@
     },
     {
       "title": "Sex-disaggregated pooled serious injury prevalence among school-going adolescents aged 13-17 years across 44 Global School-based Student Health Survey datasets, 2015-2023: a meta-analysis",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061588/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061588/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Across the included national GSHS surveys, serious injury was common among school-going adolescents aged 13-17 years, with a numerically higher pooled prevalence among male individuals. The findings support the need for context- and sex-specific injury prevention strategies in schools, including, where relevant, road safety measures, violence and bullying prevention, and stronger adolescent injury surveillance.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2105,7 +2105,7 @@
     },
     {
       "title": "The Role and Significance of Oxidative Stress in Inflammatory Periodontal Disease and Contemporary Approaches to Antioxidant Therapy",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061568/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061568/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Periodontitis is a chronic inflammatory disease driven by dysbiotic biofilms and an exaggerated host immune response, resulting in progressive destruction of periodontal tissues and tooth loss. Increasing evidence suggests that oxidative and nitrosative stress play central roles in disease progression by amplifying inflammation, promoting tissue damage, and impairing repair mechanisms. Reactive oxygen species (ROS) and reactive nitrogen species (RNS) derived from immune cells, mitochondria, and...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2121,7 +2121,7 @@
     },
     {
       "title": "Analytical Quality by Design Approach for the Optimization and Validation of a Robust RP-HPLC Method for Amoxicillin/Clavulanic Acid in a Finished Product",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061326/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061326/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "The amoxicillin/clavulanic acid combination, widely used in oral antibacterial therapy, requires analytical methods that are robust, reliable, and suitable for lifecycle management. In this study, an Analytical Quality by Design (AQbD) approach was implemented to develop and validate a robust reversed-phase high-performance liquid chromatography (RP-HPLC) method for the assay and content uniformity evaluation of Amoclan® 8:1 powder for oral suspension in sachets. Following the definition of the...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2138,7 +2138,7 @@
     },
     {
       "title": "Disease Modeling of Fabry Disease Cardiomyopathy using Base Editing-Established Isogenic iPSCs and Application of Prime Editing for Gene Correction",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061294/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061294/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Our results demonstrate that base-edited isogenic hiPSC-CMs provide a personalized platform for evaluating therapeutic efficacy without patient-derived samples. Moreover, genetic correction of GLA via prime editing highlights the potential of gene therapy for FD.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2154,7 +2154,7 @@
     },
     {
       "title": "Enhanced oral care interventions for preventing postoperative pneumonia in patients with esophageal cancer: A scoping review",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061249/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061249/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: As pneumonia is associated with poor clinical outcomes in patients with esophageal cancer, oral care may be considered an important preventive measure. Standardized oral care guidelines and consistent oral hygiene management should be implemented throughout the entire course of treatment.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2170,7 +2170,7 @@
     },
     {
       "title": "Spatial iris chromaticity disparities as phenotypic correlates of harm avoidance temperament in a Korean sample",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061136/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061136/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "INTRODUCTION: The human iris has a complex developmental origin, with neural crest-derived cells contributing to the formation of the iris stroma and its melanocyte population. Although ocular visual features have been linked to personality traits in Western cohorts, whether quantitative spatial chromaticity disparities in the iris are associated with temperament dimensions in Korean individuals remains understudied.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2187,7 +2187,7 @@
     },
     {
       "title": "Toward a Chronic VNS Strategy for Obesity Treatment: Pilot Study on a PFA-Based Neural Interface in Diet-Induced Obese Rabbits",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43061076/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43061076/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Subdiaphragmatic vagus nerve stimulation (VNS) is being explored as a device-based option for obesity, but translation is limited by the lack of standardized implantation workflows and cuff electrodes that remain stable at the cuff-nerve interface in a moist in vivo environment. Here, we aimed to establish a bench-to-in vivo feasibility platform that integrates a microfabrication-compatible perfluoroalkoxy alkane (PFA) film cuff with a reproducible rabbit surgical procedure and sham-controlled...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2203,7 +2203,7 @@
     },
     {
       "title": "Short-, medium- and long-term sequelae following COVID-19 infection: a network cohort study across multiple Asia-Pacific regions",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43060821/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43060821/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "BACKGROUND: Existing evidence on post-COVID-19 sequelae were largely derived from single-database studies among western population with limited generalizability. This multi-regional study aimed to characterize the risk of clinical sequelae across multiple organ systems over short- (0-90 days), medium- (91-365 days) and long-term (>365 days) phases following SARS-CoV-2 infection among the Asia-Pacific population.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2219,7 +2219,7 @@
     },
     {
       "title": "Electron-beam-induced sulfur vacancy engineering in hollow NiS<sub>2</sub> spheres for enhanced hydrogen evolution",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43060491/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43060491/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "The engineering of surface defects on non-precious metal electrocatalysts is an effective strategy for accelerating the sluggish kinetics of the hydrogen evolution reaction (HER). In this work, hollow NiS(2) spheres were synthesized by a hydrothermal method, followed by a subsequent rapid electron beam annealing (EBA) treatment to generate surface-localized sulfur vacancies while preserving the hollow architecture. X-ray photoelectron spectroscopy, electron energy-loss spectroscopy, and...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2237,7 +2237,7 @@
     },
     {
       "title": "Microscope-Integrated Quantitative Fluorescence Imaging for Assessing Crack Severity in Teeth",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059638/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059638/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The microscope-QLF hybrid technique showed a measurable and consistent relationship with QLF-D for quantitative fluorescence assessment. Although systematic differences were observed, the hybrid technique may serve as a supportive tool for assessing relative crack severity during endodontic procedures.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2253,7 +2253,7 @@
     },
     {
       "title": "Comparative Evaluation of Plaque Visualization-Based Digital Oral Health Education Media Among Pregnant Women in Vietnam: A Cross-Sectional Study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059620/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059620/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Perceived educational values and preferences varied by digital oral health education medium. Although video-based education was preferred for accessibility and initial understanding, plaque visualization-based mobile application education received higher ratings for supporting self-management and feedback. These findings suggest that a multimedia strategy integrating visual feedback technology with educational content may be effective for oral health promotion among pregnant women.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2269,7 +2269,7 @@
     },
     {
       "title": "Anti-Biofilm Effects of Alcohol-Free Mouthwash against <em>Streptococcus mutans</em>",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059615/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059615/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: LM exhibited the strongest antibiofilm potential among all tested mouthwashes. These findings indicate that alcohol-free EO rinses may be a clinically useful alternative for patients who cannot tolerate alcohol-containing products or long-term CHX use. Incorporating such formulations into daily oral hygiene routines may help prevent dental caries.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2285,7 +2285,7 @@
     },
     {
       "title": "Spatio-Temporal Analysis of Dental Healthcare Disparities in Korea, 1995∼2022",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059614/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059614/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The spatial distribution of dental healthcare institutions in Korea has exhibited a gradual trend toward greater equilibrium over time. Nevertheless, disparities in accessibility across age cohorts-most notably, the persistent imbalance affecting the elderly population-remain critical issues that require resolution. Relocation of spatial centers reflects patterns of regional economic growth and demographic concentration, thereby underscoring the need for targeted policy interventions...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2302,7 +2302,7 @@
     },
     {
       "title": "Post-Synthetic Ligand Modification of a MOF-74 Analogue via Criss-Cross Cycloaddition of Azine Linkages With Isocyanates for Toluene Removal",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059559/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059559/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Modifying the pore environment of MOF-74-type frameworks remains challenging because existing functionalization strategies often suffer from limited versatility, poor reproducibility, or compromised structural stability. Herein, we report a post-synthetic ligand modification strategy for Mg(2)(hob) (hob^(4-) = 5,5'-(hydrazine-1,2-diylidenebis(methanylylidene))bis(2-oxidobenzoate)), a MOF-74 analogue containing reactive azine linkages, through criss-cross cycloaddition with alkyl isocyanates of...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2319,7 +2319,7 @@
     },
     {
       "title": "Contralateral Preauricular Free Flap Reconstruction After Wide Excision of Recurrent Congenital Preauricular Sinus",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059484/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059484/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Recurrent congenital preauricular sinus after previous treatment may require wide excision of scarred and inflamed tissue, leaving a skin defect with underlying dead space. We reviewed 7 referred patients (mean age, 16.4 y) who underwent wide excision and immediate contralateral preauricular free flap reconstruction from 2021 to 2025. Flaps measured 1.0 to 1.2×1.6 to 2.0 cm and were anastomosed end-to-end to the ipsilateral superficial temporal vessels; mean operative time was 133 minutes. Six...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2335,7 +2335,7 @@
     },
     {
       "title": "Giant Pleomorphic Lipoma of the Occipital Scalp Mimicking Well-Differentiated Liposarcoma",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059477/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059477/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Pleomorphic lipoma is a rare, benign adipocytic tumor within the spindle cell lipoma spectrum that typically arises in the subcutaneous tissue of the posterior neck, shoulder, or upper back of older men. We report an exceptional case of giant pleomorphic lipoma arising in the occipital scalp of a 63-year-old woman, presenting as a slowly enlarging mass over ~3 years. Contrast-enhanced computed tomography revealed an 8.8×3.1 cm hypodense fatty mass with internal soft tissue opacities, suggestive...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2351,7 +2351,7 @@
     },
     {
       "title": "Subjective Cognitive Decline-Related Functional Limitations and Suicidal Ideation Among Korean Older Adults: The Indirect Role of Depressive Symptoms and the Moderating Role of Living Alone",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059452/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059452/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Using data from the 2024 Korea Community Health Survey, this study examined whether subjective cognitive decline (SCD)-related functional limitations were indirectly associated with suicidal ideation (SI) through depressive symptoms and whether this association differed by living arrangement among 26,552 adults reporting worsening confusion or memory loss. Moderated mediation analyses showed that functional limitations were associated with depressive symptoms and SI, but the SI association was...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2367,7 +2367,7 @@
     },
     {
       "title": "Maternal obesity and risk of congenital heart disease in offspring: a nationwide population-based study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059299/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059299/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Maternal obesity is a well-established risk factor for adverse pregnancy outcomes, but its association with congenital heart disease (CHD) in offspring remains uncertain, particularly across different body mass index (BMI) categories and CHD subtypes. Evidence from Asian populations is limited, despite distinct BMI distributions and classification criteria. We conducted a nationwide retrospective cohort study using the Korean National Health Information Database, including 779,091 live births...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2383,7 +2383,7 @@
     },
     {
       "title": "Enzymatic apoplast release enables rapid, reproducible isolation of plant small EVs from Arabidopsis young seedlings",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059294/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059294/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Recently, interest in plant extracellular vesicles (EVs) has grown alongside increasing demand for standardized isolation methods. In this study, we present the enzyme method (E method) for isolating small EVs from Arabidopsis seedlings to study EV biomarkers and functions. The E method highlights gentle cell wall digestion for rapid isolation and yields a concentration of small EVs within the 50-150 nm size range. Unlike commonly used EV isolation protocols that rely on adult leaf tissue, the E...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2399,7 +2399,7 @@
     },
     {
       "title": "Cost-utility analysis of HPV-cytology co-testing in the Korean national cervical cancer screening program",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059276/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059276/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: These findings suggest that biennial cytology remains economically efficient under current Korean conditions and that the addition of HPV testing would not be cost-effective at the present WTP threshold. Reconsideration may be warranted if HPV testing costs decrease substantially.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2415,7 +2415,7 @@
     },
     {
       "title": "Guideline-practice gap in molecular subtyping and lynch syndrome screening for endometrial cancer",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059274/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059274/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Molecular classification remains limited by factors that likely reflect financial and institutional barriers restricting POLE testing, although its clinical utility was demonstrated by de-escalation of radiotherapy in a POLE-mutated patient. Similarly, the absence of MLH1 methylation triage renders Lynch syndrome screening non-selective, lowering germline testing completion rates. Addressing these real-world implementation gaps is critical to optimizing risk stratification and...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2431,7 +2431,7 @@
     },
     {
       "title": "Twenty-five-year trends and projections of gynecologic cancer incidence in Korea: findings from cancer registry data",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059273/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059273/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: The burden of corpus uteri and ovarian cancers is expected to increase substantially, highlighting the need for effective prevention and management strategies.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2447,7 +2447,7 @@
     },
     {
       "title": "Intralesional triamcinolone plus gentamicin versus triamcinolone alone for keloid: a two-center cohort study",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059261/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059261/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSIONS: Adding gentamicin to intralesional TAC was associated with greater scar improvement, but treatment was confounded with site of care; randomized confirmation is required before clinical adoption.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2463,7 +2463,7 @@
     },
     {
       "title": "Nursing Workload Distribution and Its Association With Patient Safety Culture in Tertiary and General Hospitals: A Focus on Ward Models",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059211/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059211/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "CONCLUSION: Patient safety culture was associated with certain hospital/ward types and perceived staffing adequacy, whereas no clear association was observed with self-reported nursing-time allocation. These findings suggest that patient safety culture extends beyond nursing-time distribution alone.",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
@@ -2479,7 +2479,7 @@
     },
     {
       "title": "Artificial intelligence in periodontitis: current evidence, clinical limitations, and research priorities",
-      "link": "https://pubmed.ncbi.nlm.nih.gov/43059187/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121102907&v=2.20.1",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/43059187/?utm_source=Other&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1bo4uOs-bB_ZLOeoRMDuMyKrqOCTTJrR8i4c8aBDtpAcbJ09ch&fc=20250822163228&ff=20261121184426&v=2.20.1",
       "description": "Applications of artificial intelligence (AI) in periodontology are expanding faster than the evidence supporting their clinical use. Beyond radiographic bone-loss detection and quantification, these applications include oral-image screening, risk prediction using electronic dental records, longitudinal progression modeling, treatment-response prediction, and models based on biomarkers, the microbiome, or gene expression. Drawing on structured searches of PubMed/MEDLINE, Scopus, and Web of...",
       "pubDate": "2026-11-20T11:00:00.000Z",
       "institutions": [
