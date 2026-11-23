@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-11-22T15:30:20.735Z",
+  "lastUpdate": "2026-11-23T00:08:04.927Z",
   "totalItems": 150,
-  "totalArchived": 142755,
-  "newPapersAdded": 156,
+  "totalArchived": 142772,
+  "newPapersAdded": 17,
   "institutionBreakdown": {
     "KAIST": 5,
-    "SNU": 28,
+    "SNU": 32,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 0,
     "Korea University": 46,
-    "IBS": 82,
+    "IBS": 77,
     "UNIST": 0,
     "Hanyang University": 4,
     "KIST": 3,
@@ -19,13 +19,14 @@
     "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 89,
-    "Biomedical": 27,
-    "Neuroscience": 5,
-    "Materials Science": 13,
-    "Cancer Research": 16
+    "Multidisciplinary": 86,
+    "Neuroscience": 6,
+    "Biomedical": 28,
+    "Cancer Research": 16,
+    "Computer Science": 1,
+    "Materials Science": 13
   },
-  "multiInstitutional": 18,
+  "multiInstitutional": 17,
   "institutions": [
     "KAIST",
     "SNU",
@@ -43,10 +44,9 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Exploring the Characteristics of Individuals Taking Sleep Medications Grouped According to the Multimodal Optimized Treatment for Insomnia Framework (MOTIF)",
+    "title": "Voluntary Insurance, Social Security Enrollment, and Financial Outcomes Among Adults in Rural Thailand: A Controlled Before-and-after Study Using Panel Data",
     "date": "2026-11-22T11:00:00.000Z",
     "institutions": [
-      "IBS",
       "SNU"
     ]
   }
