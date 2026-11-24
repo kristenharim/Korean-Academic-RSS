@@ -1,32 +1,31 @@
 {
-  "lastUpdate": "2026-11-23T19:23:58.075Z",
+  "lastUpdate": "2026-11-24T04:15:07.132Z",
   "totalItems": 150,
-  "totalArchived": 142976,
-  "newPapersAdded": 204,
+  "totalArchived": 143100,
+  "newPapersAdded": 124,
   "institutionBreakdown": {
-    "KAIST": 10,
-    "SNU": 46,
+    "KAIST": 11,
+    "SNU": 56,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 2,
-    "Korea University": 18,
-    "IBS": 99,
+    "Korea University": 41,
+    "IBS": 61,
     "UNIST": 1,
     "Hanyang University": 7,
     "KIST": 1,
-    "GIST": 5,
+    "GIST": 7,
     "Kyung Hee University": 5,
-    "Pusan National University": 1
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 87,
-    "Biomedical": 38,
-    "Materials Science": 12,
-    "Cancer Research": 6,
-    "Neuroscience": 3,
-    "Computer Science": 4
+    "Multidisciplinary": 84,
+    "Biomedical": 37,
+    "Materials Science": 8,
+    "Cancer Research": 13,
+    "Neuroscience": 8
   },
-  "multiInstitutional": 29,
+  "multiInstitutional": 31,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,10 +43,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Aligning Molecules and Fragments in a Shared Embedding Space for Property-Aware Fragment Selection",
+    "title": "Cybersickness and Its Relationship With Vestibulo-Ocular Reflex and Ocular Motor Functions: Prospective Single-Arm Experimental Study",
     "date": "2026-11-23T11:00:00.000Z",
     "institutions": [
       "KAIST",
+      "Korea University",
       "SNU"
     ]
   }
