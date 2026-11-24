@@ -1,31 +1,32 @@
 {
-  "lastUpdate": "2026-11-24T04:15:07.132Z",
+  "lastUpdate": "2026-11-24T18:59:56.429Z",
   "totalItems": 150,
-  "totalArchived": 143100,
-  "newPapersAdded": 124,
+  "totalArchived": 143324,
+  "newPapersAdded": 224,
   "institutionBreakdown": {
-    "KAIST": 11,
-    "SNU": 56,
+    "KAIST": 6,
+    "SNU": 37,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 2,
-    "Korea University": 41,
-    "IBS": 61,
-    "UNIST": 1,
-    "Hanyang University": 7,
-    "KIST": 1,
-    "GIST": 7,
-    "Kyung Hee University": 5,
-    "Pusan National University": 2
+    "POSTECH": 3,
+    "Korea University": 21,
+    "IBS": 92,
+    "UNIST": 2,
+    "Hanyang University": 3,
+    "KIST": 2,
+    "GIST": 4,
+    "Kyung Hee University": 2,
+    "Pusan National University": 1
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 84,
-    "Biomedical": 37,
-    "Materials Science": 8,
-    "Cancer Research": 13,
-    "Neuroscience": 8
+    "Multidisciplinary": 93,
+    "Cancer Research": 10,
+    "Materials Science": 20,
+    "Biomedical": 18,
+    "Computer Science": 4,
+    "Neuroscience": 5
   },
-  "multiInstitutional": 31,
+  "multiInstitutional": 17,
   "institutions": [
     "KAIST",
     "SNU",
@@ -43,12 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Cybersickness and Its Relationship With Vestibulo-Ocular Reflex and Ocular Motor Functions: Prospective Single-Arm Experimental Study",
-    "date": "2026-11-23T11:00:00.000Z",
+    "title": "Ultrafast Imaging of Dynamic Disorder in Superionic Chalcocite",
+    "date": "2026-11-24T11:00:00.000Z",
     "institutions": [
       "KAIST",
-      "Korea University",
-      "SNU"
+      "POSTECH",
+      "SNU",
+      "UNIST"
     ]
   }
 }
