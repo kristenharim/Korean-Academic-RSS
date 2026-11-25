@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-25T02:59:12.926Z",
+  "lastUpdate": "2026-11-25T18:04:31.677Z",
   "totalItems": 150,
-  "totalArchived": 143433,
-  "newPapersAdded": 109,
+  "totalArchived": 143709,
+  "newPapersAdded": 276,
   "institutionBreakdown": {
-    "KAIST": 6,
-    "SNU": 44,
+    "KAIST": 9,
+    "SNU": 71,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 34,
-    "IBS": 76,
-    "UNIST": 3,
-    "Hanyang University": 4,
-    "KIST": 1,
-    "GIST": 4,
-    "Kyung Hee University": 2,
-    "Pusan National University": 1
+    "POSTECH": 1,
+    "Korea University": 45,
+    "IBS": 45,
+    "UNIST": 2,
+    "Hanyang University": 5,
+    "KIST": 4,
+    "GIST": 2,
+    "Kyung Hee University": 7,
+    "Pusan National University": 4
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 91,
-    "Cancer Research": 12,
-    "Materials Science": 11,
-    "Biomedical": 28,
-    "Computer Science": 4,
-    "Neuroscience": 4
+    "Biomedical": 32,
+    "Multidisciplinary": 84,
+    "Neuroscience": 7,
+    "Computer Science": 2,
+    "Cancer Research": 16,
+    "Materials Science": 9
   },
-  "multiInstitutional": 21,
+  "multiInstitutional": 31,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,13 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Ultrafast Imaging of Dynamic Disorder in Superionic Chalcocite",
-    "date": "2026-11-24T11:00:00.000Z",
+    "title": "Benchmarking Structural Models of α-Conotoxin-Nicotinic Acetylcholine Receptor Complexes: Apo-Conformer Selection, Interface Information, and Deep-Learning Co-Folding",
+    "date": "2026-11-25T11:00:00.000Z",
     "institutions": [
-      "KAIST",
-      "POSTECH",
-      "SNU",
-      "UNIST"
+      "IBS",
+      "KAIST"
     ]
   }
 }
