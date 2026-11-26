@@ -1,30 +1,30 @@
 {
-  "lastUpdate": "2026-11-25T18:04:31.677Z",
+  "lastUpdate": "2026-11-26T02:07:07.887Z",
   "totalItems": 150,
-  "totalArchived": 143709,
-  "newPapersAdded": 276,
+  "totalArchived": 143837,
+  "newPapersAdded": 128,
   "institutionBreakdown": {
-    "KAIST": 9,
-    "SNU": 71,
+    "KAIST": 10,
+    "SNU": 85,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 1,
-    "Korea University": 45,
-    "IBS": 45,
-    "UNIST": 2,
+    "POSTECH": 2,
+    "Korea University": 62,
+    "IBS": 10,
+    "UNIST": 3,
     "Hanyang University": 5,
     "KIST": 4,
     "GIST": 2,
     "Kyung Hee University": 7,
-    "Pusan National University": 4
+    "Pusan National University": 5
   },
   "subjectAreaBreakdown": {
-    "Biomedical": 32,
-    "Multidisciplinary": 84,
-    "Neuroscience": 7,
-    "Computer Science": 2,
-    "Cancer Research": 16,
-    "Materials Science": 9
+    "Materials Science": 10,
+    "Biomedical": 30,
+    "Multidisciplinary": 75,
+    "Neuroscience": 11,
+    "Computer Science": 4,
+    "Cancer Research": 20
   },
   "multiInstitutional": 31,
   "institutions": [
@@ -44,11 +44,12 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Benchmarking Structural Models of α-Conotoxin-Nicotinic Acetylcholine Receptor Complexes: Apo-Conformer Selection, Interface Information, and Deep-Learning Co-Folding",
+    "title": "Spike Sintering Tailored to Scrap Black Mass with a Low-Defect Crystal Structure for Direct Single-Crystal Upcycling of Layered Cathode Materials",
     "date": "2026-11-25T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "Pusan National University"
     ]
   }
 }
