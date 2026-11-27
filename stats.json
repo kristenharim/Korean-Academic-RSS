@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-27T02:05:51.261Z",
+  "lastUpdate": "2026-11-27T17:34:40.980Z",
   "totalItems": 150,
-  "totalArchived": 144301,
-  "newPapersAdded": 86,
+  "totalArchived": 144521,
+  "newPapersAdded": 220,
   "institutionBreakdown": {
-    "KAIST": 35,
-    "SNU": 100,
+    "KAIST": 8,
+    "SNU": 32,
     "Yonsei University": 0,
     "SKKU": 0,
-    "POSTECH": 3,
-    "Korea University": 39,
-    "IBS": 3,
-    "UNIST": 1,
-    "Hanyang University": 9,
-    "KIST": 5,
-    "GIST": 5,
-    "Kyung Hee University": 8,
-    "Pusan National University": 6
+    "POSTECH": 4,
+    "Korea University": 26,
+    "IBS": 94,
+    "UNIST": 2,
+    "Hanyang University": 3,
+    "KIST": 1,
+    "GIST": 3,
+    "Kyung Hee University": 2,
+    "Pusan National University": 2
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 72,
-    "Biomedical": 37,
-    "Cancer Research": 16,
-    "Neuroscience": 4,
-    "Materials Science": 18,
-    "Computer Science": 3
+    "Multidisciplinary": 81,
+    "Computer Science": 2,
+    "Materials Science": 11,
+    "Cancer Research": 17,
+    "Biomedical": 34,
+    "Neuroscience": 5
   },
-  "multiInstitutional": 47,
+  "multiInstitutional": 14,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,11 +44,13 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Sebocyte Dysfunction in Skin Health and Disease: Physiological Regulation, Pharmacological Modulation, and Therapeutic Targeting",
-    "date": "2026-11-26T11:00:00.000Z",
+    "title": "Precision readout of a nanoscale single-electron pump using a superconducting current comparator and a quantum Hall resistance array",
+    "date": "2026-11-27T11:00:00.000Z",
     "institutions": [
       "IBS",
-      "KAIST"
+      "KAIST",
+      "KIST",
+      "SNU"
     ]
   }
 }
