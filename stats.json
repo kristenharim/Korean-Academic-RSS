@@ -1,32 +1,32 @@
 {
-  "lastUpdate": "2026-11-28T01:51:30.569Z",
+  "lastUpdate": "2026-11-28T16:18:33.367Z",
   "totalItems": 150,
-  "totalArchived": 144601,
-  "newPapersAdded": 80,
+  "totalArchived": 144757,
+  "newPapersAdded": 156,
   "institutionBreakdown": {
-    "KAIST": 8,
-    "SNU": 38,
+    "KAIST": 16,
+    "SNU": 42,
     "Yonsei University": 0,
     "SKKU": 0,
     "POSTECH": 4,
-    "Korea University": 37,
-    "IBS": 75,
-    "UNIST": 2,
-    "Hanyang University": 3,
-    "KIST": 1,
+    "Korea University": 10,
+    "IBS": 100,
+    "UNIST": 1,
+    "Hanyang University": 4,
+    "KIST": 3,
     "GIST": 3,
-    "Kyung Hee University": 2,
-    "Pusan National University": 2
+    "Kyung Hee University": 0,
+    "Pusan National University": 3
   },
   "subjectAreaBreakdown": {
-    "Multidisciplinary": 74,
-    "Computer Science": 2,
-    "Materials Science": 13,
-    "Cancer Research": 23,
-    "Biomedical": 32,
-    "Neuroscience": 6
+    "Multidisciplinary": 62,
+    "Computer Science": 10,
+    "Biomedical": 40,
+    "Neuroscience": 13,
+    "Cancer Research": 19,
+    "Materials Science": 6
   },
-  "multiInstitutional": 13,
+  "multiInstitutional": 23,
   "institutions": [
     "KAIST",
     "SNU",
@@ -44,12 +44,11 @@
   ],
   "mlClassificationEnabled": false,
   "latestItem": {
-    "title": "Precision readout of a nanoscale single-electron pump using a superconducting current comparator and a quantum Hall resistance array",
-    "date": "2026-11-27T11:00:00.000Z",
+    "title": "RIG-I-MAVS-IFN-NOXA axis coordinates antiviral innate response and apoptosis during parahenipavirus infection",
+    "date": "2026-11-28T11:00:00.000Z",
     "institutions": [
-      "KAIST",
-      "KIST",
-      "SNU"
+      "IBS",
+      "KAIST"
     ]
   }
 }
